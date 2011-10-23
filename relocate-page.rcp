@@ -1,0 +1,2 @@
+
+(:name relocate-page :description "Move a page, adjusting (local) URLs in it" :type emacsmirror :pkgname "relocate-page" :required ((("cl" cl) ("page-attributes" page-attributes) ("webmaster-macros" webmaster-macros))) :depends (webmaster-macros page-attributes))

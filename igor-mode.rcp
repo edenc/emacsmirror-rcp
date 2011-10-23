@@ -1,0 +1,2 @@
+
+(:name igor-mode :description "Major mode for editing Igor Pro procedure files" :type emacsmirror :pkgname "igor-mode" :required nil)

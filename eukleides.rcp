@@ -1,0 +1,2 @@
+
+(:name eukleides :description "Major mode to edit eukleides files" :type emacsmirror :pkgname "eukleides" :required ((("cl" cl) ("compile" compile) ("easymenu" easymenu) ("emacs-core" derived) ("imenu" imenu) ("info-look" info-look) ("mode-compile" mode-compile) (nil completer))))

@@ -1,0 +1,2 @@
+
+(:name ascii-display :description "Highlight special ASCII characters in another buffer" :type emacsmirror :pkgname "ascii-display" :required nil)

@@ -1,0 +1,2 @@
+
+(:name browse-help :description nil :type emacsmirror :pkgname "browse-help" :required ((("browse-url" browse-url) ("cl" cl) ("custom" cus-edit))))

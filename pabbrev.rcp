@@ -1,0 +1,2 @@
+
+(:name pabbrev :description "Predictive abbreviation expansion" :type emacsmirror :pkgname "pabbrev" :required ((("cedet" working) ("cl" cl) ("emacs-core" overlay) ("thingatpt" thingatpt))) :depends (cedet))

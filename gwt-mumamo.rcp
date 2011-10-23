@@ -1,0 +1,2 @@
+
+(:name gwt-mumamo :description "Multi major modes for Google Web Toolkit code" :type emacsmirror :pkgname "gwt-mumamo" :required nil)

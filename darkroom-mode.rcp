@@ -1,0 +1,2 @@
+
+(:name darkroom-mode :description nil :type emacsmirror :pkgname "darkroom-mode" :required ((("cl" cl) (nil w32-fullscreen))))

@@ -1,0 +1,2 @@
+
+(:name factor-mode :description "Mode for editing Factor source" :type emacsmirror :pkgname "factor-mode" :required ((("advice" advice) ("button" button) ("cl" cl) ("comint" comint) ("emacs-core" font-lock) ("etags" etags) ("ring" ring) ("thingatpt" thingatpt))))

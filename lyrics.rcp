@@ -1,0 +1,2 @@
+
+(:name lyrics :description nil :type emacsmirror :pkgname "lyrics" :required ((("mingus" libmpdee) ("url" url url-http))) :depends (mingus))

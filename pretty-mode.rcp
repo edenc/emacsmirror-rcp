@@ -1,0 +1,2 @@
+
+(:name pretty-mode :description "Redisplay parts of the buffer as pretty symbols" :type emacsmirror :pkgname "pretty-mode" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name bibus :description nil :type emacsmirror :pkgname "bibus" :required ((("cl" cl) ("mysql" mysql) ("tree-widget" tree-widget))))

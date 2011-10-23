@@ -1,0 +1,2 @@
+
+(:name gtk-perl :description "A minor mode to help write gtk-perl code" :type emacsmirror :pkgname "gtk-perl" :required ((("cl" cl) ("complete" complete) ("cperl-mode" cperl-mode))) :depends (cperl-mode))

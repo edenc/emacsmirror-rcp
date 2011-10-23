@@ -1,0 +1,2 @@
+
+(:name mailx :description "A front-end to mailx" :type emacsmirror :pkgname "mailx" :required ((("emacs-core" font-lock) ("mail-utils" mail-utils))))

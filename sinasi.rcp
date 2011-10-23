@@ -1,0 +1,2 @@
+
+(:name sinasi :description "Sinasi Is Not A SproutCore IDE" :type emacsmirror :pkgname "sinasi" :required ((("cl" cl) ("jump" jump))) :depends (jump))

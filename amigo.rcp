@@ -1,0 +1,2 @@
+
+(:name amigo :description "Interface with friendfeed.com" :type emacsmirror :pkgname "amigo" :required ((("url" url url-http))))

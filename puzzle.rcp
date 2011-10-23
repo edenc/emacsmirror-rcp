@@ -1,0 +1,2 @@
+
+(:name puzzle :description "Slide puzzle for Emacs" :type emacsmirror :pkgname "puzzle" :required nil)

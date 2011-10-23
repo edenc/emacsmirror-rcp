@@ -1,0 +1,2 @@
+
+(:name centering :description "Keep the cursor in the centre at all times. " :type emacsmirror :pkgname "centering" :required nil)

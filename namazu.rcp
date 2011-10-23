@@ -1,0 +1,2 @@
+
+(:name namazu :description nil :type emacsmirror :pkgname "namazu" :required ((("browse-url" browse-url) ("custom" custom) ("emacs-core" jka-compr) ("man" man) ("mew" mew))) :depends (mew))

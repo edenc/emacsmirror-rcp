@@ -1,0 +1,2 @@
+
+(:name sendmail-mode :description "Major mode for editing Sendmail configuration files" :type emacsmirror :pkgname "sendmail-mode" :required ((("regexp-opt" regexp-opt))))

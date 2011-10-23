@@ -1,0 +1,2 @@
+
+(:name devkitemacs :description "Helper functions for working with the devkitpro package (NDS and PSP development)" :type emacsmirror :pkgname "devkitemacs" :required nil)

@@ -1,0 +1,2 @@
+
+(:name copy-directory :description "Copy a directory" :type emacsmirror :pkgname "copy-directory" :required nil)

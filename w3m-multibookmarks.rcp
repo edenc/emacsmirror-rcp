@@ -1,0 +1,2 @@
+
+(:name w3m-multibookmarks :description "Add lynx-style multi-bookmarks and functionality" :type emacsmirror :pkgname "w3m-multibookmarks" :required ((("cl" cl) ("w3m" w3m w3m-util))) :depends (w3m))

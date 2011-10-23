@@ -1,0 +1,2 @@
+
+(:name gentext-html :description nil :type emacsmirror :pkgname "gentext-html" :required ((("gentext-models" gentext-models) ("html-helper-mode" html-helper-mode) (nil text-sentences))) :depends (html-helper-mode gentext-models))

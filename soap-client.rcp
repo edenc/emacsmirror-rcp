@@ -1,0 +1,2 @@
+
+(:name soap-client :description "Access SOAP web services from Emacs" :type emacsmirror :pkgname "soap-client" :required ((("cl" cl) ("emacs-core" warnings) ("gnus" mm-decode) ("url" url url-http url-util) ("xml" xml))) :depends (gnus))

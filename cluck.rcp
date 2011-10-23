@@ -1,0 +1,2 @@
+
+(:name cluck :description "Enhanced support for Chicken Scheming" :type emacsmirror :pkgname "cluck" :required ((("advice" advice) ("browse-url" browse-url) ("cmuscheme" cmuscheme) ("compile" compile) ("custom" custom) ("easymenu" easymenu) ("emacs-core" font-lock) ("scheme" scheme) ("thingatpt" thingatpt))))

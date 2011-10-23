@@ -1,0 +1,2 @@
+
+(:name ace-jump-mode :description "A quick cursor location minor mode for emacs" :type emacsmirror :pkgname "ace-jump-mode" :required ((("cl" cl))))

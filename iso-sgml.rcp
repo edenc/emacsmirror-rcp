@@ -1,0 +1,2 @@
+
+(:name iso-sgml :description "Display SGML entity references as ISO 8859-1 characters" :type emacsmirror :pkgname "iso-sgml" :required nil)

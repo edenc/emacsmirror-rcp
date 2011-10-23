@@ -1,0 +1,2 @@
+
+(:name ebm :description nil :type emacsmirror :pkgname "ebm" :required ((("cl" cl) ("gnus" parse-time) ("url" url))) :depends (gnus))

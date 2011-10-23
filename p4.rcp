@@ -1,0 +1,2 @@
+
+(:name p4 :description "Simple Perforce-Emacs Integration" :type emacsmirror :pkgname "p4" :required ((("browse-url" browse-url) ("dired" dired) ("easymenu" easymenu) ("ediff" ediff) ("timer" timer))))

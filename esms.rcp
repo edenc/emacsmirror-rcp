@@ -1,0 +1,2 @@
+
+(:name esms :description "Send SMS messages directly from XEmacs" :type emacsmirror :pkgname "esms" :required nil)

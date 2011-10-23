@@ -1,0 +1,2 @@
+
+(:name arscanner :description nil :type emacsmirror :pkgname "arscanner" :required ((("outline" outline))))

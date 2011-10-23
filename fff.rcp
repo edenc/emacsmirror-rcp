@@ -1,0 +1,2 @@
+
+(:name fff :description "Fast file finder" :type emacsmirror :pkgname "fff" :required nil)

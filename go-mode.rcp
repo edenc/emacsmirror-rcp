@@ -1,0 +1,2 @@
+
+(:name go-mode :description "Mode for playing, browsing, and editing go games" :type emacsmirror :pkgname "go-mode" :required ((("cl" cl) ("comint" comint) (nil sgf-board sgf-gnugo sgf-gtp sgf-rw sgf-sgf))))

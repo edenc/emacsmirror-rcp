@@ -1,0 +1,2 @@
+
+(:name tdtd :description "Tony's DTD mode" :type emacsmirror :pkgname "tdtd" :required ((("cl" cl) ("emacs-core" font-lock) ("etags" etags) ("imenu" imenu) ("reporter" reporter) ("sendmail" sendmail) (nil tdtd-font))))

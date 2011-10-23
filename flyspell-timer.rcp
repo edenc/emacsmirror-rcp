@@ -1,0 +1,2 @@
+
+(:name flyspell-timer :description "Check Spelling in the idle cycle" :type emacsmirror :pkgname "flyspell-timer" :required nil)

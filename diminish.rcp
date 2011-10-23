@@ -1,0 +1,2 @@
+
+(:name diminish :description "Diminished modes are minor modes with no modeline display" :type emacsmirror :pkgname "diminish" :required ((("cl" cl))))

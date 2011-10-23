@@ -1,0 +1,2 @@
+
+(:name cscope :description "Interface to cscope browser" :type emacsmirror :pkgname "cscope" :required nil)

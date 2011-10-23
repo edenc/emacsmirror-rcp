@@ -1,0 +1,2 @@
+
+(:name sysadmin :description "Useful stuff for running system" :type emacsmirror :pkgname "sysadmin" :required nil)

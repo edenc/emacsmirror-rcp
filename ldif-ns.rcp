@@ -1,0 +1,2 @@
+
+(:name ldif-ns :description "Convert name service records to LDIF records" :type emacsmirror :pkgname "ldif-ns" :required nil)

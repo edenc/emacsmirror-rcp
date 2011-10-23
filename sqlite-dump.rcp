@@ -1,0 +1,2 @@
+
+(:name sqlite-dump :description "View dump of sqlite database file" :type emacsmirror :pkgname "sqlite-dump" :required ((("advice" advice) ("apel" poe) ("cl" cl))) :depends (apel))

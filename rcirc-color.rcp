@@ -1,0 +1,2 @@
+
+(:name rcirc-color :description "Color nicks" :type emacsmirror :pkgname "rcirc-color" :required ((("rcirc" rcirc))))

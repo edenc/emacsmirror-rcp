@@ -1,0 +1,2 @@
+
+(:name dir-shell :description "Shifts shell buffers working directory" :type emacsmirror :pkgname "dir-shell" :required ((("shell" shell))))

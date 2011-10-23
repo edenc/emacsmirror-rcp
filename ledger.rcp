@@ -1,0 +1,2 @@
+
+(:name ledger :description "Helper code for use with the \"ledger\" command-line tool" :type emacsmirror :pkgname "ledger" :required ((("cl" cl) ("eshell" esh-arg esh-util) ("pcomplete" pcomplete) ("rx" rx))) :depends (eshell))

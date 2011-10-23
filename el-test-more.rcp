@@ -1,0 +1,2 @@
+
+(:name el-test-more :description "Simple unit test framework for emacs lisp" :type emacsmirror :pkgname "el-test-more" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name bm-evernote :description "Bridging between bookmark and evernote-mode" :type emacsmirror :pkgname "bm-evernote" :required (((nil evernote-mode))))

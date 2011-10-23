@@ -1,0 +1,2 @@
+
+(:name pastebox :description "Emacs lisp lib for pasting to PasteBox-powered bins" :type emacsmirror :pkgname "pastebox" :required ((("url" url))))

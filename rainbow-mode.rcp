@@ -1,0 +1,2 @@
+
+(:name rainbow-mode :description "Displays color names with colored background" :type emacsmirror :pkgname "rainbow-mode" :required ((("cl" cl) ("emacs-core" faces) ("regexp-opt" regexp-opt))))

@@ -1,0 +1,2 @@
+
+(:name parenface :description "Provide a face for parens in lisp modes" :type emacsmirror :pkgname "parenface" :required nil)

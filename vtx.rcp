@@ -1,0 +1,2 @@
+
+(:name vtx :description "A package for reading videotext" :type emacsmirror :pkgname "vtx" :required ((("cl" cl) ("term" term))))

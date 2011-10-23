@@ -1,0 +1,2 @@
+
+(:name ansi :description "Turn string into ansi strings" :type emacsmirror :pkgname "ansi" :required ((("cl" cl))))

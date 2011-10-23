@@ -1,0 +1,2 @@
+
+(:name mingus :description "Time-stamp: <2011-02-04 10:12:13 sharik>" :type emacsmirror :pkgname "mingus" :required ((("cl" cl) ("custom" custom) ("dired" dired) ("edebug" edebug) ("gnus" time-date) ("reporter" reporter) ("sendmail" sendmail) ("thingatpt" thingatpt) ("url" url) ("widget" wid-edit) (nil taggit))) :depends (gnus))

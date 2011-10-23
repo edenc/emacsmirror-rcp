@@ -1,0 +1,2 @@
+
+(:name gh :description "Main entry point for gh.el library" :type emacsmirror :pkgname "gh" :required ((("cedet" eieio) ("cl" cl) ("json" json))) :depends (cedet))

@@ -1,0 +1,2 @@
+
+(:name anything-etags+ :description nil :type emacsmirror :pkgname "anything-etags+" :required ((("anything" anything) ("custom" custom) ("etags" etags)) (("anything" anything-config anything-match-plugin))) :depends (anything))

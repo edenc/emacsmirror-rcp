@@ -1,0 +1,2 @@
+
+(:name unicad :description "An elisp port of Mozilla Universal Charset Auto Detector" :type emacsmirror :pkgname "unicad" :required ((("cl" cl))))

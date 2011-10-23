@@ -1,0 +1,2 @@
+
+(:name abbrev-complete :description "Abbrev mode completion function" :type emacsmirror :pkgname "abbrev-complete" :required ((("dabbrev" dabbrev) ("hippie-exp" hippie-exp))))

@@ -1,0 +1,2 @@
+
+(:name durendal :description "A bucket of tricks for Clojure and Slime" :type emacsmirror :pkgname "durendal" :required ((("clojure-mode" clojure-mode) ("paredit" paredit) ("slime" slime slime-repl))) :depends (slime paredit clojure-mode))

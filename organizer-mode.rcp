@@ -1,0 +1,2 @@
+
+(:name organizer-mode :description "Major mode for editing organizer list files" :type emacsmirror :pkgname "organizer-mode" :required ((("bbdb" bbdb) ("calendar" calendar diary-lib) ("dired" dired) ("ffap" ffap) ("gnus" gnus) ("todo-mode" todo-mode) ("vm" vm) (nil dired-shell))) :depends (vm gnus bbdb))

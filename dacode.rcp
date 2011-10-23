@@ -1,0 +1,2 @@
+
+(:name dacode :description "Lecture de news dacode" :type emacsmirror :pkgname "dacode" :required (nil (("easymenu" easymenu))))

@@ -1,0 +1,2 @@
+
+(:name all :description "Edit all lines matching a given regexp" :type emacsmirror :pkgname "all" :required nil)

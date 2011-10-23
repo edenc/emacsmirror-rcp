@@ -1,0 +1,2 @@
+
+(:name el-get :description "Manage the external elisp bits and pieces you depend upon" :type emacsmirror :pkgname "el-get" :required ((("cl" cl) ("dired" dired) ("emacs-core" autoload bytecomp simple) ("help-mode" help-mode) ("info" info) ("notify" notify)) ((nil notifications package))))

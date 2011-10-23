@@ -1,0 +1,2 @@
+
+(:name nexus :description "REST Client for Nexus Maven Repository servers" :type emacsmirror :pkgname "nexus" :required ((("gnus" mm-url) ("xml" xml))) :depends (gnus))

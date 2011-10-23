@@ -1,0 +1,2 @@
+
+(:name term-toggle :description "Toggle to and from the *terminal* buffer" :type emacsmirror :pkgname "term-toggle" :required ((("term" term))))

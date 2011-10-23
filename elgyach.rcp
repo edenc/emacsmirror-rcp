@@ -1,0 +1,2 @@
+
+(:name elgyach :description "Emacs interface to gyach" :type emacsmirror :pkgname "elgyach" :required ((("cl" cl) ("comint" comint) ("gnus" time-date) ("hippie-exp" hippie-exp) ("mpg123" mpg123))) :depends (mpg123 gnus))

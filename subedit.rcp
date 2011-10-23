@@ -1,0 +1,2 @@
+
+(:name subedit :description "Edit part of a buffer in a new buffer" :type emacsmirror :pkgname "subedit" :required nil)

@@ -1,0 +1,2 @@
+
+(:name nopaste :description "Interface to nopaste.pl" :type emacsmirror :pkgname "nopaste" :required nil)

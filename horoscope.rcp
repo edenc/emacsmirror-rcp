@@ -1,0 +1,2 @@
+
+(:name horoscope :description "Generate horoscopes" :type emacsmirror :pkgname "horoscope" :required nil)

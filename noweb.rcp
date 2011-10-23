@@ -1,0 +1,2 @@
+
+(:name noweb :description "Noweb mode for literate programming" :type emacsmirror :pkgname "noweb" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("multi-mode" multi-mode))) :depends (multi-mode))

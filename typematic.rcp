@@ -1,0 +1,2 @@
+
+(:name typematic :description "Optimize 'universal-argument for typematic keyboards" :type emacsmirror :pkgname "typematic" :required nil)

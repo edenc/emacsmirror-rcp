@@ -1,0 +1,2 @@
+
+(:name color-theme-arjen :description "Arjen Wiersma's preferred color theme" :type emacsmirror :pkgname "color-theme-arjen" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

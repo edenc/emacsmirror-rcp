@@ -1,0 +1,2 @@
+
+(:name find-lib :description "Find files in Emacs' `load-path' with completion" :type emacsmirror :pkgname "find-lib" :required nil)

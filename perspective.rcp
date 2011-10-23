@@ -1,0 +1,2 @@
+
+(:name perspective :description "Switch between named \"perspectives\" of the editor" :type emacsmirror :pkgname "perspective" :required ((("cl" cl))))

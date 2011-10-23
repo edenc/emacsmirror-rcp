@@ -1,0 +1,2 @@
+
+(:name hexview-mode :description "A simple & fast hexadecimal file viewer" :type emacsmirror :pkgname "hexview-mode" :required ((("cl" cl))))

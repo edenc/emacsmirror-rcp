@@ -1,0 +1,2 @@
+
+(:name tmenu :description "A text based interface to the menubar" :type emacsmirror :pkgname "tmenu" :required nil)

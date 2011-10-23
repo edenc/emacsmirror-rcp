@@ -1,0 +1,2 @@
+
+(:name grab-and-drag :description "Scroll a window by mouse dragging" :type emacsmirror :pkgname "grab-and-drag" :required nil)

@@ -1,0 +1,2 @@
+
+(:name c-comment-edit :description "Edit C comments" :type emacsmirror :pkgname "c-comment-edit" :required nil)

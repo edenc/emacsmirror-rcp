@@ -1,0 +1,2 @@
+
+(:name find-commands :description "Find functions matching a pattern, that have interactive definitions" :type emacsmirror :pkgname "find-commands" :required nil)

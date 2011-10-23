@@ -1,0 +1,2 @@
+
+(:name eval-expr :description "Enhanced eval-expression command" :type emacsmirror :pkgname "eval-expr" :required nil)

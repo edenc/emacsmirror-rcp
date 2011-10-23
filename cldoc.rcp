@@ -1,0 +1,2 @@
+
+(:name cldoc :description "Show Common Lisp operators and variables information in echo area" :type emacsmirror :pkgname "cldoc" :required ((("cl" cl))))

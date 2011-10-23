@@ -1,0 +1,2 @@
+
+(:name ido-yes-or-no :description "Use Ido to answer yes-or-no questions" :type emacsmirror :pkgname "ido-yes-or-no" :required ((("ido" ido))))

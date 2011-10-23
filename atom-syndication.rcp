@@ -1,0 +1,2 @@
+
+(:name atom-syndication :description "Elisp implementation of the atom syndication format" :type emacsmirror :pkgname "atom-syndication" :required ((("cl" cl))))

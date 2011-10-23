@@ -1,0 +1,2 @@
+
+(:name work-timer :description "A timer so you know when telax, and when to work" :type emacsmirror :pkgname "work-timer" :required nil)

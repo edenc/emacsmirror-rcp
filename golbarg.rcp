@@ -1,0 +1,2 @@
+
+(:name golbarg :description nil :type emacsmirror :pkgname "golbarg" :required ((("markdown-mode" markdown-mode) ("org-mode" org) ("yaml-mode" yaml-mode))) :depends (org-mode markdown-mode))

@@ -1,0 +1,2 @@
+
+(:name change-html-head-tail :description nil :type emacsmirror :pkgname "change-html-head-tail" :required ((("cl" cl) ("page-structure" page-structure) ("webmaster-macros" webmaster-macros))) :depends (webmaster-macros page-structure))

@@ -1,0 +1,2 @@
+
+(:name dragbox :description "Draw a bounding box interactively" :type emacsmirror :pkgname "dragbox" :required ((("image-mode" image-mode) ("xml" xml))))

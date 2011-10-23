@@ -1,0 +1,2 @@
+
+(:name midje-mode :description "Minor mode for Midje tests" :type emacsmirror :pkgname "midje-mode" :required ((("clojure-mode" clojure-mode) ("newcomment" newcomment) ("slime" slime))) :depends (slime clojure-mode))

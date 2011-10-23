@@ -1,0 +1,2 @@
+
+(:name follow-mouse :description "Automatically select the window under the mouse" :type emacsmirror :pkgname "follow-mouse" :required ((("custom" custom))))

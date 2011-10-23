@@ -1,0 +1,2 @@
+
+(:name psgml-table :description "Editing table for SGML-mode" :type emacsmirror :pkgname "psgml-table" :required ((("psgml" psgml-parse))) :depends (psgml))

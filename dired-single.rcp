@@ -1,0 +1,2 @@
+
+(:name dired-single :description "Reuse the current dired buffer to visit another directory" :type emacsmirror :pkgname "dired-single" :required nil)

@@ -1,0 +1,2 @@
+
+(:name anything-replace-string :description "`replace-string' and `query-replace' `anything.el' interface" :type emacsmirror :pkgname "anything-replace-string" :required ((("anything" anything) ("cl" cl))) :depends (anything))

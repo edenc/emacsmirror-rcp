@@ -1,0 +1,2 @@
+
+(:name mgp :description "Magic Point tool" :type emacsmirror :pkgname "mgp" :required nil)

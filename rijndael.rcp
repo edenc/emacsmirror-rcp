@@ -1,0 +1,2 @@
+
+(:name rijndael :description "Rijndael (AES) block cipher implementation" :type emacsmirror :pkgname "rijndael" :required nil)

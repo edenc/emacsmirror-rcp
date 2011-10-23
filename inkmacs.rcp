@@ -1,0 +1,2 @@
+
+(:name inkmacs :description "Inkscape Emacs fusion" :type emacsmirror :pkgname "inkmacs" :required ((("dbus" dbus) ("org-mode" org org-exp) (nil dbus-introspection dbus-proxy))) :depends (org-mode))

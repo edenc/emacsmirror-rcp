@@ -1,0 +1,2 @@
+
+(:name augment :description "Display metadata about code" :type emacsmirror :pkgname "augment" :required ((("cl" cl) ("json" json))))

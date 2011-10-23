@@ -1,0 +1,2 @@
+
+(:name emdroid :description "Android Wrappers for Emacs" :type emacsmirror :pkgname "emdroid" :required nil)

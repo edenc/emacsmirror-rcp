@@ -1,0 +1,2 @@
+
+(:name browse-urn :description "Functionality for browsing URNs" :type emacsmirror :pkgname "browse-urn" :required nil)

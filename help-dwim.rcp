@@ -1,0 +1,2 @@
+
+(:name help-dwim :description "Show help information" :type emacsmirror :pkgname "help-dwim" :required ((("cl" cl) ("woman" woman))))

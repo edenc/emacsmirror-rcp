@@ -1,0 +1,2 @@
+
+(:name c-toggle-dot-pointer :description "Functions for toggling a variable in a C function between pointer and non-pointer" :type emacsmirror :pkgname "c-toggle-dot-pointer" :required nil)

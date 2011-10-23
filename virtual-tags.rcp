@@ -1,0 +1,2 @@
+
+(:name virtual-tags :description "\344\273\256\346\203\263\347\232\204\343\201\253tags\343\201\231\343\202\213\343\201\237\343\202\201\343\201\256\346\213\241\345\274\265" :type emacsmirror :pkgname "virtual-tags" :required ((("etags" etags) ("gtags" gtags) (nil anything-etags))) :depends (gtags))

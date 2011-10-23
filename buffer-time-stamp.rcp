@@ -1,0 +1,2 @@
+
+(:name buffer-time-stamp :description "Display buffer time stamps in the mode line" :type emacsmirror :pkgname "buffer-time-stamp" :required nil)

@@ -1,0 +1,2 @@
+
+(:name jam-mode :description nil :type emacsmirror :pkgname "jam-mode" :required ((("emacs-core" generic) (nil generic-mode))))

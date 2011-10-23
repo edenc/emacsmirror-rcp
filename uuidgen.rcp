@@ -1,0 +1,2 @@
+
+(:name uuidgen :description "Generate uuid's using an external program" :type emacsmirror :pkgname "uuidgen" :required nil)

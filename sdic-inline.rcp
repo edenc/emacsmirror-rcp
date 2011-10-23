@@ -1,0 +1,2 @@
+
+(:name sdic-inline :description "Program to view dictionary" :type emacsmirror :pkgname "sdic-inline" :required ((("sdic" sdic))) :depends (sdic))

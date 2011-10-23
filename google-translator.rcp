@@ -1,0 +1,2 @@
+
+(:name google-translator :description "Translate text using Google Translate API" :type emacsmirror :pkgname "google-translator" :required ((("json" json) ("url" url))))

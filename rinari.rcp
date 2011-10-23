@@ -1,0 +1,2 @@
+
+(:name rinari :description "Rinari Is Not A Rails IDE" :type emacsmirror :pkgname "rinari" :required ((("cl" cl) ("comint" comint) ("compile" compile) ("jump" jump) ("pcomplete" pcomplete) ("ruby-compilation" ruby-compilation) ("ruby-mode" ruby-mode))) :depends (ruby-compilation jump))

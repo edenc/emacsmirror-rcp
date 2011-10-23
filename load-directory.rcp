@@ -1,0 +1,2 @@
+
+(:name load-directory :description nil :type emacsmirror :pkgname "load-directory" :required nil)

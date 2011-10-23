@@ -1,0 +1,2 @@
+
+(:name cricket :description "Get live cricket scores and news updates from inside emacs" :type emacsmirror :pkgname "cricket" :required ((("browse-url" browse-url) ("cl" cl) ("custom" custom) ("url" url) ("w3" w3))) :depends (w3))

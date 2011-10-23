@@ -1,0 +1,4 @@
+(:name perltidy
+       :description "Tidy perl code"
+       :type emacswiki
+       :pkgname "eshell")

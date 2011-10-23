@@ -1,0 +1,2 @@
+
+(:name bzr-ui :description "Utility functions to navigate a working copy of a bazaar repository" :type emacsmirror :pkgname "bzr-ui" :required ((("vc" vc-bzr) (nil cm-path))))

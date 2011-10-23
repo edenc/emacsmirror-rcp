@@ -1,0 +1,2 @@
+
+(:name u8tex :description "Quail package to input in" :type emacsmirror :pkgname "u8tex" :required nil)

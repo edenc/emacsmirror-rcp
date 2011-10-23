@@ -1,0 +1,2 @@
+
+(:name zenash :description "A low-saturation, light-background version of zenburn" :type emacsmirror :pkgname "zenash" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

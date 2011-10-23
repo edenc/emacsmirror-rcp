@@ -1,0 +1,2 @@
+
+(:name twiddle :description "Mode-line display hack" :type emacsmirror :pkgname "twiddle" :required ((("itimer" itimer) ("timer" timer))) :depends (itimer))

@@ -1,0 +1,2 @@
+
+(:name analog :description "Monitor lists of files or command output" :type emacsmirror :pkgname "analog" :required ((("dired" dired) ("emacs-core" pp))))

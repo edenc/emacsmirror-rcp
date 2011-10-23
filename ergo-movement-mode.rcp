@@ -1,0 +1,2 @@
+
+(:name ergo-movement-mode :description nil :type emacsmirror :pkgname "ergo-movement-mode" :required nil)

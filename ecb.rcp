@@ -1,0 +1,2 @@
+
+(:name ecb :description "A code browser for Emacs" :type emacsmirror :pkgname "ecb" :required ((("assoc" assoc) ("browse-url" browse-url) ("cedet" eieio semantic semantic-analyze semantic-ctxt) ("cl" cl) ("compile" compile) ("custom" cus-edit) ("easymenu" easymenu) ("emacs-core" autoload) ("escreen" escreen) ("hideshow" hideshow) ("imenu" imenu) ("jdee" efc) ("reporter" reporter) ("ring" ring) ("thingatpt" thingatpt) ("vc" vc vc-bzr vc-cvs vc-git vc-hg vc-mtn vc-rcs vc-sccs vc-svn) ("widget" wid-edit) ("winring" winring) (nil thing))) :depends (winring jdee escreen cedet))

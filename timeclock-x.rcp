@@ -1,0 +1,2 @@
+
+(:name timeclock-x :description "Extra features for John Wiegley's timeclock package" :type emacsmirror :pkgname "timeclock-x" :required ((("timeclock" timeclock))))

@@ -1,0 +1,2 @@
+
+(:name ruby-electric :description "Electric editing commands for ruby files" :type emacsmirror :pkgname "ruby-electric" :required ((("ruby-mode" ruby-mode))))

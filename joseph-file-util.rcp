@@ -1,0 +1,2 @@
+
+(:name joseph-file-util :description "Function library about file and directory" :type emacsmirror :pkgname "joseph-file-util" :required nil)

@@ -1,0 +1,2 @@
+
+(:name ssh-config-mode :description "Mode for fontification of ~/.ssh/config" :type emacsmirror :pkgname "ssh-config-mode" :required nil)

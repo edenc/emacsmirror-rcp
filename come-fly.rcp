@@ -1,0 +1,2 @@
+
+(:name come-fly :description "Minor mode for the Sinatra web mini-framework" :type emacsmirror :pkgname "come-fly" :required ((("cl" cl))))

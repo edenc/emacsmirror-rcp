@@ -1,0 +1,2 @@
+
+(:name coverlay :description "Code Coverage Overlay for Emacs" :type emacsmirror :pkgname "coverlay" :required ((("csv-mode" csv-mode))) :depends (csv-mode))

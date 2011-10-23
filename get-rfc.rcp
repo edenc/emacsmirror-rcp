@@ -1,0 +1,2 @@
+
+(:name get-rfc :description "Getting and viewing RFCs" :type emacsmirror :pkgname "get-rfc" :required nil)

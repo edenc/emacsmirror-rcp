@@ -1,0 +1,2 @@
+
+(:name multiple-line-edit :description "Edit multiple line at a time" :type emacsmirror :pkgname "multiple-line-edit" :required ((("cl" cl) ("easymenu" easymenu))))

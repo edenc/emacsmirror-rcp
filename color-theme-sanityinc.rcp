@@ -1,0 +1,2 @@
+
+(:name color-theme-sanityinc :description "Two pleasant color themes" :type emacsmirror :pkgname "color-theme-sanityinc" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

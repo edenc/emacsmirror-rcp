@@ -1,0 +1,2 @@
+
+(:name vim-mode :description "A VIM-emulation for Emacs" :type emacsmirror :pkgname "vim-mode" :required ((("cl" cl) ("windmove" windmove)) (("redo" redo) ("redo+" redo+))))

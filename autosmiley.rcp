@@ -1,0 +1,2 @@
+
+(:name autosmiley :description "Convert smileys into their graphical representation" :type emacsmirror :pkgname "autosmiley" :required ((("gnus" smiley))) :depends (gnus))

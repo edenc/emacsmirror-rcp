@@ -1,0 +1,2 @@
+
+(:name compare-windows-interactively :description nil :type emacsmirror :pkgname "compare-windows-interactively" :required ((("compare-w" compare-w))))

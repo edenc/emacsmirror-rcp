@@ -1,0 +1,2 @@
+
+(:name flash-paren :description "Flash matching parens a la Zmacs" :type emacsmirror :pkgname "flash-paren" :required ((("custom" custom) ("timer" timer))))

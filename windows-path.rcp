@@ -1,0 +1,2 @@
+
+(:name windows-path :description "Teach cygwin EMACS about windows styles path" :type emacsmirror :pkgname "windows-path" :required ((("cygwin-mount" cygwin-mount))) :depends (cygwin-mount))

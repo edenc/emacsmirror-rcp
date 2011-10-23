@@ -1,0 +1,2 @@
+
+(:name bytecomp-fns :description "Bytecode maintenance functions" :type emacsmirror :pkgname "bytecomp-fns" :required ((("emacs-core" backquote byte-compile))))

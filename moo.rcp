@@ -1,0 +1,2 @@
+
+(:name moo :description "Comint-based emacs interface for MOOs" :type emacsmirror :pkgname "moo" :required nil)

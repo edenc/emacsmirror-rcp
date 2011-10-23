@@ -1,0 +1,2 @@
+
+(:name w32-symlinks :description "MS Windows symbolic link (shortcut) support" :type emacsmirror :pkgname "w32-symlinks" :required ((("dired-aux" dired-aux))))

@@ -1,0 +1,2 @@
+
+(:name enform-mode :description "Handles the Tandem/NSK/Guardian ENFORM report language" :type emacsmirror :pkgname "enform-mode" :required ((("imenu" imenu) ("which-func" which-func) (nil enform-indent))))

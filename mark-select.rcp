@@ -1,0 +1,2 @@
+
+(:name mark-select :description "Mark and select interface" :type emacsmirror :pkgname "mark-select" :required ((("cl" cl))))

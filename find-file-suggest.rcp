@@ -1,0 +1,2 @@
+
+(:name find-file-suggest :description "Adaptive filename suggestions based on" :type emacsmirror :pkgname "find-file-suggest" :required nil)

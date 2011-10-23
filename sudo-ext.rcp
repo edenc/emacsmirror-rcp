@@ -1,0 +1,2 @@
+
+(:name sudo-ext :description "Sudo support" :type emacsmirror :pkgname "sudo-ext" :required ((("cl" cl))))

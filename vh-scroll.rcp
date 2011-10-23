@@ -1,0 +1,2 @@
+
+(:name vh-scroll :description "Vert. and horiz. scrolling that preserves point visible" :type emacsmirror :pkgname "vh-scroll" :required nil)

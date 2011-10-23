@@ -1,0 +1,2 @@
+
+(:name emacs-ide :description "Emacs-IDE" :type emacsmirror :pkgname "emacs-ide" :required ((("desktop" desktop) ("dired" dired) ("ediff" ediff) ("emacs-core" font-lock mwheel) ("etags" etags) ("gdb-ui" gdb-ui) ("hideshow" hideshow) ("imenu" imenu) ("xcscope" xcscope))) :depends (xcscope))

@@ -1,0 +1,2 @@
+
+(:name pgsql-linum-format :description "Dimitri Fontaine" :type emacsmirror :pkgname "pgsql-linum-format" :required ((("linum" linum))))

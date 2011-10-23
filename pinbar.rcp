@@ -1,0 +1,2 @@
+
+(:name pinbar :description "Display a pin bar in the header line" :type emacsmirror :pkgname "pinbar" :required nil)

@@ -1,0 +1,2 @@
+
+(:name encrypt :description "Encrypt and decrypt using coding system" :type emacsmirror :pkgname "encrypt" :required ((("cl" cl) ("ffap" ffap) ("prand" prand))) :depends (prand))

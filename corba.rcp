@@ -1,0 +1,2 @@
+
+(:name corba :description "A Client Side CORBA Implementation for Emacs" :type emacsmirror :pkgname "corba" :required ((("cl" cl))))

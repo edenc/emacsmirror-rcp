@@ -1,0 +1,2 @@
+
+(:name netrexx-mode :description "Highlight and indent Netrexx program files" :type emacsmirror :pkgname "netrexx-mode" :required ((("cedet" speedbar) ("skeleton" skeleton))) :depends (cedet))

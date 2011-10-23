@@ -1,0 +1,2 @@
+
+(:name epydoc :description "Pydoc interface for emacs" :type emacsmirror :pkgname "epydoc" :required ((("cl" cl))))

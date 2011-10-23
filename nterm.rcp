@@ -1,0 +1,2 @@
+
+(:name nterm :description nil :type emacsmirror :pkgname "nterm" :required ((("cl" cl))))

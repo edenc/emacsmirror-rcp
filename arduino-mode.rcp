@@ -1,0 +1,2 @@
+
+(:name arduino-mode :description "Major mode for the Arduino language" :type emacsmirror :pkgname "arduino-mode" :required ((("cc-mode" cc-fonts cc-langs cc-menus cc-mode))) :depends (cc-mode))

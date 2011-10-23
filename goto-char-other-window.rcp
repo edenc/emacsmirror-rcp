@@ -1,0 +1,2 @@
+
+(:name goto-char-other-window :description "Jump to a specified place in the other window" :type emacsmirror :pkgname "goto-char-other-window" :required nil)

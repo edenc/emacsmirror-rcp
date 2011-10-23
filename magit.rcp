@@ -1,0 +1,2 @@
+
+(:name magit :description "Control Git from Emacs" :type emacsmirror :pkgname "magit" :required ((("assoc" assoc) ("cl" cl) ("diff-mode" diff-mode) ("easymenu" easymenu) ("ediff" ediff) ("emacs-core" server) ("ido" ido) ("iswitchb" iswitchb) ("log-edit" log-edit) ("pcomplete" pcomplete) ("view" view))))

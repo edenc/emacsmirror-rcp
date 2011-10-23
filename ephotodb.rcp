@@ -1,0 +1,2 @@
+
+(:name ephotodb :description "Provides ephotodb, the Emacs Photo Database:" :type emacsmirror :pkgname "ephotodb" :required ((("image-file" image-file))))

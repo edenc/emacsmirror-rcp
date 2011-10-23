@@ -1,0 +1,2 @@
+
+(:name twit :description "Interface with twitter.com" :type emacsmirror :pkgname "twit" :required ((("cl" cl) ("url" url url-http) ("xml" xml))))

@@ -1,0 +1,2 @@
+
+(:name tehom-psgml-link :description "Bare-bones hyperlinks in psgml" :type emacsmirror :pkgname "tehom-psgml-link" :required ((("cl" cl) ("psgml" psgml))) :depends (psgml))

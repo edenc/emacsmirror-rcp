@@ -1,0 +1,2 @@
+
+(:name python-pep8 :description "Minor mode for running `pep8'" :type emacsmirror :pkgname "python-pep8" :required nil)

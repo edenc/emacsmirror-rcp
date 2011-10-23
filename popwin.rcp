@@ -1,0 +1,2 @@
+
+(:name popwin :description "Popup Window Manager" :type emacsmirror :pkgname "popwin" :required ((("browse-url" browse-url) ("cl" cl) ("w3m" w3m) ("yatex" yatex))) :depends (yatex w3m))

@@ -1,0 +1,2 @@
+
+(:name cn-outline :description "Minor mode for column-number-base line folding" :type emacsmirror :pkgname "cn-outline" :required nil)

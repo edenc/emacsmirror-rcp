@@ -1,0 +1,2 @@
+
+(:name ultra-tex :description "Ultra-TeX mode" :type emacsmirror :pkgname "ultra-tex" :required ((("auctex" bib-cite font-latex tex tex-buf) ("cl" cl) ("emacs-core" font-lock) ("imenu" imenu) ("light" light))) :depends (light auctex))

@@ -1,0 +1,2 @@
+
+(:name read-all-emacs-help :description "Show the user the help strings of all functions" :type emacsmirror :pkgname "read-all-emacs-help" :required nil)

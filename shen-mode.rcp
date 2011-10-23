@@ -1,0 +1,2 @@
+
+(:name shen-mode :description "A major mode for editing shen source code" :type emacsmirror :pkgname "shen-mode" :required ((("comint" comint) ("imenu" imenu) ("lisp-mode" lisp-mode))))

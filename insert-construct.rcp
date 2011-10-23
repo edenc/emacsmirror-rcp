@@ -1,0 +1,2 @@
+
+(:name insert-construct :description "Insert programming constructs in various languages" :type emacsmirror :pkgname "insert-construct" :required ((("tempo" tempo))))

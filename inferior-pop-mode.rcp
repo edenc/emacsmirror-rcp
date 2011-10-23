@@ -1,0 +1,2 @@
+
+(:name inferior-pop-mode :description "Poplog processes in a buffer" :type emacsmirror :pkgname "inferior-pop-mode" :required ((("comint" comint) ("easymenu" easymenu) ("pop-help-mode" pop-help-mode) ("pop-mode" pop-mode))) :depends (pop-mode pop-help-mode))

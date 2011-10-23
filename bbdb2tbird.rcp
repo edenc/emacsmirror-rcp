@@ -1,0 +1,2 @@
+
+(:name bbdb2tbird :description "Export Emacs BBDB to Thunderbird Address Book via LDIF" :type emacsmirror :pkgname "bbdb2tbird" :required ((("bbdb" bbdb) ("cl" cl))) :depends (bbdb))

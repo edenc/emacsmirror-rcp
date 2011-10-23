@@ -1,0 +1,2 @@
+
+(:name lisp-re :description "Transform REs written in a Lisp like notation to strings" :type emacsmirror :pkgname "lisp-re" :required nil)

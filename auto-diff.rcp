@@ -1,0 +1,2 @@
+
+(:name auto-diff :description "Automatically generate diff's for directory contents" :type emacsmirror :pkgname "auto-diff" :required nil)

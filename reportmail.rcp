@@ -1,0 +1,2 @@
+
+(:name reportmail :description nil :type emacsmirror :pkgname "reportmail" :required ((("itimer" itimer) ("timer" timer))) :depends (itimer))

@@ -1,0 +1,2 @@
+
+(:name timecard :description "Keep track of time spent on tasks" :type emacsmirror :pkgname "timecard" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name loops :description "Detect loops in lists" :type emacsmirror :pkgname "loops" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name brief :description "Brief-Emulation for Emacs" :type emacsmirror :pkgname "brief" :required ((("bs" bs) ("rect" rect) ("view" view))))

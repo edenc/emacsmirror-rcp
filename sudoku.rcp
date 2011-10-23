@@ -1,0 +1,2 @@
+
+(:name sudoku :description "Simple sudoku game, can download puzzles from the web" :type emacsmirror :pkgname "sudoku" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("easymenu" easymenu) ("url" url) ("w3" w3))) :depends (w3))

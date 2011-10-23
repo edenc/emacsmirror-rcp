@@ -1,0 +1,2 @@
+
+(:name recipe-mode :description "A mode to make writing, finding recipes easy" :type emacsmirror :pkgname "recipe-mode" :required ((("calc" calc-units) ("emacs-core" font-lock overlay) ("grep" grep) ("iimage" iimage))))

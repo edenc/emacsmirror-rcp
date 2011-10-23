@@ -1,0 +1,2 @@
+
+(:name binmove :description "Minor mode to move cursor up / down like binary search" :type emacsmirror :pkgname "binmove" :required nil)

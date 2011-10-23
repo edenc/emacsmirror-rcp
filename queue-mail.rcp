@@ -1,0 +1,2 @@
+
+(:name queue-mail :description "Queue draft e-mail in a directory" :type emacsmirror :pkgname "queue-mail" :required nil)

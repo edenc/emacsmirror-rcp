@@ -1,0 +1,2 @@
+
+(:name singlebind :description "Bind commands to single characters" :type emacsmirror :pkgname "singlebind" :required nil)

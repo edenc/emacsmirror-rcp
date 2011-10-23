@@ -1,0 +1,2 @@
+
+(:name goto-chg :description "Goto last change" :type emacsmirror :pkgname "goto-chg" :required nil)

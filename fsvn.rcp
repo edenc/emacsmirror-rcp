@@ -1,0 +1,2 @@
+
+(:name fsvn :description "Another frontend of subversion" :type emacsmirror :pkgname "fsvn" :required ((("cedet" chart) ("diff" diff) ("diff-mode" diff-mode) ("dired" dired) ("dired-aux" dired-aux) ("easymenu" easymenu) ("emacs-core" bytecomp menu-bar) ("ls-lisp" ls-lisp) ("xml" xml) (nil mw32script)) (("electric" electric))) :depends (cedet))

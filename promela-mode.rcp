@@ -1,0 +1,2 @@
+
+(:name promela-mode :description "Major mode for editing PROMELA program files" :type emacsmirror :pkgname "promela-mode" :required ((("emacs-core" font-lock))))

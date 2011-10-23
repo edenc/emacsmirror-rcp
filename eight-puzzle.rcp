@@ -1,0 +1,2 @@
+
+(:name eight-puzzle :description "A simple little puzzle game" :type emacsmirror :pkgname "eight-puzzle" :required ((("cl" cl))))

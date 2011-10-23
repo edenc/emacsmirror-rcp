@@ -1,0 +1,2 @@
+
+(:name columnize :description "Formats a list of items into columns (pillars)" :type emacsmirror :pkgname "columnize" :required nil)

@@ -1,0 +1,2 @@
+
+(:name misc-patchup :description "Various mending of pages" :type emacsmirror :pkgname "misc-patchup" :required ((("webmaster-macros" webmaster-macros))) :depends (webmaster-macros))

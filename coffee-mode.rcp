@@ -1,0 +1,2 @@
+
+(:name coffee-mode :description "Major mode to edit CoffeeScript files in Emacs" :type emacsmirror :pkgname "coffee-mode" :required ((("cl" cl) ("comint" comint) ("easymenu" easymenu) ("emacs-core" font-lock) ("newcomment" newcomment))))

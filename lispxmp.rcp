@@ -1,0 +1,2 @@
+
+(:name lispxmp :description "Automagic emacs lisp code annotation" :type emacsmirror :pkgname "lispxmp" :required ((("cl" cl) ("emacs-core" pp) ("newcomment" newcomment)) (("paredit" paredit))))

@@ -1,0 +1,2 @@
+
+(:name save-load-path :description "Save load-path and reuse it to test" :type emacsmirror :pkgname "save-load-path" :required nil)

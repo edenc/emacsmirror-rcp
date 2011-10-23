@@ -1,0 +1,2 @@
+
+(:name kis-project :description "Extensions for kis-mode" :type emacsmirror :pkgname "kis-project" :required nil)

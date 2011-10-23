@@ -1,0 +1,2 @@
+
+(:name perlmonks :description "A simple interface to www.perlmonks.org" :type emacsmirror :pkgname "perlmonks" :required ((("emacs-core" menu-bar) ("url" url) (nil perlmonks-auth))))

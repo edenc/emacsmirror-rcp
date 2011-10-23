@@ -1,0 +1,2 @@
+
+(:name confluence :description "Emacs mode for interacting with confluence wikis" :type emacsmirror :pkgname "confluence" :required ((("browse-url" browse-url) ("ediff" ediff) ("emacs-core" font-lock) ("image-file" image-file) ("thingatpt" thingatpt) ("url" url-http) ("xml-rpc" xml-rpc))) :depends (xml-rpc))

@@ -1,0 +1,2 @@
+
+(:name planner-notes-index-page :description "Create index of notes in a particular page" :type emacsmirror :pkgname "planner-notes-index-page" :required ((("planner" planner))) :depends (planner))

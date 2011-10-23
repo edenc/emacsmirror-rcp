@@ -1,0 +1,2 @@
+
+(:name palette :description "Color palette useful with RGB, HSV, and color names" :type emacsmirror :pkgname "palette" :required ((("cl" cl) ("hexrgb" hexrgb)) (("icicles" icicles))))

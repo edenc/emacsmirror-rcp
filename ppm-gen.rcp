@@ -1,0 +1,2 @@
+
+(:name ppm-gen :description "Simple & slow ppm generation in emacs" :type emacsmirror :pkgname "ppm-gen" :required ((("cedet" eieio eieio-base eieio-comp) ("cl" cl) ("image-mode" image-mode))) :depends (cedet))

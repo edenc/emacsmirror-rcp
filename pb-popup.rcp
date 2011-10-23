@@ -1,0 +1,2 @@
+
+(:name pb-popup :description "Display process buffer when new output arrives" :type emacsmirror :pkgname "pb-popup" :required nil)

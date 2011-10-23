@@ -1,0 +1,2 @@
+
+(:name js-doc :description "Insert JsDoc style comment easily" :type emacsmirror :pkgname "js-doc" :required nil)

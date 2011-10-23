@@ -1,0 +1,2 @@
+
+(:name ysq-modeline :description "Put stock quotes in mode line" :type emacsmirror :pkgname "ysq-modeline" :required ((("itimer" itimer) ("timer" timer) ("ysq" ysq))) :depends (ysq itimer))

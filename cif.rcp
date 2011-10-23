@@ -1,0 +1,2 @@
+
+(:name cif :description "Major mode for editing (mm?)CIF files" :type emacsmirror :pkgname "cif" :required nil)

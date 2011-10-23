@@ -1,0 +1,2 @@
+
+(:name syslog :description nil :type emacsmirror :pkgname "syslog" :required nil)

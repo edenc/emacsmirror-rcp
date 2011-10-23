@@ -1,0 +1,2 @@
+
+(:name mupacs :description nil :type emacsmirror :pkgname "mupacs" :required ((("advice" advice) ("cc-mode" cc-mode) ("easymenu" easymenu) ("emacs-core" backquote disp-table font-lock) ("emacs-obsolete" lazy-lock) ("gud" gud) ("imenu" imenu) ("regexp-opt" regexp-opt))) :depends (cc-mode))

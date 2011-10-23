@@ -1,0 +1,2 @@
+
+(:name dictionary :description "An interface to RFC 2229 dictionary server" :type emacsmirror :pkgname "dictionary" :required ((("cl" cl) ("custom" custom) ("easymenu" easymenu) ("emacs-core" tooltip))))

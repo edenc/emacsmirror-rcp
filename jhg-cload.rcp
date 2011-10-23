@@ -1,0 +1,2 @@
+
+(:name jhg-cload :description "Byte compile elisp when loaded" :type emacsmirror :pkgname "jhg-cload" :required nil)

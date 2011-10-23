@@ -1,0 +1,2 @@
+
+(:name lorem-ipsum :description "Insert dummy pseudo Latin text" :type emacsmirror :pkgname "lorem-ipsum" :required nil)

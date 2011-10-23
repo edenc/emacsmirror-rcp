@@ -1,0 +1,2 @@
+
+(:name sql-indent :description "Indentation of SQL statements" :type emacsmirror :pkgname "sql-indent" :required ((("regexp-opt" regexp-opt) ("sql" sql))))

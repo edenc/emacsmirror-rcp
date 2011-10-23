@@ -1,0 +1,2 @@
+
+(:name buffer-stack-suppl :description nil :type emacsmirror :pkgname "buffer-stack-suppl" :required ((("buffer-stack" buffer-stack) ("cl" cl))) :depends (buffer-stack))

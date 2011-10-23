@@ -1,0 +1,2 @@
+
+(:name minibuffer-complete-cycle :description "Cycle through the *Completions* buffer" :type emacsmirror :pkgname "minibuffer-complete-cycle" :required ((("custom" custom))))

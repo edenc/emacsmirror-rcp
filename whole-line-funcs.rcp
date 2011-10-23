@@ -1,0 +1,2 @@
+
+(:name whole-line-funcs :description "Triple-click like line marking functions" :type emacsmirror :pkgname "whole-line-funcs" :required ((("cl" cl))))

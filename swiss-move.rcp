@@ -1,0 +1,2 @@
+
+(:name swiss-move :description "Swiss Cursor Movement" :type emacsmirror :pkgname "swiss-move" :required nil)

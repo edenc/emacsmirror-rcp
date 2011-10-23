@@ -1,0 +1,2 @@
+
+(:name jiseki :description "Desktop for emacs" :type emacsmirror :pkgname "jiseki" :required nil)

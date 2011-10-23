@@ -1,0 +1,2 @@
+
+(:name elserv :description "Yet another HTTP server on Emacsen" :type emacsmirror :pkgname "elserv" :required ((("apel" mcharset pces poem product static) ("calendar" calendar) ("cl" cl) ("custom" cus-edit custom) ("emacs-wiki-mode" emacs-wiki) ("flim" std11) ("mhc" mhc mhc-face) ("semi" mime-view) ("w3m" w3m) ("xml-rpc" xml-rpc))) :depends (xml-rpc w3m semi mhc flim emacs-wiki-mode apel))

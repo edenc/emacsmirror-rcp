@@ -1,0 +1,2 @@
+
+(:name itimer :description "List and operate on emacs timers" :type emacsmirror :pkgname "itimer" :required nil)

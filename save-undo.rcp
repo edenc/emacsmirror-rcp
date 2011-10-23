@@ -1,0 +1,2 @@
+
+(:name save-undo :description "Preserve undo boundary across multiple-buffer edits" :type emacsmirror :pkgname "save-undo" :required nil)

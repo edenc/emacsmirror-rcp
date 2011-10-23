@@ -1,0 +1,2 @@
+
+(:name ilocate-library :description "Interactive replacement for locate-library with completion" :type emacsmirror :pkgname "ilocate-library" :required nil)

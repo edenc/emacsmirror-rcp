@@ -1,0 +1,2 @@
+
+(:name defshell :description "Define inferior shells" :type emacsmirror :pkgname "defshell" :required ((("comint" comint) ("custom" custom) ("shell" shell))))

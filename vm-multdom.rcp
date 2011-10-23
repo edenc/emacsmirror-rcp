@@ -1,0 +1,2 @@
+
+(:name vm-multdom :description "Multiple-domain reply header manipulation for VM" :type emacsmirror :pkgname "vm-multdom" :required ((("fmailutils" fmailutils) ("vm" vm-message))) :depends (vm fmailutils))

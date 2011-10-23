@@ -1,0 +1,2 @@
+
+(:name pager :description "Windows-scroll commands" :type emacsmirror :pkgname "pager" :required nil)

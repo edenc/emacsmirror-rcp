@@ -1,0 +1,2 @@
+
+(:name initsplit :description "Code to split customizations into different files" :type emacsmirror :pkgname "initsplit" :required ((("cl" cl) ("emacs-core" simple) ("find-func" find-func))))

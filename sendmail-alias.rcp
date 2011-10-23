@@ -1,0 +1,2 @@
+
+(:name sendmail-alias :description "Parse a sendmail-style alias file" :type emacsmirror :pkgname "sendmail-alias" :required ((("sendmail" sendmail))))

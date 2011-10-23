@@ -1,0 +1,2 @@
+
+(:name gimme :description "GIMME Interesting Music on My Emacs" :type emacsmirror :pkgname "gimme" :required ((("hexrgb" hexrgb) ("htmlr" htmlr) ("timer" timer))))

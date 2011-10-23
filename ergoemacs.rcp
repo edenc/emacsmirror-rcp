@@ -1,0 +1,2 @@
+
+(:name ergoemacs :description nil :type emacsmirror :pkgname "ergoemacs" :required nil)

@@ -1,0 +1,2 @@
+
+(:name smart-dnd :description "User-configurable drag-n-drop feature" :type emacsmirror :pkgname "smart-dnd" :required ((("emacs-core" dnd))))

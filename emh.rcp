@@ -1,0 +1,2 @@
+
+(:name emh :description "MIME extender for mh-e" :type emacsmirror :pkgname "emh" :required ((("apel" emu) ("mh-e" mh-comp mh-e) ("semi" mime-bbdb mime-edit mime-view semi-setup))) :depends (semi apel))

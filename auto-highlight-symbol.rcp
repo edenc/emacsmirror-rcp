@@ -1,0 +1,2 @@
+
+(:name auto-highlight-symbol :description "Automatic highlighting current symbol minor mode" :type emacsmirror :pkgname "auto-highlight-symbol" :required ((("cl" cl) ("easy-mmode" easy-mmode))))

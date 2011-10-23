@@ -1,0 +1,2 @@
+
+(:name vvb-mode :description "A minor mode to display a Visible Vertical Bar(s)" :type emacsmirror :pkgname "vvb-mode" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name zenirc :description "Waste time on Internet Relay Chat (ZenIRC client)" :type emacsmirror :pkgname "zenirc" :required ((("emacs-core" backquote) ("sendmail" sendmail))))

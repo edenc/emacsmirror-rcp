@@ -1,0 +1,2 @@
+
+(:name bavard :description "Emacs interface to the Google Translate" :type emacsmirror :pkgname "bavard" :required ((("cl" cl) ("popup" popup) ("url" url))) :depends (popup))

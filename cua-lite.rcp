@@ -1,0 +1,2 @@
+
+(:name cua-lite :description "A light-weight, extendable & toggle-able CUA emulator" :type emacsmirror :pkgname "cua-lite" :required nil)

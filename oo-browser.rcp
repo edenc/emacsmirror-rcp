@@ -1,0 +1,2 @@
+
+(:name oo-browser :description nil :type emacsmirror :pkgname "oo-browser" :required ((("cc-mode" cc-mode) ("compile" compile) ("emacs-obsolete" lmenu) ("hyperbole" hmouse-drv hmouse-key hpath hui-mouse hversion hypb set) ("info" info) (nil id-menubars pydoc))) :depends (hyperbole cc-mode))

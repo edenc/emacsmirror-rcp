@@ -1,0 +1,2 @@
+
+(:name org-blog :description "Create and publish a blog with org-mode" :type emacsmirror :pkgname "org-blog" :required ((("org-mode" org-publish))) :depends (org-mode))

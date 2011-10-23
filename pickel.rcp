@@ -1,0 +1,2 @@
+
+(:name pickel :description "Elisp object serialization" :type emacsmirror :pkgname "pickel" :required ((("cl" cl))))

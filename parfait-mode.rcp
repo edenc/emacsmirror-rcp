@@ -1,0 +1,2 @@
+
+(:name parfait-mode :description "Prettifies your code by removing needless clutter" :type emacsmirror :pkgname "parfait-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name proc-mode :description "Copyright (C) 1999 Pat Thoyts <pat@zsplat.freeserve.co.uk>" :type emacsmirror :pkgname "proc-mode" :required ((("regexp-opt" regexp-opt) ("reporter" reporter))))

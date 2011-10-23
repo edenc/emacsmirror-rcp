@@ -1,0 +1,2 @@
+
+(:name remind :description nil :type emacsmirror :pkgname "remind" :required ((("planner" planner))) :depends (planner))

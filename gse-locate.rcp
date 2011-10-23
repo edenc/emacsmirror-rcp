@@ -1,0 +1,2 @@
+
+(:name gse-locate :description nil :type emacsmirror :pkgname "gse-locate" :required nil)

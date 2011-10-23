@@ -1,0 +1,2 @@
+
+(:name esense :description nil :type emacsmirror :pkgname "esense" :required ((("cl" cl) ("distel" distel) ("emacs-core" tooltip) ("erlang" erlang) ("etags" etags))) :depends (erlang distel))

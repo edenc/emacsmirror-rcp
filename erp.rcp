@@ -1,0 +1,2 @@
+
+(:name erp :description "ERP(Enterprise Ressource Planning) in plain text. " :type emacsmirror :pkgname "erp" :required ((("easymenu" easymenu) (nil erp-exp erp-mobile))))

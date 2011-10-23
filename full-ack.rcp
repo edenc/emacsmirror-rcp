@@ -1,0 +1,2 @@
+
+(:name full-ack :description nil :type emacsmirror :pkgname "full-ack" :required ((("cl" cl) ("compile" compile) ("iswitchb" iswitchb))))

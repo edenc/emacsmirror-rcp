@@ -1,0 +1,2 @@
+
+(:name garble :description "Emacs interface to garble" :type emacsmirror :pkgname "garble" :required ((("cl" cl) ("gnus" parse-time))) :depends (gnus))

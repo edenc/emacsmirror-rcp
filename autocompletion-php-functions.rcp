@@ -1,0 +1,2 @@
+
+(:name autocompletion-php-functions :description "Auto complete php functions" :type emacsmirror :pkgname "autocompletion-php-functions" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

@@ -1,0 +1,2 @@
+
+(:name ricette-mode :description "Vedere ricette" :type emacsmirror :pkgname "ricette-mode" :required nil)

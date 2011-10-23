@@ -1,0 +1,2 @@
+
+(:name linmag-mode :description "Editing for the Linux Magazine" :type emacsmirror :pkgname "linmag-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name ebay-template-mode :description nil :type emacsmirror :pkgname "ebay-template-mode" :required ((("cl" cl) ("html-lite" html-lite) ("xmlgen" xmlgen) (nil ebay-template-html-utils smith-poster-utils xml-gen))) :depends (xmlgen html-lite))

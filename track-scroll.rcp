@@ -1,0 +1,2 @@
+
+(:name track-scroll :description "Enable direct scrolling with the mouse" :type emacsmirror :pkgname "track-scroll" :required ((("emacs-core" mouse))))

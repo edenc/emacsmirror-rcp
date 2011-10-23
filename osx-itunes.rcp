@@ -1,0 +1,2 @@
+
+(:name osx-itunes :description "Control itunes from emacs" :type emacsmirror :pkgname "osx-itunes" :required ((("osx-osascript" osx-osascript))) :depends (osx-osascript))

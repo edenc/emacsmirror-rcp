@@ -1,0 +1,2 @@
+
+(:name phpunit :description "Interact with PHPUnit" :type emacsmirror :pkgname "phpunit" :required ((("compile" compile))))

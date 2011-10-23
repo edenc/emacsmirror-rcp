@@ -1,0 +1,2 @@
+
+(:name xcode-document-viewer :description "Xcode document viewer" :type emacsmirror :pkgname "xcode-document-viewer" :required ((("anything" anything) ("thingatpt" thingatpt))) :depends (anything))

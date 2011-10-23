@@ -1,0 +1,2 @@
+
+(:name texmed :description "Query and retrieve BibTeX from NCBI pubmed via TeXMed in Emacs" :type emacsmirror :pkgname "texmed" :required ((("w3m" w3m-search))) :depends (w3m))

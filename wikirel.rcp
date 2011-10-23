@@ -1,0 +1,2 @@
+
+(:name wikirel :description "Visit relevant pages on the Emacs Wiki" :type emacsmirror :pkgname "wikirel" :required ((("browse-url" browse-url) ("oddmuse" oddmuse))) :depends (oddmuse))

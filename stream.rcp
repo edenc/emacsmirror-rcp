@@ -1,0 +1,2 @@
+
+(:name stream :description "A stream library in elisp" :type emacsmirror :pkgname "stream" :required nil)

@@ -1,0 +1,2 @@
+
+(:name elscreen-edit-server :description "Work together chrome and elscreen" :type emacsmirror :pkgname "elscreen-edit-server" :required nil)

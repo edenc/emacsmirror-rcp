@@ -1,0 +1,2 @@
+
+(:name org-camp :description "Import TODO items from basecamp into org-mode" :type emacsmirror :pkgname "org-camp" :required nil)

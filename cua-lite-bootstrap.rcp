@@ -1,0 +1,2 @@
+
+(:name cua-lite-bootstrap :description "Bootstrap for cua-lite" :type emacsmirror :pkgname "cua-lite-bootstrap" :required nil)

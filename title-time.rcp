@@ -1,0 +1,2 @@
+
+(:name title-time :description "Like display-time but in the title-bar" :type emacsmirror :pkgname "title-time" :required ((("time" time))))

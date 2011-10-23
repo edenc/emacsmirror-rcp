@@ -1,0 +1,2 @@
+
+(:name fx-misc :description "Miscellaneous small functions/settings" :type emacsmirror :pkgname "fx-misc" :required ((("add-log" add-log) ("imenu" imenu) ("man" man) ("spook" spook) ("vc" vc))))

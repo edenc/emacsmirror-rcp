@@ -1,0 +1,2 @@
+
+(:name external-abook :description "Enable the use of external address books from within Emacs" :type emacsmirror :pkgname "external-abook" :required nil)

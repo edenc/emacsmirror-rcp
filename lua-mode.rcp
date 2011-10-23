@@ -1,0 +1,2 @@
+
+(:name lua-mode :description "A major-mode for editing Lua scripts" :type emacsmirror :pkgname "lua-mode" :required ((("cl" cl) ("comint" comint))))

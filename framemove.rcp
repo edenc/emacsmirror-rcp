@@ -1,0 +1,2 @@
+
+(:name framemove :description "Directional frame selection routines" :type emacsmirror :pkgname "framemove" :required nil)

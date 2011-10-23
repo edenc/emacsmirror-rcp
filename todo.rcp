@@ -1,0 +1,2 @@
+
+(:name todo :description nil :type emacsmirror :pkgname "todo" :required ((("browse-url" browse-url) (nil eval-reg fileinmail))))

@@ -1,0 +1,2 @@
+
+(:name loop-constructs :description "Sugary looping forms for emacs-lisp" :type emacsmirror :pkgname "loop-constructs" :required ((("cl" cl))))

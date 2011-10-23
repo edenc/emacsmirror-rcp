@@ -1,0 +1,2 @@
+
+(:name comint-popup :description "Maybe show comint process output windows" :type emacsmirror :pkgname "comint-popup" :required ((("pb-popup" pb-popup))) :depends (pb-popup))

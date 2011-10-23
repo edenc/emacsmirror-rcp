@@ -1,0 +1,2 @@
+
+(:name shindent :description "Indentation support for shell-script modes for some shells" :type emacsmirror :pkgname "shindent" :required ((("advice" advice) ("sh-script" sh-script))))

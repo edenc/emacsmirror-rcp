@@ -1,0 +1,2 @@
+
+(:name csv-writer :description "Write alists into csv files" :type emacsmirror :pkgname "csv-writer" :required ((("cl" cl))))

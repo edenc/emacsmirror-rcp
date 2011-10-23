@@ -1,0 +1,2 @@
+
+(:name erlang :description "Major modes for editing and running Erlang" :type emacsmirror :pkgname "erlang" :required ((("advice" advice) ("cl" cl) ("comint" comint) ("compile" compile) ("emacs-core" font-lock) ("etags" etags) ("flymake" flymake) ("hyperbole" tags) ("man" man) ("tempo" tempo))) :depends (hyperbole))

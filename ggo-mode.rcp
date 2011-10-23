@@ -1,0 +1,2 @@
+
+(:name ggo-mode :description "Gengetopt major mode" :type emacsmirror :pkgname "ggo-mode" :required nil)

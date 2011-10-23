@@ -1,0 +1,2 @@
+
+(:name windata :description "Convert window configuration to list" :type emacsmirror :pkgname "windata" :required ((("cl" cl))))

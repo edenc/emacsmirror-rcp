@@ -1,0 +1,2 @@
+
+(:name cisco-router-mode :description "Major mode for editing Cisco router configuration files" :type emacsmirror :pkgname "cisco-router-mode" :required nil)

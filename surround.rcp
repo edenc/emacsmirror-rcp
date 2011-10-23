@@ -1,0 +1,2 @@
+
+(:name surround :description "Emulate surround.vim from Vim" :type emacsmirror :pkgname "surround" :required ((("evil" evil))) :depends (evil))

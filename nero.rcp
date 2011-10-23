@@ -1,0 +1,2 @@
+
+(:name nero :description "A fast Lynx-based browser for Emacs" :type emacsmirror :pkgname "nero" :required ((("cl" cl))))

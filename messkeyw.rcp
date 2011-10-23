@@ -1,0 +1,2 @@
+
+(:name messkeyw :description "Automatic keyword support during composition" :type emacsmirror :pkgname "messkeyw" :required ((("cl" cl))))

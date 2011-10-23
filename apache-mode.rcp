@@ -1,0 +1,2 @@
+
+(:name apache-mode :description "Major mode for editing Apache configuration files" :type emacsmirror :pkgname "apache-mode" :required ((("regexp-opt" regexp-opt))))

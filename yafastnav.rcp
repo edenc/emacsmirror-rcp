@@ -1,0 +1,2 @@
+
+(:name yafastnav :description "Yet another fastnav" :type emacsmirror :pkgname "yafastnav" :required nil)

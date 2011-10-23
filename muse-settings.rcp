@@ -1,0 +1,2 @@
+
+(:name muse-settings :description "Load settings for individual directories. " :type emacsmirror :pkgname "muse-settings" :required nil)

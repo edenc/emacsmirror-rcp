@@ -1,0 +1,2 @@
+
+(:name tehom-func-args :description "Expand almost any known elisp function to a template" :type emacsmirror :pkgname "tehom-func-args" :required (((nil local-vars))))

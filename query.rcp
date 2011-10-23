@@ -1,0 +1,2 @@
+
+(:name query :description "Functions to query the user" :type emacsmirror :pkgname "query" :required ((("cl" cl))))

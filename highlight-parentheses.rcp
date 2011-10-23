@@ -1,0 +1,2 @@
+
+(:name highlight-parentheses :description "Highlight surrounding parentheses" :type emacsmirror :pkgname "highlight-parentheses" :required ((("cl" cl))))

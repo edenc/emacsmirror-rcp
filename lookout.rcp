@@ -1,0 +1,2 @@
+
+(:name lookout :description "Read CSV formatted diary and address data" :type emacsmirror :pkgname "lookout" :required ((("bbdb" bbdb) ("csv" csv))) :depends (csv bbdb))

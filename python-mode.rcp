@@ -1,0 +1,2 @@
+
+(:name python-mode :description "Major mode for editing Python programs" :type emacsmirror :pkgname "python-mode" :required ((("ansi-color" ansi-color) ("cc-mode" cc-cmds) ("cl" cl) ("comint" comint) ("compile" compile) ("custom" custom) ("highlight-indentation" highlight-indentation) ("imenu" imenu) ("info-look" info-look) ("mmm-mode" mmm-auto) ("pymacs" pymacs) ("reporter" reporter) ("shell" shell))) :depends (pymacs mmm-mode highlight-indentation cc-mode))

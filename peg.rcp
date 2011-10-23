@@ -1,0 +1,2 @@
+
+(:name peg :description "Parsing Expression Grammars in Emacs Lisp" :type emacsmirror :pkgname "peg" :required nil)

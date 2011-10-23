@@ -1,0 +1,2 @@
+
+(:name sunrise-commander :description "Two-pane file manager for Emacs based on Dired and inspired by MC" :type emacsmirror :pkgname "sunrise-commander" :required ((("bookmark" bookmark) ("cl" cl) ("custom" cus-edit) ("desktop" desktop) ("dired" dired) ("dired-aux" dired-aux) ("dired-x" dired-x) ("easymenu" easymenu) ("emacs-core" font-lock sort) ("enriched" enriched) ("eshell" esh-mode) ("find-dired" find-dired) ("recentf" recentf) ("term" term) ("tree-widget" tree-widget))) :depends (eshell))

@@ -1,0 +1,2 @@
+
+(:name nf-procmail-mode :description "Major mode for editing procmail recipe files" :type emacsmirror :pkgname "nf-procmail-mode" :required ((("emacs-core" derived font-lock))))

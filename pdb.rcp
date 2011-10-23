@@ -1,0 +1,2 @@
+
+(:name pdb :description "Editing Protein Databank files" :type emacsmirror :pkgname "pdb" :required ((("emacs-core" latin1-disp))))

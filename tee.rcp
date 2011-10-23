@@ -1,0 +1,2 @@
+
+(:name tee :description "Teeuhr" :type emacsmirror :pkgname "tee" :required nil)

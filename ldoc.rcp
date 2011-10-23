@@ -1,0 +1,2 @@
+
+(:name ldoc :description "Extract and format documentation from lisp files" :type emacsmirror :pkgname "ldoc" :required ((("org-mode" org))) :depends (org-mode))

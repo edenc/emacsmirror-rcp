@@ -1,0 +1,2 @@
+
+(:name adv-random-sig :description "Advanced random signature inserter" :type emacsmirror :pkgname "adv-random-sig" :required nil)

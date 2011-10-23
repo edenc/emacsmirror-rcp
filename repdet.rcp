@@ -1,0 +1,2 @@
+
+(:name repdet :description "Detect repetition in user activity" :type emacsmirror :pkgname "repdet" :required ((("loops" loops))) :depends (loops))

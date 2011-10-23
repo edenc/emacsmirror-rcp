@@ -1,0 +1,2 @@
+
+(:name recursive-narrow :description "Narrow-to-region that operates recursively" :type emacsmirror :pkgname "recursive-narrow" :required nil)

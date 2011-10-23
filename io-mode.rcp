@@ -1,0 +1,2 @@
+
+(:name io-mode :description "Major mode to edit Io language files in Emacs" :type emacsmirror :pkgname "io-mode" :required ((("cl" cl) ("comint" comint) ("emacs-core" font-lock) ("hideshow" hideshow) ("newcomment" newcomment))))

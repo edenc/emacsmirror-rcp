@@ -1,0 +1,2 @@
+
+(:name fakespace :description "Fake Emacs lisp namespaces" :type emacsmirror :pkgname "fakespace" :required ((("cl" cl))))

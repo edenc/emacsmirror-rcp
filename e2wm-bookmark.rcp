@@ -1,0 +1,2 @@
+
+(:name e2wm-bookmark :description "Bookmark plugin for e2wm.el" :type emacsmirror :pkgname "e2wm-bookmark" :required ((("bookmark" bookmark) ("e2wm" e2wm))) :depends (e2wm))

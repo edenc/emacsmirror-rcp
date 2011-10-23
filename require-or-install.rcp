@@ -1,0 +1,2 @@
+
+(:name require-or-install :description "Download and automagically install Emacs Lisp" :type emacsmirror :pkgname "require-or-install" :required ((("install-elisp" install-elisp))) :depends (install-elisp))

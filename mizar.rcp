@@ -1,0 +1,2 @@
+
+(:name mizar :description "Mizar.el -- Mizar Mode for Emacs" :type emacsmirror :pkgname "mizar" :required ((("cedet" speedbar) ("cl" cl) ("comint" comint) ("compile" compile) ("dabbrev" dabbrev) ("easymenu" easymenu) ("emacs-core" font-lock) ("etags" etags) ("executable" executable) ("hideshow" hideshow) ("imenu" imenu) ("info" info) ("shell" shell) ("term" term)) (("xml" xml))) :depends (cedet))

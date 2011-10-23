@@ -1,0 +1,2 @@
+
+(:name emacs-ringing :description "Part of John's elisp change-ringing system" :type emacsmirror :pkgname "emacs-ringing" :required ((("cl" cl) ("custom" custom) ("easymenu" easymenu) ("emacs-core" backquote) ("reporter" reporter))))

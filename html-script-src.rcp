@@ -1,0 +1,2 @@
+
+(:name html-script-src :description "Insert <script src=\"..\"> for popular JavaScript libraries" :type emacsmirror :pkgname "html-script-src" :required nil)

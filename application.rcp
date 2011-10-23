@@ -1,0 +1,2 @@
+
+(:name application :description "Start application for files matching entries from application-caller-list" :type emacsmirror :pkgname "application" :required nil)

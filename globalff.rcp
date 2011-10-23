@@ -1,0 +1,2 @@
+
+(:name globalff :description "Global find file" :type emacsmirror :pkgname "globalff" :required ((("cl" cl) ("emacs-core" overlay))))

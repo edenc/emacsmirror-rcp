@@ -1,0 +1,2 @@
+
+(:name gnus-hardsort :description "Permanently sort group by date" :type emacsmirror :pkgname "gnus-hardsort" :required nil)

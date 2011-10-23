@@ -1,0 +1,2 @@
+
+(:name help-dwim-perlapi :description "Show help of perlapi" :type emacsmirror :pkgname "help-dwim-perlapi" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name recent-files :description "Maintain menu of recently opened files" :type emacsmirror :pkgname "recent-files" :required nil)

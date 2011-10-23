@@ -1,0 +1,2 @@
+
+(:name pgrok :description "Project Grokking for Emacs" :type emacsmirror :pkgname "pgrok" :required ((("find-dired" find-dired))))

@@ -1,0 +1,2 @@
+
+(:name frb :description "Emacs client for faraday's book" :type emacsmirror :pkgname "frb" :required ((("cl" cl) ("emacs-core" md5) ("highline" highline) ("json" json) ("mcomplete" mcomplete) ("url" url))) :depends (mcomplete))

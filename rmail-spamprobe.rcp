@@ -1,0 +1,2 @@
+
+(:name rmail-spamprobe :description "Interact with spamprobe from within RMAIL" :type emacsmirror :pkgname "rmail-spamprobe" :required ((("rmail" rmail))))

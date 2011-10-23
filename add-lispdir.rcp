@@ -1,0 +1,2 @@
+
+(:name add-lispdir :description nil :type emacsmirror :pkgname "add-lispdir" :required ((("info" info))))

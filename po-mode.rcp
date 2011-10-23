@@ -1,0 +1,2 @@
+
+(:name po-mode :description "Major mode for GNU gettext PO files" :type emacsmirror :pkgname "po-mode" :required ((("compile" compile) ("custom" custom) ("etags" etags) (nil po-compat))))

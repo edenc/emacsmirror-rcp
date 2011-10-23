@@ -1,0 +1,2 @@
+
+(:name swbuff-advice :description "Provides alternate regexp cycling for swbuff" :type emacsmirror :pkgname "swbuff-advice" :required nil)

@@ -1,0 +1,2 @@
+
+(:name campfire :description "An interface to campfire" :type emacsmirror :pkgname "campfire" :required ((("button" button) ("json" json) ("twittering-mode" ssl) ("url" url url-http))) :depends (twittering-mode))

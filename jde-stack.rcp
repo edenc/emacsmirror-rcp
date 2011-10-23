@@ -1,0 +1,2 @@
+
+(:name jde-stack :description "Jump to source from Java stack trace" :type emacsmirror :pkgname "jde-stack" :required ((("jdee" jde))) :depends (jdee))

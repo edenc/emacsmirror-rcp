@@ -1,0 +1,2 @@
+
+(:name shell-pop :description "Helps you pop up and pop out shell buffer easily" :type emacsmirror :pkgname "shell-pop" :required nil)

@@ -1,0 +1,2 @@
+
+(:name rvm :description "Emacs integration for rvm" :type emacsmirror :pkgname "rvm" :required ((("button" button) ("cl" cl) ("debug" debug) ("easymenu" easymenu) ("ewoc" ewoc) ("find-func" find-func) ("help" help))))

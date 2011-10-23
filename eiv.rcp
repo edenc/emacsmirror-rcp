@@ -1,0 +1,2 @@
+
+(:name eiv :description "Emacs image viewer" :type emacsmirror :pkgname "eiv" :required ((("cl" cl) ("traverselisp" iterator traverselisp))) :depends (traverselisp))

@@ -1,0 +1,2 @@
+
+(:name button-lock :description "Clickable text defined by regular expression, controlled by font-lock" :type emacsmirror :pkgname "button-lock" :required ((("cl" cl) ("emacs-core" font-lock))))

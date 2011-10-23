@@ -1,0 +1,2 @@
+
+(:name rusewiki :description "Edit pages on an RuseWiki wiki using curl" :type emacsmirror :pkgname "rusewiki" :required nil)

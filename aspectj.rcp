@@ -1,0 +1,2 @@
+
+(:name aspectj :description "AspectJ extensions to Java mode" :type emacsmirror :pkgname "aspectj" :required ((("browse-url" browse-url) ("cc-mode" cc-mode) ("cl" cl) ("custom" custom) ("easy-mmode" easy-mmode) ("easymenu" easymenu) ("emacs-core" font-lock overlay) ("imenu" imenu) ("jdee" jde))) :depends (jdee cc-mode))

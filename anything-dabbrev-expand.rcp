@@ -1,0 +1,2 @@
+
+(:name anything-dabbrev-expand :description "Dabbrev-expand / dabbrev-completion / partial-dabbrev using anything.el" :type emacsmirror :pkgname "anything-dabbrev-expand" :required ((("anything" anything) ("dabbrev" dabbrev)) (("anything" anything-show-completion))) :depends (anything))

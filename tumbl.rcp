@@ -1,0 +1,2 @@
+
+(:name tumbl :description "Post to tumblr.com from emacs" :type emacsmirror :pkgname "tumbl" :required ((("http-post-simple" http-post-simple))) :depends (http-post-simple))

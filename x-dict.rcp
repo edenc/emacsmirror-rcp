@@ -1,0 +1,2 @@
+
+(:name x-dict :description "Emacs interface for several online dictionaries" :type emacsmirror :pkgname "x-dict" :required nil)

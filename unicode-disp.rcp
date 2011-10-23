@@ -1,0 +1,2 @@
+
+(:name unicode-disp :description "Display-table fallbacks for some unicode chars" :type emacsmirror :pkgname "unicode-disp" :required ((("advice" advice) ("custom" cus-face) ("emacs-core" disp-table))))

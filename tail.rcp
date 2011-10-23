@@ -1,0 +1,2 @@
+
+(:name tail :description "Tail files within Emacs" :type emacsmirror :pkgname "tail" :required ((("electric" electric))))

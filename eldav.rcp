@@ -1,0 +1,2 @@
+
+(:name eldav :description "Yet Another WebDAV interface for Emacsen" :type emacsmirror :pkgname "eldav" :required ((("apel" poe poem) ("cl" cl) ("timezone" timezone))) :depends (apel))

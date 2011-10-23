@@ -1,0 +1,2 @@
+
+(:name identica-mode :description "Major mode for Identica" :type emacsmirror :pkgname "identica-mode" :required ((("cl" cl) ("emacs-core" image) ("gnus" parse-time) ("json" json) ("longlines" longlines) ("oauth" oauth) ("url" url url-http) ("w3m" w3m) ("xml" xml))) :depends (w3m oauth gnus))

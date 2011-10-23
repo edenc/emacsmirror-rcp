@@ -1,0 +1,2 @@
+
+(:name gnus-identities :description "Change identity when composing a message" :type emacsmirror :pkgname "gnus-identities" :required ((("gnus" message))) :depends (gnus))

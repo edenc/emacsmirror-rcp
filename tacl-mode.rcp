@@ -1,0 +1,2 @@
+
+(:name tacl-mode :description "Handles the Tandem/NSK/Guardian TACL language" :type emacsmirror :pkgname "tacl-mode" :required ((("column-marker" column-marker) ("imenu" imenu) ("which-func" which-func) (nil tacl-indent))) :depends (python-mode))

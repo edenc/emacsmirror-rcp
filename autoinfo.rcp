@@ -1,0 +1,2 @@
+
+(:name autoinfo :description "Show automatic information for the current selection" :type emacsmirror :pkgname "autoinfo" :required nil)

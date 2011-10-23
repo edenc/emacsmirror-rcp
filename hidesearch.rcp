@@ -1,0 +1,2 @@
+
+(:name hidesearch :description "Incremental search while hiding non-matching lines" :type emacsmirror :pkgname "hidesearch" :required nil)

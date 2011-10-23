@@ -1,0 +1,2 @@
+
+(:name oddmuse :description "Edit pages on an Oddmuse wiki" :type emacsmirror :pkgname "oddmuse" :required ((("cl" cl) ("sgml-mode" sgml-mode) ("skeleton" skeleton) ("url" url))))

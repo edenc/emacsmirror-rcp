@@ -1,0 +1,2 @@
+
+(:name visible-lines :description "Move across visible lines instead of logic lines" :type emacsmirror :pkgname "visible-lines" :required nil)

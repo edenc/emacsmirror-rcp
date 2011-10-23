@@ -1,0 +1,2 @@
+
+(:name w32-find-dired :description "Light w32 replacement for `find-dired'" :type emacsmirror :pkgname "w32-find-dired" :required ((("dired" dired))))

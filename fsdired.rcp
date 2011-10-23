@@ -1,0 +1,2 @@
+
+(:name fsdired :description "Sort files to go to different places in dired" :type emacsmirror :pkgname "fsdired" :required (nil (("hide-lines" hide-lines))))

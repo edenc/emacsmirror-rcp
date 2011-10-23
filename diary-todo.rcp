@@ -1,0 +1,2 @@
+
+(:name diary-todo :description "Display `to-do' list in diary" :type emacsmirror :pkgname "diary-todo" :required ((("todo-mode" todo-mode))))

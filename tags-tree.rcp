@@ -1,0 +1,2 @@
+
+(:name tags-tree :description nil :type emacsmirror :pkgname "tags-tree" :required ((("cl" cl) ("etags" etags) ("tree-mode" tree-mode))) :depends (tree-mode))

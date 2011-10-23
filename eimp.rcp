@@ -1,0 +1,2 @@
+
+(:name eimp :description "Emacs Image Manipulation Package" :type emacsmirror :pkgname "eimp" :required ((("image-mode" image-mode) ("trace" trace))))

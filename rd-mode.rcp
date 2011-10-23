@@ -1,0 +1,2 @@
+
+(:name rd-mode :description nil :type emacsmirror :pkgname "rd-mode" :required ((("emacs-core" derived))))

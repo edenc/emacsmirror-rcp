@@ -1,0 +1,2 @@
+
+(:name phutball :description "Play phutball in Emacs" :type emacsmirror :pkgname "phutball" :required nil)

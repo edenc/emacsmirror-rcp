@@ -1,0 +1,2 @@
+
+(:name hideshow-org :description nil :type emacsmirror :pkgname "hideshow-org" :required ((("hideshow" hideshow))))

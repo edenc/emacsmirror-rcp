@@ -1,0 +1,2 @@
+
+(:name member-functions :description "Expand C++ member functions into implementation file" :type emacsmirror :pkgname "member-functions" :required ((("cl" cl))))

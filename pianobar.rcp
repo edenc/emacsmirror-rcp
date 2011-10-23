@@ -1,0 +1,2 @@
+
+(:name pianobar :description nil :type emacsmirror :pkgname "pianobar" :required ((("comint" comint))))

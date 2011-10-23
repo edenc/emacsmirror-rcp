@@ -1,0 +1,2 @@
+
+(:name lunar-mode-line :description "Display lunar phase in mode line of Emacs" :type emacsmirror :pkgname "lunar-mode-line" :required ((("calendar" calendar lunar) ("timer" timer))))

@@ -1,0 +1,2 @@
+
+(:name desktop2wmaker :description "Make a WindowMaker menu out of Redhat .desktop files" :type emacsmirror :pkgname "desktop2wmaker" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name ifind-mode :description "A minor mode based on isearch, for interactively finding" :type emacsmirror :pkgname "ifind-mode" :required nil)

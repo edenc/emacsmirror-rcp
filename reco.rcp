@@ -1,0 +1,2 @@
+
+(:name reco :description "'Reco'gnize what is playing on a streaming audio" :type emacsmirror :pkgname "reco" :required ((("url" url url-parse url-vars))))

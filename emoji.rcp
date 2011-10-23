@@ -1,0 +1,2 @@
+
+(:name emoji :description nil :type emacsmirror :pkgname "emoji" :required ((("anything" anything) ("cl" cl))) :depends (anything))

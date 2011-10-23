@@ -1,0 +1,2 @@
+
+(:name elx :description "Extract information from Emacs Lisp libraries" :type emacsmirror :pkgname "elx" :required ((("cl" cl) ("dconv" dconv) ("lisp-mnt" lisp-mnt) ("vcomp" vcomp))))

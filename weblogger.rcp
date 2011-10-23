@@ -1,0 +1,2 @@
+
+(:name weblogger :description "Weblog maintenance via XML-RPC APIs" :type emacsmirror :pkgname "weblogger" :required ((("cl" cl) ("gnus" message) ("reporter" reporter) ("ring" ring) ("xml-rpc" xml-rpc))) :depends (xml-rpc gnus))

@@ -1,0 +1,2 @@
+
+(:name calfw-gcal :description "Some utilities for calfw.el" :type emacsmirror :pkgname "calfw-gcal" :required ((("calfw" calfw))) :depends (calfw))

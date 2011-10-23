@@ -1,0 +1,2 @@
+
+(:name hobo :description "Remote editting via SCP" :type emacsmirror :pkgname "hobo" :required nil)

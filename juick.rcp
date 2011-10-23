@@ -1,0 +1,2 @@
+
+(:name juick :description "Improvement reading juick@juick.com" :type emacsmirror :pkgname "juick" :required ((("browse-url" browse-url) ("button" button) ("google-maps" google-maps) ("jabber" jabber-chatbuffer jabber-si-common))) :depends (jabber google-maps))

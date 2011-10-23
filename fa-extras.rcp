@@ -1,0 +1,2 @@
+
+(:name fa-extras :description nil :type emacsmirror :pkgname "fa-extras" :required ((("filladapt" filladapt))) :depends (filladapt))

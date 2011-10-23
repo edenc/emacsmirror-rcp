@@ -1,0 +1,2 @@
+
+(:name maven-mode :description nil :type emacsmirror :pkgname "maven-mode" :required nil)

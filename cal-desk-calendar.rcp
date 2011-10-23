@@ -1,0 +1,2 @@
+
+(:name cal-desk-calendar :description "Desk calendar style extensions to Emacs' Calendar/Diary" :type emacsmirror :pkgname "cal-desk-calendar" :required ((("calendar" calendar diary-lib lunar solar))))

@@ -1,0 +1,2 @@
+
+(:name alore-mode :description "A major mode for editing alore programs" :type emacsmirror :pkgname "alore-mode" :required nil)

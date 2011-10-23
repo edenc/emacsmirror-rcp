@@ -1,0 +1,2 @@
+
+(:name switch-to-new-buffer :description "Switch to a new buffer with default name" :type emacsmirror :pkgname "switch-to-new-buffer" :required nil)

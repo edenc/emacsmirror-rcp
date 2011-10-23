@@ -1,0 +1,2 @@
+
+(:name ibuffer-vc :description "Group ibuffer's list by VC project, or show VC status" :type emacsmirror :pkgname "ibuffer-vc" :required ((("cl" cl) ("ibuffer" ibuf-ext ibuffer) ("vc" vc-hooks))))

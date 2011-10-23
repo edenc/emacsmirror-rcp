@@ -1,0 +1,2 @@
+
+(:name fsharp-mode :description nil :type emacsmirror :pkgname "fsharp-mode" :required ((("cl" cl) ("comint" comint) ("compile" compile) ("custom" custom) ("emacs-core" font-lock) ("info-look" info-look))))

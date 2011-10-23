@@ -1,0 +1,2 @@
+
+(:name look-mode :description "Quick file viewer for image and text file browsing" :type emacsmirror :pkgname "look-mode" :required (nil (("eimp" eimp))))

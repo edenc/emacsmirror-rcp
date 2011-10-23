@@ -1,0 +1,2 @@
+
+(:name cobol-mode :description "Handles only what little Cobol I happen to know" :type emacsmirror :pkgname "cobol-mode" :required ((("column-marker" column-marker) ("imenu" imenu) ("which-func" which-func) (nil cobol-indent))) :depends (python-mode))

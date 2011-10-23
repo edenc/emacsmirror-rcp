@@ -1,0 +1,2 @@
+
+(:name tuareg :description "OCaml mode for Emacs" :type emacsmirror :pkgname "tuareg" :required ((("cl" cl) ("comint" comint) ("compile" compile) ("custom" custom) ("easymenu" easymenu) ("emacs-core" derived) ("shell" shell)) (("caml" caml-help caml-types) ("cedet" speedbar))))

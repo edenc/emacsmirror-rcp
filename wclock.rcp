@@ -1,0 +1,2 @@
+
+(:name wclock :description "World clock" :type emacsmirror :pkgname "wclock" :required nil)

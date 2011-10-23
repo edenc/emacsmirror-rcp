@@ -1,0 +1,2 @@
+
+(:name i-ching :description "Cast an i-ching, and come up with a hexagram" :type emacsmirror :pkgname "i-ching" :required nil)

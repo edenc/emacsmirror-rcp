@@ -1,0 +1,2 @@
+
+(:name multi-comment :description "Multi-mode handling of comments and strings" :type emacsmirror :pkgname "multi-comment" :required ((("emacs-core" syntax) ("multi-mode" multi-mode) ("newcomment" newcomment))) :depends (multi-mode))

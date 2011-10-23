@@ -1,0 +1,2 @@
+
+(:name integers :description "Working with integers in the buffer" :type emacsmirror :pkgname "integers" :required ((("thingatpt" thingatpt))))

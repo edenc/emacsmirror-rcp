@@ -1,0 +1,2 @@
+
+(:name byte-code-cache :description "Compile files as they're used" :type emacsmirror :pkgname "byte-code-cache" :required ((("advice" advice) ("emacs-core" bytecomp))))

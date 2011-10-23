@@ -1,0 +1,2 @@
+
+(:name jtemplate :description "Helper for building java class" :type emacsmirror :pkgname "jtemplate" :required (nil (("easymenu" easymenu) (nil jtemplate-db))))

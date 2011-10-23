@@ -1,0 +1,2 @@
+
+(:name bugzilla :description nil :type emacsmirror :pkgname "bugzilla" :required ((("url" url))))

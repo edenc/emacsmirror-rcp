@@ -1,0 +1,2 @@
+
+(:name relisp :description "Library for ruby/elisp interaction" :type emacsmirror :pkgname "relisp" :required nil)

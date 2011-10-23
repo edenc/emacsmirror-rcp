@@ -1,0 +1,2 @@
+
+(:name esv :description nil :type emacsmirror :pkgname "esv" :required ((("calendar" calendar) ("url" url) ("xml" xml))))

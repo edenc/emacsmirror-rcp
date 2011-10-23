@@ -1,0 +1,2 @@
+
+(:name timestamp :description "Update/insert time stamp string at point" :type emacsmirror :pkgname "timestamp" :required nil)

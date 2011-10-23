@@ -1,0 +1,2 @@
+
+(:name dot-emacs-helper :description "Some helper functions for .emacs" :type emacsmirror :pkgname "dot-emacs-helper" :required ((("button" button) ("cl" cl))))

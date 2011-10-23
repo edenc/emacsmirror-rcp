@@ -1,0 +1,2 @@
+
+(:name chess :description "Play chess in Emacs" :type emacsmirror :pkgname "chess" :required ((("cl" cl) ("comint" comint) ("emacs-core" autoload sort) ("rx" rx)) (("pcomplete" pcomplete))))

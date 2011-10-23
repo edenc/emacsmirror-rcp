@@ -1,0 +1,2 @@
+
+(:name project-buffer-mode :description "Generic mode to browse project file" :type emacsmirror :pkgname "project-buffer-mode" :required ((("cl" cl) ("ewoc" ewoc))))

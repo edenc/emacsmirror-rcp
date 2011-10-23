@@ -1,0 +1,2 @@
+
+(:name tehom-font-lock :description "A little help for writing fontlock support" :type emacsmirror :pkgname "tehom-font-lock" :required ((("emacs-core" font-lock))))

@@ -1,0 +1,2 @@
+
+(:name sig-quote :description "Add quotes to signature according to recipients (Gnus/RMAIL/MH-E/vm)" :type emacsmirror :pkgname "sig-quote" :required ((("cl" cl) ("gnus" message) ("mail-utils" mail-utils) ("mh-e" mh-comp) ("sendmail" sendmail) ("vm" vm))) :depends (vm gnus))

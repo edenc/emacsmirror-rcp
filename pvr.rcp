@@ -1,0 +1,2 @@
+
+(:name pvr :description "Personal Video Recorder" :type emacsmirror :pkgname "pvr" :required ((("cl" cl) ("gnus" time-date) ("xml" xml))) :depends (gnus))

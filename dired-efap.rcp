@@ -1,0 +1,2 @@
+
+(:name dired-efap :description "Edit Filename At Point in a dired buffer" :type emacsmirror :pkgname "dired-efap" :required ((("dired" dired) ("emacs-core" font-lock))))

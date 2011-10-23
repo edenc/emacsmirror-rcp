@@ -1,0 +1,2 @@
+
+(:name emacs-rails :description "Minor mode for editing RubyOnRails code" :type emacsmirror :pkgname "emacs-rails" :required ((("align" align) ("ansi-color" ansi-color) ("cedet" speedbar) ("etags" etags) ("flyspell" flyspell) ("hideshow" hideshow) ("nxhtml" find-recursive) ("rinari" inf-ruby) ("ruby-electric" ruby-electric) ("ruby-mode" ruby-mode) ("snippet" snippet) ("sql" sql) (nil inflections)) (("completion-ui" completion-ui) ("flymake" flymake) ("predictive" predictive))) :depends (ruby-electric rinari nxhtml cedet))

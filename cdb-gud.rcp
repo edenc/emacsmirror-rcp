@@ -1,0 +1,2 @@
+
+(:name cdb-gud :description "Grand Unified Debugger mode for running CDB" :type emacsmirror :pkgname "cdb-gud" :required nil)

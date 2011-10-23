@@ -1,0 +1,2 @@
+
+(:name proc-filters :description "Some generally useful process filters" :type emacsmirror :pkgname "proc-filters" :required nil)

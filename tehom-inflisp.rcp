@@ -1,0 +1,2 @@
+
+(:name tehom-inflisp :description "Additions to comint to support rtest" :type emacsmirror :pkgname "tehom-inflisp" :required ((("comint" comint) ("comint-redirect" comint-redirect) ("inf-lisp" inf-lisp))) :depends (comint-redirect))

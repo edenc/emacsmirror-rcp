@@ -1,0 +1,2 @@
+
+(:name tehom-search :description "Support sregex.el for searching" :type emacsmirror :pkgname "tehom-search" :required nil)

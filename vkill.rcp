@@ -1,0 +1,2 @@
+
+(:name vkill :description "View and kill Unix processes from within Emacs" :type emacsmirror :pkgname "vkill" :required nil)

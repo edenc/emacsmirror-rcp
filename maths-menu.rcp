@@ -1,0 +1,2 @@
+
+(:name maths-menu :description "Insert maths characters from a menu" :type emacsmirror :pkgname "maths-menu" :required nil)

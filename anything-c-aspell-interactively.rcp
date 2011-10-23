@@ -1,0 +1,2 @@
+
+(:name anything-c-aspell-interactively :description "Interactive aspell with `anything'" :type emacsmirror :pkgname "anything-c-aspell-interactively" :required ((("anything" anything))) :depends (anything))

@@ -1,0 +1,2 @@
+
+(:name dizzee :description "Utilities for managing subprocesses in Emacs" :type emacsmirror :pkgname "dizzee" :required ((("assoc" assoc) ("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name muon :description "A mode for interacting with MU*s" :type emacsmirror :pkgname "muon" :required ((("cl" cl) ("comint" comint))))

@@ -1,0 +1,2 @@
+
+(:name xml-rpc :description "An elisp implementation of clientside XML-RPC" :type emacsmirror :pkgname "xml-rpc" :required ((("cl" cl) ("reporter" reporter) ("timezone" timezone) ("url" url-http) ("xml" xml))))

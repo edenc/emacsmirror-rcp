@@ -1,0 +1,2 @@
+
+(:name minor-mode-hack :description "Hack of minor-modes" :type emacsmirror :pkgname "minor-mode-hack" :required nil)

@@ -1,0 +1,2 @@
+
+(:name revive :description nil :type emacsmirror :pkgname "revive" :required ((("cc-mode" cc-mode) ("mew" mew) ("mh-e" mh-e mh-utils) ("mpg123" mpg123) ("view" view))) :depends (mpg123 mew cc-mode))

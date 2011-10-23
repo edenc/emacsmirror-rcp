@@ -1,0 +1,2 @@
+
+(:name ruby-comint :description "Run a ruby process in a compilation buffer" :type emacsmirror :pkgname "ruby-comint" :required nil)

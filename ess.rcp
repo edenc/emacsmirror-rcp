@@ -1,0 +1,2 @@
+
+(:name ess :description "Emacs Speaks Statistics: statistical programming within Emacs" :type emacsmirror :pkgname "ess" :required ((("assoc" assoc) ("browse-url" browse-url) ("cc-mode" cc-vars) ("cedet" speedbar) ("comint" comint) ("compile" compile) ("custom" custom) ("easymenu" easymenu) ("emacs-core" font-lock tooltip) ("executable" executable) ("hideshow" hideshow) ("imenu" imenu) ("info" info) ("lisp-mode" lisp-mode) ("paren" paren) ("reporter" reporter) ("shell" shell) ("thingatpt" thingatpt))) :depends (cedet cc-mode))

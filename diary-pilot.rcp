@@ -1,0 +1,2 @@
+
+(:name diary-pilot :description "Export Emacs diary to Palm Pilot" :type emacsmirror :pkgname "diary-pilot" :required nil)

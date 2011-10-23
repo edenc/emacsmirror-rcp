@@ -1,0 +1,2 @@
+
+(:name rcirc-sound :description "CTCP SOUND support for rcirc " :type emacsmirror :pkgname "rcirc-sound" :required nil)

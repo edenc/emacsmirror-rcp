@@ -1,0 +1,2 @@
+
+(:name flydoc :description nil :type emacsmirror :pkgname "flydoc" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("thingatpt" thingatpt))))

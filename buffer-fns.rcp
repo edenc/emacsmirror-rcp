@@ -1,0 +1,2 @@
+
+(:name buffer-fns :description "Functions for modifying buffer contents or display" :type emacsmirror :pkgname "buffer-fns" :required ((("emacs-core" pp) ("emacs-variants" emacs-variants) ("list-fns" list-fns))) :depends (list-fns emacs-variants))

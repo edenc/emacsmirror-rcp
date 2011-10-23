@@ -1,0 +1,2 @@
+
+(:name auto-document :description "Automatic document generator of Emacs Lisp" :type emacsmirror :pkgname "auto-document" :required ((("cl" cl))))

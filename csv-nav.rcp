@@ -1,0 +1,2 @@
+
+(:name csv-nav :description "Navigate and edit CSV files" :type emacsmirror :pkgname "csv-nav" :required nil)

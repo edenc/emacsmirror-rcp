@@ -1,0 +1,2 @@
+
+(:name color-theme-mac-classic :description "A color theme that resembles the TextMate Mac Classic theme. " :type emacsmirror :pkgname "color-theme-mac-classic" :required nil)

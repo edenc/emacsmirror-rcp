@@ -1,0 +1,2 @@
+
+(:name dired-lis :description "Letter isearch in dired-mode" :type emacsmirror :pkgname "dired-lis" :required ((("dired-isearch" dired-isearch))))

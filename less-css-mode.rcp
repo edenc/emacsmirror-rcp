@@ -1,0 +1,2 @@
+
+(:name less-css-mode :description "Major mode for editing LESS CSS files (lesscss.org)" :type emacsmirror :pkgname "less-css-mode" :required ((("compile" compile) ("emacs-core" derived) ("flymake" flymake))))

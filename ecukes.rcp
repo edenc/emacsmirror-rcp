@@ -1,0 +1,2 @@
+
+(:name ecukes :description "Create an Ecukes file structure skeleton" :type emacsmirror :pkgname "ecukes" :required nil)

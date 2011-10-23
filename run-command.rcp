@@ -1,0 +1,2 @@
+
+(:name run-command :description "Library to facilitate running external commands" :type emacsmirror :pkgname "run-command" :required ((("comint" comint))))

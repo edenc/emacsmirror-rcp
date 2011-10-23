@@ -1,0 +1,2 @@
+
+(:name popup-menu :description "Pop up a menu under the mouse pointer" :type emacsmirror :pkgname "popup-menu" :required nil)

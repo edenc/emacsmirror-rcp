@@ -1,0 +1,2 @@
+
+(:name io-mode-inf :description nil :type emacsmirror :pkgname "io-mode-inf" :required ((("comint" comint))))

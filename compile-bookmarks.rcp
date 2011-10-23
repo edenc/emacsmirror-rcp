@@ -1,0 +1,2 @@
+
+(:name compile-bookmarks :description "Bookmarks for compilation commands" :type emacsmirror :pkgname "compile-bookmarks" :required ((("compile" compile) ("recentf" recentf))))

@@ -1,0 +1,2 @@
+
+(:name pocketcompletion :description "Tree style completion intended for tablets" :type emacsmirror :pkgname "pocketcompletion" :required ((("cl" cl) ("predictive" dict-tree trie))) :depends (predictive))

@@ -1,0 +1,2 @@
+
+(:name haskell-mode :description "A Haskell editing mode" :type emacsmirror :pkgname "haskell-mode" :required ((("cl" cl) ("comint" comint) ("compile" compile) ("emacs-core" font-lock) ("etags" etags) ("imenu" imenu) ("shell" shell) (nil func-menu)) (("emacs-core" latin1-disp syntax) (nil syntax-ppss))))

@@ -1,0 +1,2 @@
+
+(:name escreen :description "Emacs window session manager" :type emacsmirror :pkgname "escreen" :required nil)

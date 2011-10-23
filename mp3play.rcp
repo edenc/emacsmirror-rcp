@@ -1,0 +1,2 @@
+
+(:name mp3play :description nil :type emacsmirror :pkgname "mp3play" :required nil)

@@ -1,0 +1,2 @@
+
+(:name emacs-lock+ :description "Extensions to standard library `emacs-lock.el'" :type emacsmirror :pkgname "emacs-lock+" :required ((("emacs-lock" emacs-lock))))

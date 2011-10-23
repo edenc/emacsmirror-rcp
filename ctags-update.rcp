@@ -1,0 +1,2 @@
+
+(:name ctags-update :description "Auto update TAGS in parent directory using exuberant-ctags" :type emacsmirror :pkgname "ctags-update" :required nil)

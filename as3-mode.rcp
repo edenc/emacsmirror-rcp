@@ -1,0 +1,2 @@
+
+(:name as3-mode :description "A simple mode for editing Actionscript 3 files" :type emacsmirror :pkgname "as3-mode" :required ((("cl" cl) ("emacs-core" font-lock) ("gud" gud) ("ido" ido) ("yasnippet" yasnippet) (nil flyparse-mode))) :depends (yasnippet))

@@ -1,0 +1,2 @@
+
+(:name lookup :description "Search interface to electronic dictionaries" :type emacsmirror :pkgname "lookup" :required ((("cl" cl) ("cookie1" cookie1) ("descr-text" descr-text) ("emacs-core" ucs-normalize) ("gnus" hmac-md5) ("json" json) ("navi2ch" navi2ch navi2ch-bookmark) ("semi" mime-view) ("url" url-http url-parse) ("view" view) ("w3m" w3m))) :depends (w3m semi navi2ch gnus))

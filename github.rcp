@@ -1,0 +1,2 @@
+
+(:name github :description "Interact with Github Issues through Emacs" :type emacsmirror :pkgname "github" :required nil)

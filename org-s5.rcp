@@ -1,0 +1,2 @@
+
+(:name org-s5 :description "Helpers for s5 org export" :type emacsmirror :pkgname "org-s5" :required nil)

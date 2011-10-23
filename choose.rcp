@@ -1,0 +1,2 @@
+
+(:name choose :description nil :type emacsmirror :pkgname "choose" :required ((("cl" cl) ("oct" oct) (nil maze utils4))))

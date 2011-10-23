@@ -1,0 +1,2 @@
+
+(:name anchored-transpose :description "Transposes a phrase around an anchor phrase" :type emacsmirror :pkgname "anchored-transpose" :required nil)

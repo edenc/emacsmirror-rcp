@@ -1,0 +1,2 @@
+
+(:name alien-search :description "Search and replace by regexp which is alien to Emacs" :type emacsmirror :pkgname "alien-search" :required ((("align" align) ("cl" cl) ("emacs-core" menu-bar) ("re-builder" re-builder))))

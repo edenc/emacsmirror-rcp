@@ -1,0 +1,2 @@
+
+(:name grep-o-matic :description "Auto grep word under cursor" :type emacsmirror :pkgname "grep-o-matic" :required ((("grep" grep))))

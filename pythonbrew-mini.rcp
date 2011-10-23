@@ -1,0 +1,2 @@
+
+(:name pythonbrew-mini :description "A simple pythonbrew wrapper for Emacs" :type emacsmirror :pkgname "pythonbrew-mini" :required nil)

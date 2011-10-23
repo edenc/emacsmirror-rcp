@@ -1,0 +1,2 @@
+
+(:name ftelnet :description "Remote login interface" :type emacsmirror :pkgname "ftelnet" :required ((("comint" comint) ("shell" shell))))

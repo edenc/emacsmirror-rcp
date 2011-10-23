@@ -1,0 +1,2 @@
+
+(:name news-hack :description "Create newsrc buffers for foreign groups" :type emacsmirror :pkgname "news-hack" :required nil)

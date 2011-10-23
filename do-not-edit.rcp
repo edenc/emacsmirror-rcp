@@ -1,0 +1,2 @@
+
+(:name do-not-edit :description "Read-only buffer for generated files" :type emacsmirror :pkgname "do-not-edit" :required nil)

@@ -1,0 +1,2 @@
+
+(:name wide-column :description "Calls functions dependant on column position" :type emacsmirror :pkgname "wide-column" :required ((("easy-mmode" easy-mmode))))

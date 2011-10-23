@@ -1,0 +1,2 @@
+
+(:name apt-utils :description "Emacs interface to APT (Debian package management)" :type emacsmirror :pkgname "apt-utils" :required ((("browse-url" browse-url) ("dired" dired) ("emacs-core" jka-compr) ("trace" trace))))

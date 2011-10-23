@@ -1,0 +1,2 @@
+
+(:name windows :description nil :type emacsmirror :pkgname "windows" :required ((("revive" revive))) :depends (revive))

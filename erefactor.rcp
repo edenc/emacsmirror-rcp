@@ -1,0 +1,2 @@
+
+(:name erefactor :description "Emacs-Lisp tools" :type emacsmirror :pkgname "erefactor" :required ((("advice" advice) ("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name emms-get-lyrics :description "Get the lyrics of the song emms is currently playing" :type emacsmirror :pkgname "emms-get-lyrics" :required nil)

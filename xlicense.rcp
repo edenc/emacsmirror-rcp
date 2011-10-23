@@ -1,0 +1,2 @@
+
+(:name xlicense :description "Insert a pre-defined license text" :type emacsmirror :pkgname "xlicense" :required ((("skeleton" skeleton))))

@@ -1,0 +1,2 @@
+
+(:name pbook :description "Format a program listing for LaTeX" :type emacsmirror :pkgname "pbook" :required ((("cl" cl))))

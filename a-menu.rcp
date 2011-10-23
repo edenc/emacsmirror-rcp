@@ -1,0 +1,2 @@
+
+(:name a-menu :description "Create a menu from a specified directory" :type emacsmirror :pkgname "a-menu" :required nil)

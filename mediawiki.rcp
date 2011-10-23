@@ -1,0 +1,2 @@
+
+(:name mediawiki :description "Mediawiki frontend" :type emacsmirror :pkgname "mediawiki" :required ((("cl" cl) ("gnus" mm-url mml) ("ring" ring) ("url" url-http))) :depends (gnus))

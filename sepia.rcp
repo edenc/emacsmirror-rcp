@@ -1,0 +1,2 @@
+
+(:name sepia :description "Simple Emacs-Perl InterAction: ugly, yet effective" :type emacsmirror :pkgname "sepia" :required ((("button" button) ("cl" cl) ("cperl-mode" cperl-mode) ("eldoc" eldoc) ("gud" gud) ("ido" ido) ("tree-widget" tree-widget) ("w3m" w3m w3m-perldoc) (nil sepia-snippet))) :depends (w3m cperl-mode))

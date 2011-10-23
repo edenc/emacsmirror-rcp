@@ -1,0 +1,2 @@
+
+(:name elwikidoc :description "Use elisp doc strings to make other documentation" :type emacsmirror :pkgname "elwikidoc" :required nil)

@@ -1,0 +1,2 @@
+
+(:name btjunkie-search :description "Brutal query engine against btjunkie.org" :type emacsmirror :pkgname "btjunkie-search" :required nil)

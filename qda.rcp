@@ -1,0 +1,2 @@
+
+(:name qda :description "Qda project setup" :type emacsmirror :pkgname "qda" :required ((("cl" cl) ("easymenu" easymenu) ("electric" electric) ("emacs-core" derived pp) ("gnus" gnus-range))) :depends (gnus))

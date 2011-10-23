@@ -1,0 +1,2 @@
+
+(:name php-mode :description "Major mode for editing PHP code" :type emacsmirror :pkgname "php-mode" :required ((("add-log" add-log) ("cc-mode" cc-langs cc-mode) ("cedet" speedbar) ("custom" custom) ("emacs-core" font-lock) ("etags" etags) ("regexp-opt" regexp-opt))) :depends (cedet cc-mode))

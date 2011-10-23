@@ -1,0 +1,2 @@
+
+(:name multiverse :description "Manage multiple versions of buffers in an Emacs session" :type emacsmirror :pkgname "multiverse" :required ((("cl" cl))))

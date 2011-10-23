@@ -1,0 +1,2 @@
+
+(:name stuffcast :description "Stuff a PMP with content" :type emacsmirror :pkgname "stuffcast" :required nil)

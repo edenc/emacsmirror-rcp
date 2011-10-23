@@ -1,0 +1,2 @@
+
+(:name nyan-mode :description "Nyan Cat shows position in current buffer in mode-line" :type emacsmirror :pkgname "nyan-mode" :required nil)

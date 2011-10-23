@@ -1,0 +1,2 @@
+
+(:name gosh-mode :description "Programming language gauche editing tools" :type emacsmirror :pkgname "gosh-mode" :required ((("cl" cl) ("cmuscheme" cmuscheme) ("el-expectations" el-expectations) ("el-mock" el-mock) ("erefactor" erefactor) ("flymake" flymake) ("info-look" info-look) ("scheme" scheme)) (("auto-complete" auto-complete-config) ("eldoc" eldoc))) :depends (erefactor el-mock el-expectations))

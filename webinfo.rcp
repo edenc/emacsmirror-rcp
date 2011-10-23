@@ -1,0 +1,2 @@
+
+(:name webinfo :description nil :type emacsmirror :pkgname "webinfo" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name org-mac-protocol :description "Process events triggered by the" :type emacsmirror :pkgname "org-mac-protocol" :required ((("cl" cl) ("org-mode" org-bibtex org-protocol))) :depends (org-mode))

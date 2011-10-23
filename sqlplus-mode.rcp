@@ -1,0 +1,2 @@
+
+(:name sqlplus-mode :description "Mode for editing SQL and testing via SQL*Plus" :type emacsmirror :pkgname "sqlplus-mode" :required ((("emacs-core" font-lock))))

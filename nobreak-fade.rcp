@@ -1,0 +1,2 @@
+
+(:name nobreak-fade :description "Some functions for `fill-nobreak-predicate'" :type emacsmirror :pkgname "nobreak-fade" :required ((("help-mode" help-mode) ("thingatpt" thingatpt))))

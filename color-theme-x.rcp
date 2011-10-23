@@ -1,0 +1,2 @@
+
+(:name color-theme-x :description "Convert color themes to X11 resource settings" :type emacsmirror :pkgname "color-theme-x" :required ((("cl" cl) ("time-stamp" time-stamp))))

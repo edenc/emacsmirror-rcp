@@ -1,0 +1,2 @@
+
+(:name ysq :description "Look up stock quotes using Yahoo" :type emacsmirror :pkgname "ysq" :required nil)

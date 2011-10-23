@@ -1,0 +1,2 @@
+
+(:name tramp-adb :description "Functions for calling Android Debug Bridge from Tramp" :type emacsmirror :pkgname "tramp-adb" :required ((("tramp" tramp))) :depends (tramp))

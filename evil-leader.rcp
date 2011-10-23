@@ -1,0 +1,2 @@
+
+(:name evil-leader :description "Let there be <leader>" :type emacsmirror :pkgname "evil-leader" :required ((("evil" evil))) :depends (evil))

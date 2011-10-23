@@ -1,0 +1,2 @@
+
+(:name rmail-frobs :description "Random RMAIL utilities" :type emacsmirror :pkgname "rmail-frobs" :required nil)

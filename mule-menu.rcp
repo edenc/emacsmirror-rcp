@@ -1,0 +1,2 @@
+
+(:name mule-menu :description "Add multiple language support for menubar" :type emacsmirror :pkgname "mule-menu" :required ((("cl" cl) ("emacs-core" pp) ("tmm" tmm))))

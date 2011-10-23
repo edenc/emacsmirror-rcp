@@ -1,0 +1,2 @@
+
+(:name xterm-title :description "Update xterm titles" :type emacsmirror :pkgname "xterm-title" :required ((("xterm-frobs" xterm-frobs))) :depends (xterm-frobs))

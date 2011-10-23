@@ -1,0 +1,2 @@
+
+(:name status-table :description nil :type emacsmirror :pkgname "status-table" :required ((("page-attributes" page-attributes) ("page-status" page-status) ("webmaster-macros" webmaster-macros))) :depends (webmaster-macros page-status page-attributes))

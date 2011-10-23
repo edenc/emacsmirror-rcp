@@ -1,0 +1,2 @@
+
+(:name ssh-config :description "Manage both ssh and dsh confguration from emacs" :type emacsmirror :pkgname "ssh-config" :required ((("org-mode" org)) (("emacs-core" files) ("vc" vc-hooks))) :depends (org-mode))

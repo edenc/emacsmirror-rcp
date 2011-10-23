@@ -1,0 +1,2 @@
+
+(:name emacs-imap :description nil :type emacsmirror :pkgname "emacs-imap" :required ((("gnus" imap message qp) ("timezone" timezone))) :depends (gnus))

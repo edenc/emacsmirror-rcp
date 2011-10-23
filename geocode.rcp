@@ -1,0 +1,2 @@
+
+(:name geocode :description "Geocoder.us API client for Emacs" :type emacsmirror :pkgname "geocode" :required ((("csv" csv) ("url" url))) :depends (csv))

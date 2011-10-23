@@ -1,0 +1,2 @@
+
+(:name msearch :description "Search for mouse selection" :type emacsmirror :pkgname "msearch" :required nil)

@@ -1,0 +1,2 @@
+
+(:name encap :description "Code to convert sexps to independent functions etc" :type emacsmirror :pkgname "encap" :required ((("arrange" arrange) ("cl" cl) ("emacs-core" pp) ("tehom-cl" tehom-cl) (nil local-vars))) :depends (tehom-cl))

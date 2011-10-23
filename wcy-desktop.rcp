@@ -1,0 +1,2 @@
+
+(:name wcy-desktop :description "Faster than destop.el and less features" :type emacsmirror :pkgname "wcy-desktop" :required nil)

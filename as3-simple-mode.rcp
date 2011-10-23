@@ -1,0 +1,2 @@
+
+(:name as3-simple-mode :description "Major mode for editing ActionScript 3 code" :type emacsmirror :pkgname "as3-simple-mode" :required ((("js" js))))

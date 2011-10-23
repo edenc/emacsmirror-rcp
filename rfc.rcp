@@ -1,0 +1,2 @@
+
+(:name rfc :description "View RFC" :type emacsmirror :pkgname "rfc" :required ((("w3" w3))) :depends (w3))

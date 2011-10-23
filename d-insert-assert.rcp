@@ -1,0 +1,2 @@
+
+(:name d-insert-assert :description "Automagical verbose assert insertion for D Programming Language" :type emacsmirror :pkgname "d-insert-assert" :required ((("cc-mode" cc-mode))) :depends (cc-mode))

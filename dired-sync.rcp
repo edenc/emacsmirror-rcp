@@ -1,0 +1,2 @@
+
+(:name dired-sync :description "Sync directories within dired" :type emacsmirror :pkgname "dired-sync" :required nil)

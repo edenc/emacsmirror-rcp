@@ -1,0 +1,2 @@
+
+(:name save-emacs-state :description nil :type emacsmirror :pkgname "save-emacs-state" :required ((("load-directory" load-directory))) :depends (load-directory))

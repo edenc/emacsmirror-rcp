@@ -1,0 +1,2 @@
+
+(:name delicious :description "Functions to make productive use of the http://del.icio.us API" :type emacsmirror :pkgname "delicious" :required ((("37emacs" rest-api) ("planner" planner) ("thingatpt" thingatpt) ("url" url) ("xml" xml))) :depends (planner 37emacs))

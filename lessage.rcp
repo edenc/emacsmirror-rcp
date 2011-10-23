@@ -1,0 +1,2 @@
+
+(:name lessage :description "Like message but less intrusive" :type emacsmirror :pkgname "lessage" :required nil)

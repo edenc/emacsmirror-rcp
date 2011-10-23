@@ -1,0 +1,2 @@
+
+(:name indent-hints-mode :description "Get some hints about whether your buffer is" :type emacsmirror :pkgname "indent-hints-mode" :required nil)

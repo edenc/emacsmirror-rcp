@@ -1,0 +1,2 @@
+
+(:name duplicate-line :description "Easily dublicate a line" :type emacsmirror :pkgname "duplicate-line" :required nil)

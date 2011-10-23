@@ -1,0 +1,2 @@
+
+(:name auto-capitalize :description "Automatically capitalize (or upcase) words" :type emacsmirror :pkgname "auto-capitalize" :required ((("cl" cl))))

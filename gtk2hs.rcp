@@ -1,0 +1,2 @@
+
+(:name gtk2hs :description "This is tools package for gtk2hs" :type emacsmirror :pkgname "gtk2hs" :required nil)

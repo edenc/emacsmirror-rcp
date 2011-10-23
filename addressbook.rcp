@@ -1,0 +1,2 @@
+
+(:name addressbook :description "A simple addressbook" :type emacsmirror :pkgname "addressbook" :required ((("cl" cl) ("gnus" mm-decode) ("url" url) ("vcard" vcard))) :depends (vcard gnus))

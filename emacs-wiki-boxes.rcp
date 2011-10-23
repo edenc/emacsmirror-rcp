@@ -1,0 +1,2 @@
+
+(:name emacs-wiki-boxes :description "Boxing system for emacs-wiki.el" :type emacsmirror :pkgname "emacs-wiki-boxes" :required nil)

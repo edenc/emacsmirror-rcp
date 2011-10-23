@@ -1,0 +1,2 @@
+
+(:name oberon :description "Major mode for editing Oberon/Oberon-2 program texts" :type emacsmirror :pkgname "oberon" :required ((("emacs-core" font-lock) ("newcomment" newcomment))))

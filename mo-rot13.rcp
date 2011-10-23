@@ -1,0 +1,2 @@
+
+(:name mo-rot13 :description "Convert text buffer to and from ROT13" :type emacsmirror :pkgname "mo-rot13" :required ((("rot13" rot13))))

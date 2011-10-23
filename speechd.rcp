@@ -1,0 +1,2 @@
+
+(:name speechd :description "Library for accessing Speech Dispatcher" :type emacsmirror :pkgname "speechd" :required ((("cedet" eieio) ("cl" cl) ("reporter" reporter))) :depends (cedet))

@@ -1,0 +1,2 @@
+
+(:name tpum :description "Popup menus in text mode" :type emacsmirror :pkgname "tpum" :required ((("cl" cl))))

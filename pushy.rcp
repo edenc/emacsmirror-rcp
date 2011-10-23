@@ -1,0 +1,2 @@
+
+(:name pushy :description "Pushy completion" :type emacsmirror :pkgname "pushy" :required ((("iswitchb" iswitchb))))

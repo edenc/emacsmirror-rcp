@@ -1,0 +1,2 @@
+
+(:name rtf :description "Mode for editing RTF documents" :type emacsmirror :pkgname "rtf" :required ((("cl" cl) ("emacs-core" code-pages))))

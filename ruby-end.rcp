@@ -1,0 +1,2 @@
+
+(:name ruby-end :description "Automatic insertion of end blocks for Ruby" :type emacsmirror :pkgname "ruby-end" :required nil)

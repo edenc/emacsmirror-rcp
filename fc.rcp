@@ -1,0 +1,2 @@
+
+(:name fc :description "A flashcard wrapper to make it more friendly" :type emacsmirror :pkgname "fc" :required ((("flashcard" flashcard) ("flashcard-sm5" flashcard-sm5) ("gnus" time-date)) ((nil kakasi))) :depends (gnus flashcard-sm5 flashcard))

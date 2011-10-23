@@ -1,0 +1,2 @@
+
+(:name session :description "Use variables, registers and buffer places across sessions" :type emacsmirror :pkgname "session" :required ((("cl" cl) ("custom" custom))))

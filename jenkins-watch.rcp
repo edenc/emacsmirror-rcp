@@ -1,0 +1,2 @@
+
+(:name jenkins-watch :description nil :type emacsmirror :pkgname "jenkins-watch" :required nil)

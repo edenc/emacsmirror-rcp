@@ -1,0 +1,2 @@
+
+(:name slime :description "Superior Lisp Interaction Mode for Emacs" :type emacsmirror :pkgname "slime" :required ((("apropos" apropos) ("arc-mode" arc-mode) ("browse-url" browse-url) ("cl" cl) ("comint" comint) ("compile" compile) ("easymenu" easymenu) ("elp" elp) ("emacs-core" bytecomp font-lock overlay pp) ("etags" etags) ("gud" gud) ("outline" outline) ("thingatpt" thingatpt) ("timer" timer) ("tree-widget" tree-widget))))

@@ -1,0 +1,2 @@
+
+(:name w3-heat-link :description nil :type emacsmirror :pkgname "w3-heat-link" :required ((("replace-regexp-list" replace-regexp-list))) :depends (replace-regexp-list))

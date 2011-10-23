@@ -1,0 +1,2 @@
+
+(:name idlwave :description "IDL editing mode for GNU Emacs" :type emacsmirror :pkgname "idlwave" :required ((("browse-url" browse-url) ("cl" cl) ("comint" comint) ("emacs-core" overlay) ("imenu" imenu) ("timer" timer) ("widget" wid-edit widget) ("xml" xml))))

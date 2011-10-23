@@ -1,0 +1,2 @@
+
+(:name todoo :description "Major mode for editing TODO files" :type emacsmirror :pkgname "todoo" :required ((("custom" custom) ("easymenu" easymenu) ("outline" outline))))

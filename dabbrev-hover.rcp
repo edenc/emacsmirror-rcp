@@ -1,0 +1,2 @@
+
+(:name dabbrev-hover :description "Tooltip-show the next completion, as does openoffice" :type emacsmirror :pkgname "dabbrev-hover" :required ((("avoid" avoid) ("cl" cl) ("dabbrev" dabbrev)) (("emacs-core" tooltip))))

@@ -1,0 +1,2 @@
+
+(:name ide-skel :description "IDE skeleton for Emacs Lisp hackers" :type emacsmirror :pkgname "ide-skel" :required ((("cl" cl) ("complete" complete) ("emacs-core" mwheel) ("emhacks" tabbar) ("imenu" imenu) ("info" info) ("recentf" recentf) ("tree-widget" tree-widget))) :depends (emhacks))

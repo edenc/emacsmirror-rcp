@@ -1,0 +1,2 @@
+
+(:name gnus-alias :description "An alternative to gnus-posting-styles" :type emacsmirror :pkgname "gnus-alias" :required ((("gnus" message))) :depends (gnus))

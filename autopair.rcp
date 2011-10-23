@@ -1,0 +1,2 @@
+
+(:name autopair :description "Automagically pair braces and quotes like TextMate" :type emacsmirror :pkgname "autopair" :required ((("cl" cl))))

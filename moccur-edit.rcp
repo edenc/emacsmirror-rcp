@@ -1,0 +1,2 @@
+
+(:name moccur-edit :description "Apply replaces to multiple files" :type emacsmirror :pkgname "moccur-edit" :required ((("color-moccur" color-moccur))) :depends (color-moccur))

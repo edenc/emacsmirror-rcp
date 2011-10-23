@@ -1,0 +1,2 @@
+
+(:name byrd-biff :description "Mail notification" :type emacsmirror :pkgname "byrd-biff" :required ((("timer" timer))))

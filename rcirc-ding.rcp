@@ -1,0 +1,2 @@
+
+(:name rcirc-ding :description "Do something such as beep on channel activity" :type emacsmirror :pkgname "rcirc-ding" :required nil)

@@ -1,0 +1,2 @@
+
+(:name color-namazu :description nil :type emacsmirror :pkgname "color-namazu" :required ((("color-occur" color-occur) ("namazu" namazu) ("view" view))) :depends (namazu color-occur))

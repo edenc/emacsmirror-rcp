@@ -1,0 +1,2 @@
+
+(:name w32-shell-execute :description "W32 specific.  execute any of the 'Explorer verbs' available for a file or directory" :type emacsmirror :pkgname "w32-shell-execute" :required nil)

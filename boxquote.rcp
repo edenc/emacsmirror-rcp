@@ -1,0 +1,2 @@
+
+(:name boxquote :description "Quote text with a semi-box" :type emacsmirror :pkgname "boxquote" :required ((("cl" cl) ("rect" rect))))

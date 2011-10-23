@@ -1,0 +1,2 @@
+
+(:name claire-mode :description "For claire, an object oriented language" :type emacsmirror :pkgname "claire-mode" :required nil)

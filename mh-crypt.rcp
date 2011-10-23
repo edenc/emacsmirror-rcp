@@ -1,0 +1,2 @@
+
+(:name mh-crypt :description "Manage encrypted or compressed MH messages" :type emacsmirror :pkgname "mh-crypt" :required ((("advice" advice) ("crypt++" crypt++) ("mh-e" mh-e) (nil mh-pick))))

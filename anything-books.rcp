@@ -1,0 +1,2 @@
+
+(:name anything-books :description "Anything command for PDF books" :type emacsmirror :pkgname "anything-books" :required ((("cl" cl) ("deferred" concurrent))) :depends (deferred))

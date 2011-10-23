@@ -1,0 +1,2 @@
+
+(:name labbook-sign :description "Provides support for PGP signing the labbook" :type emacsmirror :pkgname "labbook-sign" :required ((("labbook" labbook) ("mailcrypt" mailcrypt))) :depends (mailcrypt labbook))

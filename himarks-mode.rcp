@@ -1,0 +1,2 @@
+
+(:name himarks-mode :description "Highlight marks in buffer" :type emacsmirror :pkgname "himarks-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name navi2ch :description "Navigator for 2ch for Emacsen" :type emacsmirror :pkgname "navi2ch" :required ((("browse-url" browse-url) ("cl" cl) ("emacs-core" base64 ccl) ("migemo" migemo) ("regexp-opt" regexp-opt) ("timer" timer) ("timezone" timezone) ("w3m" w3m) ("widget" wid-edit widget) (nil bitmap spamfilter))) :depends (w3m migemo))

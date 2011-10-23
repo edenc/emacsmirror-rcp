@@ -1,0 +1,2 @@
+
+(:name sticky :description "Sticky key for capital letters" :type emacsmirror :pkgname "sticky" :required ((("cl" cl))))

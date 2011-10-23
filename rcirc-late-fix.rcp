@@ -1,0 +1,2 @@
+
+(:name rcirc-late-fix :description "Replace s/wrong/right strings on rcirc buffers" :type emacsmirror :pkgname "rcirc-late-fix" :required ((("cl" cl) ("rcirc" rcirc))))

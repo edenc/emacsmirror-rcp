@@ -1,0 +1,2 @@
+
+(:name mplayer-mode :description nil :type emacsmirror :pkgname "mplayer-mode" :required nil)

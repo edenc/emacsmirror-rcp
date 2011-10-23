@@ -1,0 +1,2 @@
+
+(:name lilypond :description "Major mode for editing GNU LilyPond music scores" :type emacsmirror :pkgname "lilypond" :required ((("cl" cl) ("compile" compile) ("easymenu" easymenu) ("ecasound" ecasound) (nil ilisp))))

@@ -1,0 +1,2 @@
+
+(:name haskell :description "Major mode for editing Haskell" :type emacsmirror :pkgname "haskell" :required nil)

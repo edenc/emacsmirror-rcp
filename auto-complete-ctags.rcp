@@ -1,0 +1,2 @@
+
+(:name auto-complete-ctags :description nil :type emacsmirror :pkgname "auto-complete-ctags" :required ((("auto-complete" auto-complete) ("button" button) ("cl" cl))) :depends (auto-complete))

@@ -1,0 +1,2 @@
+
+(:name emms-seek-minor-mode :description "Like emacs-volume-minor-mode except +/- seek" :type emacsmirror :pkgname "emms-seek-minor-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name startup-messages :description nil :type emacsmirror :pkgname "startup-messages" :required nil)

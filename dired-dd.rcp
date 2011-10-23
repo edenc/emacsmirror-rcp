@@ -1,0 +1,2 @@
+
+(:name dired-dd :description "Drag and Drop interface to dired/dired-x package" :type emacsmirror :pkgname "dired-dd" :required ((("browse-url" browse-url) ("cl" cl) ("dired" dired) ("dired-aux" dired-aux) ("dired-x" dired-x) ("mpg123" mpg123) (nil timidity))) :depends (mpg123))

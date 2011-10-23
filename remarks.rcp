@@ -1,0 +1,2 @@
+
+(:name remarks :description "Text annotations" :type emacsmirror :pkgname "remarks" :required ((("cl" cl) ("emacs-core" overlay) ("tellib" tellib))) :depends (tellib))

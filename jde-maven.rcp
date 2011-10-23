@@ -1,0 +1,2 @@
+
+(:name jde-maven :description "Use Apache Maven to build your JDE projects" :type emacsmirror :pkgname "jde-maven" :required nil)

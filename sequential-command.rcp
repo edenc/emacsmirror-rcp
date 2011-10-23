@@ -1,0 +1,2 @@
+
+(:name sequential-command :description "Many commands into one command" :type emacsmirror :pkgname "sequential-command" :required ((("cl" cl)) (("org-mode" org))))

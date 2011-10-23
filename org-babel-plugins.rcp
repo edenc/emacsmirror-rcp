@@ -1,0 +1,2 @@
+
+(:name org-babel-plugins :description "Org-babel functions for pygment evaluation" :type emacsmirror :pkgname "org-babel-plugins" :required ((("org-mode" ob ob-eval))) :depends (org-mode))

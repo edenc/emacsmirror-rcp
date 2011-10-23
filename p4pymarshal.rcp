@@ -1,0 +1,2 @@
+
+(:name p4pymarshal :description "Read/write p4 python marshalled objects" :type emacsmirror :pkgname "p4pymarshal" :required nil)

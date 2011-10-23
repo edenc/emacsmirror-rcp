@@ -1,0 +1,2 @@
+
+(:name tehom-2 :description "Emacs lisp extensions for history lists" :type emacsmirror :pkgname "tehom-2" :required nil)

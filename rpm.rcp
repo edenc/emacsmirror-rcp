@@ -1,0 +1,2 @@
+
+(:name rpm :description "Front end for rpm (the RedHat Package Manager) now widely" :type emacsmirror :pkgname "rpm" :required ((("custom" custom) ("dired" dired) ("elib" cookie))) :depends (elib))

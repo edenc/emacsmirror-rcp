@@ -1,0 +1,2 @@
+
+(:name syslog-mode :description "Mode for viewing system logfiles" :type emacsmirror :pkgname "syslog-mode" :required nil)

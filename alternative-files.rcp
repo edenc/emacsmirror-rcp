@@ -1,0 +1,2 @@
+
+(:name alternative-files :description "Go to alternative file" :type emacsmirror :pkgname "alternative-files" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name oremus :description nil :type emacsmirror :pkgname "oremus" :required ((("autocue" autocue) ("cl" cl) ("w3" w3))) :depends (w3 autocue))

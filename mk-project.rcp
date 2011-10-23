@@ -1,0 +1,2 @@
+
+(:name mk-project :description "Lightweight project handling" :type emacsmirror :pkgname "mk-project" :required ((("cl" cl) ("grep" grep) ("thingatpt" thingatpt))))

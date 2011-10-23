@@ -1,0 +1,2 @@
+
+(:name tmmofl :description "Calls functions dependant on font lock highlighting at point" :type emacsmirror :pkgname "tmmofl" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("emacs-core" font-lock))))

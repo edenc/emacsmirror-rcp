@@ -1,0 +1,2 @@
+
+(:name mine-sweeper-auto :description "Automated mine sweeping for mine-sweeper.el" :type emacsmirror :pkgname "mine-sweeper-auto" :required ((("cl" cl))))

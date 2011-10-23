@@ -1,0 +1,2 @@
+
+(:name mutt-alias :description "Lookup/insert mutt mail aliases" :type emacsmirror :pkgname "mutt-alias" :required ((("cl" cl))))

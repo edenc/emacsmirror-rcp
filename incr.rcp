@@ -1,0 +1,2 @@
+
+(:name incr :description "Increase everything as you want" :type emacsmirror :pkgname "incr" :required ((("calculator" calculator) ("cl" cl) ("rect" rect) (nil hannum))))

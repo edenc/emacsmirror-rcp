@@ -1,0 +1,2 @@
+
+(:name smart-mark :description "Smart Mark for GNU Emacs" :type emacsmirror :pkgname "smart-mark" :required ((("sgml-mode" sgml-mode) ("thingatpt" thingatpt))))

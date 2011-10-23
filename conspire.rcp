@@ -1,0 +1,2 @@
+
+(:name conspire :description "Collaborative real-time editing" :type emacsmirror :pkgname "conspire" :required nil)

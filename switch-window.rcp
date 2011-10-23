@@ -1,0 +1,2 @@
+
+(:name switch-window :description "A *visual* way to choose a window to switch to" :type emacsmirror :pkgname "switch-window" :required ((("cl" cl) ("emacs-core" quail))))

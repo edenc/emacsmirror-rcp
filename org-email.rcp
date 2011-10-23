@@ -1,0 +1,2 @@
+
+(:name org-email :description "Use org for an email database" :type emacsmirror :pkgname "org-email" :required (((nil ert))) :depends (rvm))

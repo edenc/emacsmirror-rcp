@@ -1,0 +1,2 @@
+
+(:name ruby-test :description "Test runner for ruby unit tests" :type emacsmirror :pkgname "ruby-test" :required nil)

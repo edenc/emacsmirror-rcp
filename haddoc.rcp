@@ -1,0 +1,2 @@
+
+(:name haddoc :description "Browse Python HTML documentation from Emacs" :type emacsmirror :pkgname "haddoc" :required ((("browse-url" browse-url))))

@@ -1,0 +1,2 @@
+
+(:name mm2mw :description "A MoinMoin 1.2.x -> MediaWiki 1.7.x converter" :type emacsmirror :pkgname "mm2mw" :required ((("url" url))))

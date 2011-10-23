@@ -1,0 +1,2 @@
+
+(:name guess-style :description "Automatic setting of code style variables" :type emacsmirror :pkgname "guess-style" :required ((("cl" cl))))

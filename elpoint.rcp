@@ -1,0 +1,2 @@
+
+(:name elpoint :description "Elpoint -- Yet Another Presentation Tool for Emacsen" :type emacsmirror :pkgname "elpoint" :required ((("apel" product) ("cl" cl) ("emacs-core" derived) ("outline" outline) ("w3m" w3m))) :depends (w3m apel))

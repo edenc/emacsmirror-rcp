@@ -1,0 +1,2 @@
+
+(:name jserial :description nil :type emacsmirror :pkgname "jserial" :required ((("jdee" jde))) :depends (jdee))

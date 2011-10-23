@@ -1,0 +1,2 @@
+
+(:name ansys-mod :description "Editing Ansys log files under Emacs" :type emacsmirror :pkgname "ansys-mod" :required ((("easymenu" easymenu) ("emacs-core" backquote) ("paren" paren) ("reporter" reporter))))

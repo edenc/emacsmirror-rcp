@@ -1,0 +1,2 @@
+
+(:name gse-number-rect :description "Inserts incremental numbers in a rectangle" :type emacsmirror :pkgname "gse-number-rect" :required ((("rect" rect))))

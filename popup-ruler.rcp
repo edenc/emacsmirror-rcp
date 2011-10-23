@@ -1,0 +1,2 @@
+
+(:name popup-ruler :description "Displays a ruler at point" :type emacsmirror :pkgname "popup-ruler" :required nil)

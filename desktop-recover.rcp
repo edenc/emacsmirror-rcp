@@ -1,0 +1,2 @@
+
+(:name desktop-recover :description nil :type emacsmirror :pkgname "desktop-recover" :required ((("cl" cl) ("desktop" desktop) ("thingatpt" thingatpt) (nil desktop-recover-autosave))))

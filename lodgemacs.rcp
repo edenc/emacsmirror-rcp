@@ -1,0 +1,2 @@
+
+(:name lodgemacs :description "Pasting to paste.pocoo.org or other instances of LodgeIt" :type emacsmirror :pkgname "lodgemacs" :required ((("browse-url" browse-url) ("json" json) ("url" url))))

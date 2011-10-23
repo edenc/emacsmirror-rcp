@@ -1,0 +1,2 @@
+
+(:name parenthesis :description "Insert pair of parenthesis" :type emacsmirror :pkgname "parenthesis" :required nil)

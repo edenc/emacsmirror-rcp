@@ -1,0 +1,2 @@
+
+(:name iswitchb-highlight :description "Highlighting extension for iswitchb" :type emacsmirror :pkgname "iswitchb-highlight" :required ((("iswitchb" iswitchb))))

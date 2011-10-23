@@ -1,0 +1,2 @@
+
+(:name popup-kill-ring :description "Interactively insert item from kill-ring" :type emacsmirror :pkgname "popup-kill-ring" :required ((("cl" cl) ("popup" popup) ("pos-tip" pos-tip))) :depends (pos-tip popup))

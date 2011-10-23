@@ -1,0 +1,2 @@
+
+(:name java-open :description "Open source file of Java class name under point" :type emacsmirror :pkgname "java-open" :required nil)

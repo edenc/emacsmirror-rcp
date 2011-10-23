@@ -1,0 +1,2 @@
+
+(:name fff-elisp :description "Find emacs lisp libaries and function definitions" :type emacsmirror :pkgname "fff-elisp" :required ((("fff" fff))) :depends (fff))

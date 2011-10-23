@@ -1,0 +1,2 @@
+
+(:name el-fast-filelist :description "Fast file access for given folder" :type emacsmirror :pkgname "el-fast-filelist" :required (nil (("el-index" el-index/el-index) (nil el-kit/directory el-kit/file el-kit/key el-kit/list))))

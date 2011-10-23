@@ -1,0 +1,2 @@
+
+(:name flashcard-sm5 :description "SuperMemo algorithm for Emacs flashcard" :type emacsmirror :pkgname "flashcard-sm5" :required ((("flashcard" flashcard))) :depends (flashcard))

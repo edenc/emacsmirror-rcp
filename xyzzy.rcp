@@ -1,0 +1,2 @@
+
+(:name xyzzy :description "Can use the function with built-in xyzzy" :type emacsmirror :pkgname "xyzzy" :required nil)

@@ -1,0 +1,2 @@
+
+(:name rcirc-dbus :description "Rcirc dbus notifications" :type emacsmirror :pkgname "rcirc-dbus" :required ((("dbus" dbus))))

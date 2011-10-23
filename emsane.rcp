@@ -1,0 +1,2 @@
+
+(:name emsane :description "Emacs SANE frontend" :type emacsmirror :pkgname "emsane" :required ((("cedet" eieio))) :depends (cedet))

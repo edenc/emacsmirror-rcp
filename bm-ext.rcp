@@ -1,0 +1,2 @@
+
+(:name bm-ext :description nil :type emacsmirror :pkgname "bm-ext" :required ((("bm" bm) ("cl" cl))) :depends (bm))

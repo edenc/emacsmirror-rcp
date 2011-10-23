@@ -1,0 +1,2 @@
+
+(:name multi-mode :description "Support for multiple major modes" :type emacsmirror :pkgname "multi-mode" :required ((("advice" advice) ("emacs-core" font-lock) ("imenu" imenu))))

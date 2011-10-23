@@ -1,0 +1,2 @@
+
+(:name misc-elisp-tools :description "Assorted elisp-related tools" :type emacsmirror :pkgname "misc-elisp-tools" :required nil)

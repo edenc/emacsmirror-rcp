@@ -1,0 +1,2 @@
+
+(:name erc-track-score :description "Add score support to tracked channel buffers" :type emacsmirror :pkgname "erc-track-score" :required ((("cl" cl) ("erc" erc erc-match erc-track) ("timer" timer))) :depends (erc))

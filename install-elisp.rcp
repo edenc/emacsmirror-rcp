@@ -1,0 +1,2 @@
+
+(:name install-elisp :description "Simple Emacs Lisp installer" :type emacsmirror :pkgname "install-elisp" :required ((("find-func" find-func))))

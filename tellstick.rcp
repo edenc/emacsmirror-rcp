@@ -1,0 +1,2 @@
+
+(:name tellstick :description "Controlling tellstick controllers" :type emacsmirror :pkgname "tellstick" :required ((("cl" cl))))

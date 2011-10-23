@@ -1,0 +1,2 @@
+
+(:name xwem :description "Main part of xwem" :type emacsmirror :pkgname "xwem" :required ((("cedet" working) ("cl" cl) ("comint" comint) ("custom" cus-face) ("edmacro" edmacro) ("itimer" itimer) ("strokes" strokes) ("time" time) (nil color-selector completer xpm-button xpm-mode))) :depends (itimer cedet))

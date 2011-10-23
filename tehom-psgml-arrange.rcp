@@ -1,0 +1,2 @@
+
+(:name tehom-psgml-arrange :description "Rearrange XML/SGML easily" :type emacsmirror :pkgname "tehom-psgml-arrange" :required ((("arrange" arrange) ("cl" cl) ("psgml" psgml) ("tehom-psgml" tehom-psgml))) :depends (psgml))

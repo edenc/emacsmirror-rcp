@@ -1,0 +1,2 @@
+
+(:name completion-ui :description nil :type emacsmirror :pkgname "completion-ui" :required ((("cedet" semantic-ia) ("cl" cl) ("dabbrev" dabbrev) ("etags" etags) ("flyspell" flyspell) ("ispell" ispell) ("pos-tip" pos-tip)) (("cedet" semantic) (nil nxml))) :depends (pos-tip cedet))

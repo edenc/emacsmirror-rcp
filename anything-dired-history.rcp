@@ -1,0 +1,2 @@
+
+(:name anything-dired-history :description nil :type emacsmirror :pkgname "anything-dired-history" :required ((("anything" anything) ("dired" dired))) :depends (anything))

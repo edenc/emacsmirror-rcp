@@ -1,0 +1,2 @@
+
+(:name md-readme :description "Markdown-formatted READMEs for your ELisp" :type emacsmirror :pkgname "md-readme" :required nil)

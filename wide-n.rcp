@@ -1,0 +1,2 @@
+
+(:name wide-n :description "Cycle among buffer restrictions" :type emacsmirror :pkgname "wide-n" :required ((("repeat" repeat))))

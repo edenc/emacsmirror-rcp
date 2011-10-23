@@ -1,0 +1,2 @@
+
+(:name http-emacs :description "Simple HTTP POST" :type emacsmirror :pkgname "http-emacs" :required ((("cl" cl) ("emacs-core" font-lock) ("gnus" time-date) ("hexl" hexl) ("thingatpt" thingatpt))) :depends (gnus))

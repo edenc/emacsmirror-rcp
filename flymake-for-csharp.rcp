@@ -1,0 +1,2 @@
+
+(:name flymake-for-csharp :description "C# mode derived mode" :type emacsmirror :pkgname "flymake-for-csharp" :required ((("flymake" flymake))))

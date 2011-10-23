@@ -1,0 +1,2 @@
+
+(:name jinja2 :description nil :type emacsmirror :pkgname "jinja2" :required ((("sgml-mode" sgml-mode))))

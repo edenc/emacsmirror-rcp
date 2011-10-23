@@ -1,0 +1,2 @@
+
+(:name texi-docstring-magic :description "Munge internal docstrings into texi" :type emacsmirror :pkgname "texi-docstring-magic" :required nil)

@@ -1,0 +1,2 @@
+
+(:name mdee :description nil :type emacsmirror :pkgname "mdee" :required ((("javascript-mode" javascript-mode))) :depends (javascript-mode))

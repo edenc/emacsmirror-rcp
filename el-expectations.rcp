@@ -1,0 +1,2 @@
+
+(:name el-expectations :description "Minimalist unit testing framework" :type emacsmirror :pkgname "el-expectations" :required ((("cl" cl)) (("el-mock" el-mock))))

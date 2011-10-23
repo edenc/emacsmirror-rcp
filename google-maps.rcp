@@ -1,0 +1,2 @@
+
+(:name google-maps :description "Access Google Maps from Emacs" :type emacsmirror :pkgname "google-maps" :required ((("calendar" solar) ("cl" cl) ("easymenu" easymenu) ("json" json) ("org-mode" org org-agenda) ("url" url-util))) :depends (org-mode))

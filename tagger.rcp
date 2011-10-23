@@ -1,0 +1,2 @@
+
+(:name tagger :description "Tagged information handler" :type emacsmirror :pkgname "tagger" :required ((("cl" cl))))

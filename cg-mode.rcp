@@ -1,0 +1,2 @@
+
+(:name cg-mode :description "Mode for editing cg programs" :type emacsmirror :pkgname "cg-mode" :required nil)

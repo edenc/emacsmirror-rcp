@@ -1,0 +1,2 @@
+
+(:name clibpc :description "Partial complete functions for c libraries" :type emacsmirror :pkgname "clibpc" :required ((("button" button) ("cl" cl) ("complete" complete))))

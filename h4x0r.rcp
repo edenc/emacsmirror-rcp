@@ -1,0 +1,2 @@
+
+(:name h4x0r :description nil :type emacsmirror :pkgname "h4x0r" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name evil-numbers :description "Increment/decrement numbers like in vim" :type emacsmirror :pkgname "evil-numbers" :required nil)

@@ -1,0 +1,2 @@
+
+(:name cust-stub :description "Defcustom stub for emacs versions without custom.el" :type emacsmirror :pkgname "cust-stub" :required nil)

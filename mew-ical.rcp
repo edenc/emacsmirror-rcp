@@ -1,0 +1,2 @@
+
+(:name mew-ical :description "ICalendar support for Mew" :type emacsmirror :pkgname "mew-ical" :required ((("browse-url" browse-url))))

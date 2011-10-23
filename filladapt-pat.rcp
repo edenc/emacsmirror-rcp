@@ -1,0 +1,2 @@
+
+(:name filladapt-pat :description "Add or remove some filladapt patterns" :type emacsmirror :pkgname "filladapt-pat" :required nil)

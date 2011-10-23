@@ -1,0 +1,2 @@
+
+(:name monk :description "For bleeding hearts," :type emacsmirror :pkgname "monk" :required ((("cl" cl) ("dired" dired) ("dired-aux" dired-aux) ("emacs-core" pp) ("timer" timer) (nil timidity))))

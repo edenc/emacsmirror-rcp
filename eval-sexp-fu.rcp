@@ -1,0 +1,2 @@
+
+(:name eval-sexp-fu :description "Tiny functionality enhancements for evaluating sexps" :type emacsmirror :pkgname "eval-sexp-fu" :required ((("cl" cl) ("highlight" highlight) ("rx" rx))))

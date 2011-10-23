@@ -1,0 +1,2 @@
+
+(:name ps-stack-comments :description "Update stack comments in a PostScript file" :type emacsmirror :pkgname "ps-stack-comments" :required nil)

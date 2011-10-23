@@ -1,0 +1,2 @@
+
+(:name thingopt :description "Thing at Point optional utilities" :type emacsmirror :pkgname "thingopt" :required ((("cl" cl) ("thingatpt" thingatpt))))

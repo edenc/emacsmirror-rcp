@@ -1,0 +1,2 @@
+
+(:name desire :description "Versatile configuration for emacs lisp packages" :type emacsmirror :pkgname "desire" :required nil)

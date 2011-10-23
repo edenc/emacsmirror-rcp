@@ -1,0 +1,2 @@
+
+(:name gentext-models :description "Model functions for generic text" :type emacsmirror :pkgname "gentext-models" :required nil)

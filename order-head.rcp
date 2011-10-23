@@ -1,0 +1,2 @@
+
+(:name order-head :description "Re-arrange mail headers into pleasing order" :type emacsmirror :pkgname "order-head" :required ((("fmailutils" fmailutils) ("rfc822" rfc822))) :depends (fmailutils))

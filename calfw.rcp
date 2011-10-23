@@ -1,0 +1,2 @@
+
+(:name calfw :description "Calendar view framework on Emacs" :type emacsmirror :pkgname "calfw" :required ((("calendar" calendar holidays) ("cl" cl) ("howm" howm) ("icalendar" icalendar) ("org-mode" org org-agenda) ("url" url))) :depends (org-mode howm))

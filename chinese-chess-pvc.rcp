@@ -1,0 +1,2 @@
+
+(:name chinese-chess-pvc :description "A chinese chess computer player" :type emacsmirror :pkgname "chinese-chess-pvc" :required ((("chinese-chess" chinese-chess) ("cl" cl))) :depends (chinese-chess))

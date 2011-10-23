@@ -1,0 +1,2 @@
+
+(:name gestures :description "Configuration for strokes-mode with a touchscreen" :type emacsmirror :pkgname "gestures" :required ((("strokes" strokes))))

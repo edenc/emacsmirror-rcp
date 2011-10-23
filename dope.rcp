@@ -1,0 +1,2 @@
+
+(:name dope :description "DOtemacs ProfilEr.. A per-sexp-evaltime profiler" :type emacsmirror :pkgname "dope" :required ((("cl" cl) ("custom" custom) ("emacs-core" pp) ("thingatpt" thingatpt) ("widget" wid-edit widget))))

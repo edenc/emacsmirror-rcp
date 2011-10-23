@@ -1,0 +1,2 @@
+
+(:name remind-conf-mode :description "A mode to help configure remind" :type emacsmirror :pkgname "remind-conf-mode" :required ((("auto-complete" auto-complete) ("emacs-core" font-lock overlay))) :depends (auto-complete))

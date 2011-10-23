@@ -1,0 +1,2 @@
+
+(:name cdt :description "Emacs interface to the Clojure Debugging Toolkit" :type emacsmirror :pkgname "cdt" :required nil)

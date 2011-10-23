@@ -1,0 +1,2 @@
+
+(:name ns-browse :description "View html-enriched mail/news buffers using Netscape" :type emacsmirror :pkgname "ns-browse" :required nil)

@@ -1,0 +1,2 @@
+
+(:name html-key-chord-mode :description "Support html tagging key chord" :type emacsmirror :pkgname "html-key-chord-mode" :required ((("key-chord" key-chord) ("xyzzy" xyzzy))) :depends (xyzzy key-chord))

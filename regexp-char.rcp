@@ -1,0 +1,2 @@
+
+(:name regexp-char :description "Generate regular expression matching a character" :type emacsmirror :pkgname "regexp-char" :required nil)

@@ -1,0 +1,2 @@
+
+(:name movie :description "Playing movies" :type emacsmirror :pkgname "movie" :required nil)

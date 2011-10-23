@@ -1,0 +1,2 @@
+
+(:name bibl-mode :description "A major mode for maintaining bibliography files" :type emacsmirror :pkgname "bibl-mode" :required ((("easymenu" easymenu) ("reporter" reporter) ("telnet" telnet))))

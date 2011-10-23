@@ -1,0 +1,2 @@
+
+(:name todo-list-mode :description "Major mode for highlighting a numbered todo list" :type emacsmirror :pkgname "todo-list-mode" :required nil)

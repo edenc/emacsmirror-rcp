@@ -1,0 +1,2 @@
+
+(:name yaham :description "Simple haskell mode specialized for ghc" :type emacsmirror :pkgname "yaham" :required ((("comint" comint) ("compile" compile) ("easymenu" easymenu) ("imenu" imenu) ("newcomment" newcomment) ("regexp-opt" regexp-opt) ("thingatpt" thingatpt))))

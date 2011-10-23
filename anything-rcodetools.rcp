@@ -1,0 +1,2 @@
+
+(:name anything-rcodetools :description "Accurate Ruby method completion with anything" :type emacsmirror :pkgname "anything-rcodetools" :required ((("anything" anything) (nil rcodetools)) (("anything" anything-show-completion))) :depends (anything))

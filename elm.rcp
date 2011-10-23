@@ -1,0 +1,2 @@
+
+(:name elm :description "Maintain the Emacsmirror" :type emacsmirror :pkgname "elm" :required ((("arc-mode" arc-mode) ("cl" cl) ("epkg" epkg) ("gh" gh-repos) ("magit" magit) ("map-progress" map-progress) ("save-sexp" save-sexp) ("vcomp" vcomp) ("xpkg" xpkg) (nil elm-next epkg-next minmacs))) :depends (save-sexp magit gh epkg))

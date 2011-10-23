@@ -1,0 +1,2 @@
+
+(:name task-mode :description "Enhanced window configuration manager" :type emacsmirror :pkgname "task-mode" :required ((("ring" ring)) (("ido" ido) ("iswitchb" iswitchb))))

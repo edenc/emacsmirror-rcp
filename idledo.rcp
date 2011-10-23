@@ -1,0 +1,2 @@
+
+(:name idledo :description "Do stuff when emacs is idle." :type emacsmirror :pkgname "idledo" :required ((("apt-utils" apt-utils) ("bbdb" bbdb) ("cl" cl) ("fetch" fetch) ("vel" vel) ("woman" woman) (nil elder-beautify))) :depends (vel fetch bbdb apt-utils))

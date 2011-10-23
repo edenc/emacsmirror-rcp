@@ -1,0 +1,2 @@
+
+(:name background :description nil :type emacsmirror :pkgname "background" :required ((("shell" shell))))

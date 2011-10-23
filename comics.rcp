@@ -1,0 +1,2 @@
+
+(:name comics :description "Download and read comics from emacs" :type emacsmirror :pkgname "comics" :required ((("calendar" calendar))))

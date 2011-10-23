@@ -1,0 +1,2 @@
+
+(:name spartan-wiki :description "A really spartan personal wiki" :type emacsmirror :pkgname "spartan-wiki" :required ((("cl" cl))))

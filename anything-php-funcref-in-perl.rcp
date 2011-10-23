@@ -1,0 +1,2 @@
+
+(:name anything-php-funcref-in-perl :description "Docs-php-funcref-in-perl anything.el interface" :type emacsmirror :pkgname "anything-php-funcref-in-perl" :required ((("anything" anything) ("cl" cl))) :depends (anything))

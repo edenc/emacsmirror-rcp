@@ -1,0 +1,2 @@
+
+(:name procmaillog :description "Read the procmail log file in Gnus" :type emacsmirror :pkgname "procmaillog" :required nil)

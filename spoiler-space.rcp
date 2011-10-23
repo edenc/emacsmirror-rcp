@@ -1,0 +1,2 @@
+
+(:name spoiler-space :description "1-key, automatically insert spoiler space" :type emacsmirror :pkgname "spoiler-space" :required nil)

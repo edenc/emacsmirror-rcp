@@ -1,0 +1,2 @@
+
+(:name irc :description "A user interface for the Internet Relay Chat" :type emacsmirror :pkgname "irc" :required nil)

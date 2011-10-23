@@ -1,0 +1,2 @@
+
+(:name textmate-to-yas :description "Import Textmate macros into yasnippet syntax" :type emacsmirror :pkgname "textmate-to-yas" :required ((("url" url))))

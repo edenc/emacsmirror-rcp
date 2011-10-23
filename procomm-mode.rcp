@@ -1,0 +1,2 @@
+
+(:name procomm-mode :description "Major mode for editing PROCOMM ASPECT scripts" :type emacsmirror :pkgname "procomm-mode" :required nil)

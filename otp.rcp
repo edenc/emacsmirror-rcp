@@ -1,0 +1,2 @@
+
+(:name otp :description "A one-time password creator for Emacs" :type emacsmirror :pkgname "otp" :required nil)

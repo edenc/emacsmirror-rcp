@@ -1,0 +1,2 @@
+
+(:name ac-anything :description "Auto Complete with Anything" :type emacsmirror :pkgname "ac-anything" :required ((("anything" anything) ("auto-complete" auto-complete)) (("anything" anything-match-plugin anything-show-completion))) :depends (auto-complete anything))

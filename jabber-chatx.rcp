@@ -1,0 +1,2 @@
+
+(:name jabber-chatx :description "Add the ability to remember and extract old messages" :type emacsmirror :pkgname "jabber-chatx" :required ((("jabber" jabber))) :depends (jabber))

@@ -1,0 +1,2 @@
+
+(:name auto-pair+ :description "Autopair handler to extend Autopair behavior" :type emacsmirror :pkgname "auto-pair+" :required nil)

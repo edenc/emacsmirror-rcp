@@ -1,0 +1,2 @@
+
+(:name invoice :description "Interface for personal contracting invoice system" :type emacsmirror :pkgname "invoice" :required ((("time-stamp" time-stamp))))

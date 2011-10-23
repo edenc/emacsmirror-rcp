@@ -1,0 +1,2 @@
+
+(:name frame-bufs :description "A minor mode for frame-relative buffer lists" :type emacsmirror :pkgname "frame-bufs" :required nil)

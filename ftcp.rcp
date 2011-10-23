@@ -1,0 +1,2 @@
+
+(:name ftcp :description "Wrapper for open-network-stream to use external process" :type emacsmirror :pkgname "ftcp" :required ((("advice" advice))))

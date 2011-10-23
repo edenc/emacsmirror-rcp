@@ -1,0 +1,2 @@
+
+(:name muse-blog :description "Keep and publish a blog" :type emacsmirror :pkgname "muse-blog" :required ((("muse" muse-html muse-journal muse-publish))))

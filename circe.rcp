@@ -1,0 +1,2 @@
+
+(:name circe :description "Client for IRC in Emacs" :type emacsmirror :pkgname "circe" :required ((("emacs-core" autoload font-lock overlay) ("gnus" time-date) ("lui" lui) ("ring" ring) ("timer" timer))) :depends (lui gnus))

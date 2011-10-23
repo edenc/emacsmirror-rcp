@@ -1,0 +1,2 @@
+
+(:name arxiv-reader :description "An interface for reading and sorting arXiv abstracts" :type emacsmirror :pkgname "arxiv-reader" :required nil)

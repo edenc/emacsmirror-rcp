@@ -1,0 +1,2 @@
+
+(:name gnus-desktop-notify :description nil :type emacsmirror :pkgname "gnus-desktop-notify" :required ((("assoc" assoc) ("gnus" format-spec gnus-group))) :depends (gnus))

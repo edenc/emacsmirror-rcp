@@ -1,0 +1,2 @@
+
+(:name musicbrainz :description "Musicbrainz interface" :type emacsmirror :pkgname "musicbrainz" :required ((("cl" cl) ("gnus" message mm-url) ("url" url))) :depends (gnus))

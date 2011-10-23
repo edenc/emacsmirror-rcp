@@ -1,0 +1,2 @@
+
+(:name smartquotes :description "Insertion of unicode quotes in text documents" :type emacsmirror :pkgname "smartquotes" :required nil)

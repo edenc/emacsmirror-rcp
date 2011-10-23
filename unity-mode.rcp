@@ -1,0 +1,2 @@
+
+(:name unity-mode :description "Minor mode for Unity, CMock, and Ceedling" :type emacsmirror :pkgname "unity-mode" :required nil)

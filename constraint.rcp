@@ -1,0 +1,2 @@
+
+(:name constraint :description "A constraint propagation library in elisp" :type emacsmirror :pkgname "constraint" :required ((("cedet" eieio) ("cl" cl))) :depends (cedet))

@@ -1,0 +1,2 @@
+
+(:name cal-catholic :description "Calendar functions for the Roman Catholic liturgical calendar" :type emacsmirror :pkgname "cal-catholic" :required ((("calendar" cal-menu calendar))))

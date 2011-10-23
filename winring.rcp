@@ -1,0 +1,2 @@
+
+(:name winring :description "Window configuration rings" :type emacsmirror :pkgname "winring" :required ((("reporter" reporter) ("ring" ring))))

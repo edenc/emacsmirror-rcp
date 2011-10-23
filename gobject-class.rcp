@@ -1,0 +1,2 @@
+
+(:name gobject-class :description "Functions to easy GObject-based class developers" :type emacsmirror :pkgname "gobject-class" :required nil)

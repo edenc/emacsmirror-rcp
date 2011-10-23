@@ -1,0 +1,2 @@
+
+(:name ibuffer-git :description "Show git status in ibuffer column" :type emacsmirror :pkgname "ibuffer-git" :required ((("cl" cl) ("ibuffer" ibuffer))))

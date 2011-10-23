@@ -1,0 +1,2 @@
+
+(:name tabbar-ruler :description "Setup tabbar to look pretty.." :type emacsmirror :pkgname "tabbar-ruler" :required ((("cl" cl) ("easymenu" easymenu) ("emhacks" tabbar))) :depends (emhacks))

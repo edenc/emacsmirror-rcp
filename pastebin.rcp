@@ -1,0 +1,2 @@
+
+(:name pastebin :description "A simple interface to the www.pastebin.com webservice" :type emacsmirror :pkgname "pastebin" :required nil)

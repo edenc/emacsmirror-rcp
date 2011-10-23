@@ -1,0 +1,2 @@
+
+(:name cssh :description "Clusterssh implementation for emacs" :type emacsmirror :pkgname "cssh" :required ((("cl" cl) ("dired" dired) ("ibuffer" ibuffer) ("shell" shell) ("term" term) ("tramp" tramp))) :depends (tramp))

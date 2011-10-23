@@ -1,0 +1,2 @@
+
+(:name eim :description "Emacs input method" :type emacsmirror :pkgname "eim" :required ((("cl" cl))))

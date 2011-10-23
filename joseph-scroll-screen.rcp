@@ -1,0 +1,2 @@
+
+(:name joseph-scroll-screen :description "Scroll half screen down or up, and highlight current line" :type emacsmirror :pkgname "joseph-scroll-screen" :required nil)

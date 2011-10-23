@@ -1,0 +1,2 @@
+
+(:name mac-key-mode :description "Provide mac-style key bindings on Carbon Emacs" :type emacsmirror :pkgname "mac-key-mode" :required ((("redo" redo))) :depends (redo))

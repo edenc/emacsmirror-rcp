@@ -1,0 +1,2 @@
+
+(:name viewer :description "View-mode extension" :type emacsmirror :pkgname "viewer" :required ((("cl" cl))))

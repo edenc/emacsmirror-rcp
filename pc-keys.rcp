@@ -1,0 +1,2 @@
+
+(:name pc-keys :description "Smart `home' and `end' keys" :type emacsmirror :pkgname "pc-keys" :required nil)

@@ -1,0 +1,2 @@
+
+(:name vhdl-process-wave :description "Processes waveform saved of modelsim" :type emacsmirror :pkgname "vhdl-process-wave" :required nil)

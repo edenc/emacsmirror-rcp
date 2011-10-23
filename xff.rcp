@@ -1,0 +1,2 @@
+
+(:name xff :description "Extended find-file" :type emacsmirror :pkgname "xff" :required ((("cl" cl) ("tellib" tellib))) :depends (tellib))

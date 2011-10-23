@@ -1,0 +1,2 @@
+
+(:name tidy :description "Interface to the HTML Tidy program" :type emacsmirror :pkgname "tidy" :required ((("compile" compile) ("easymenu" easymenu))))

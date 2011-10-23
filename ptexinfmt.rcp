@@ -1,0 +1,2 @@
+
+(:name ptexinfmt :description "Portable Texinfo formatter" :type emacsmirror :pkgname "ptexinfmt" :required ((("texinfmt" texinfmt))))

@@ -1,0 +1,2 @@
+
+(:name with-file :description "Perform an operation on a file, restoring other state afterwards" :type emacsmirror :pkgname "with-file" :required nil)

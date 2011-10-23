@@ -1,0 +1,2 @@
+
+(:name anything-w3m :description nil :type emacsmirror :pkgname "anything-w3m" :required ((("dired" dired) ("w3m-type-ahead" w3m-type-ahead))) :depends (w3m-type-ahead))

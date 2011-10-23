@@ -1,0 +1,2 @@
+
+(:name ethan-wspace :description "Whitespace customizations for emacs" :type emacsmirror :pkgname "ethan-wspace" :required ((("assoc" assoc))))

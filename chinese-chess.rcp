@@ -1,0 +1,2 @@
+
+(:name chinese-chess :description "Chinese Chess Game" :type emacsmirror :pkgname "chinese-chess" :required ((("cl" cl) ("custom" cus-edit))))

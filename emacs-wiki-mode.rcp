@@ -1,0 +1,2 @@
+
+(:name emacs-wiki-mode :description "Maintain a local Wiki using Emacs-friendly markup" :type emacsmirror :pkgname "emacs-wiki-mode" :required ((("cgi" cgi) ("cl" cl) ("compile" compile) ("dired" dired) ("emacs-core" derived font-lock pp) ("gnus" pgg pgg-gpg) ("htmlize" htmlize) ("httpd" httpd) ("info" info) ("table" table) ("vc" vc vc-hooks) ("xml-parse" xml-parse))) :depends (gnus))

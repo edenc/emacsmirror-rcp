@@ -1,0 +1,2 @@
+
+(:name ldots :description "Changes three dots to `\\ldots' on the fly" :type emacsmirror :pkgname "ldots" :required nil)

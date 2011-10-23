@@ -1,0 +1,2 @@
+
+(:name nanowrimo :description "Elisp for tracking wordcount while working on" :type emacsmirror :pkgname "nanowrimo" :required nil)

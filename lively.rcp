@@ -1,0 +1,2 @@
+
+(:name lively :description nil :type emacsmirror :pkgname "lively" :required ((("cl" cl))))

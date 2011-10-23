@@ -1,0 +1,2 @@
+
+(:name ya-grep-edit :description "Edit grepped lines and write them back to files" :type emacsmirror :pkgname "ya-grep-edit" :required ((("cl" cl) ("grep" grep)) (("hilit-chg" hilit-chg))))

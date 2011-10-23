@@ -1,0 +1,2 @@
+
+(:name qs :description "Search utility" :type emacsmirror :pkgname "qs" :required nil)

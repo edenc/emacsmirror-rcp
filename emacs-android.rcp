@@ -1,0 +1,2 @@
+
+(:name emacs-android :description "Android Development with GNU/Emacs" :type emacsmirror :pkgname "emacs-android" :required nil)

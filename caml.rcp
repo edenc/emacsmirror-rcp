@@ -1,0 +1,2 @@
+
+(:name caml :description nil :type emacsmirror :pkgname "caml" :required ((("comint" comint) ("compile" compile) ("emacs-core" derived font-lock overlay) ("imenu" imenu) ("info" info) ("shell" shell) ("thingatpt" thingatpt))))

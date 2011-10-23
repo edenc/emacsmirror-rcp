@@ -1,0 +1,2 @@
+
+(:name zencoding :description "Unfold CSS-selector-like expressions to markup" :type emacsmirror :pkgname "zencoding" :required ((("cl" cl))))

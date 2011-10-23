@@ -1,0 +1,2 @@
+
+(:name org-seenthis :description "Provides Seenthis.net integration for Org-mode" :type emacsmirror :pkgname "org-seenthis" :required ((("xml" xml))))

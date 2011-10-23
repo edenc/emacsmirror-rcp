@@ -1,0 +1,2 @@
+
+(:name nose :description "Easy Python test running in Emacs" :type emacsmirror :pkgname "nose" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name linum-off :description "Provides an interface for turning line-numbering off" :type emacsmirror :pkgname "linum-off" :required ((("linum" linum))))

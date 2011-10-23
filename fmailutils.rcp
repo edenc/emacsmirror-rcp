@@ -1,0 +1,2 @@
+
+(:name fmailutils :description "Random mail frobnication utilities" :type emacsmirror :pkgname "fmailutils" :required ((("sendmail" sendmail))))

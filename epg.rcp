@@ -1,0 +1,2 @@
+
+(:name epg :description "The EasyPG Library" :type emacsmirror :pkgname "epg" :required ((("dired" dired) ("emacs-core" derived font-lock) ("gnus" pgg) ("mail-utils" mail-utils) ("widget" wid-edit widget))) :depends (gnus))

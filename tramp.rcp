@@ -1,0 +1,2 @@
+
+(:name tramp :description "Transparent Remote Access, Multiple Protocol" :type emacsmirror :pkgname "tramp" :required ((("advice" advice) ("ange-ftp" ange-ftp) ("cl" cl) ("custom" custom) ("dbus" dbus) ("dired" dired) ("efs" efs-cu) ("emacs-core" base64 bytecomp) ("gnus" format-spec) ("reporter" reporter) ("shell" shell) ("timer" timer) ("url" url-parse url-util) ("vc" vc vc-rcs) ("zeroconf" zeroconf) (nil timer-funcs tramp-loaddefs))) :depends (gnus efs))

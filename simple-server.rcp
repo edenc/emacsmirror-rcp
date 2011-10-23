@@ -1,0 +1,2 @@
+
+(:name simple-server :description "A SIMPLE web-server run by emacs" :type emacsmirror :pkgname "simple-server" :required ((("htmlize" htmlize) ("org-mode" org org-exp))) :depends (org-mode))

@@ -1,0 +1,2 @@
+
+(:name multi-project :description "Easily work with multiple projects" :type emacsmirror :pkgname "multi-project" :required ((("compile" compile) ("easymenu" easymenu) ("etags" etags))))

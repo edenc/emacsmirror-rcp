@@ -1,0 +1,2 @@
+
+(:name sinatra :description "Minor mode for the Sinatra web mini-framework" :type emacsmirror :pkgname "sinatra" :required ((("cl" cl) ("nxhtml" mumamo) ("rinari" inf-ruby) ("ruby-compilation" ruby-compilation) ("ruby-mode" ruby-mode))) :depends (ruby-compilation rinari nxhtml))

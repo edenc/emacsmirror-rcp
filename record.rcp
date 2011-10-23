@@ -1,0 +1,2 @@
+
+(:name record :description "Named structure types with named fields for emacs-list" :type emacsmirror :pkgname "record" :required ((("cl" cl))))

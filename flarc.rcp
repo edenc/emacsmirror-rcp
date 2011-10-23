@@ -1,0 +1,2 @@
+
+(:name flarc :description "Non-destructive, transcoding, annotating audio archiver" :type emacsmirror :pkgname "flarc" :required ((("radio" radio) (nil usb))) :depends (radio))

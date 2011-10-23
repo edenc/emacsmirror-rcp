@@ -1,0 +1,2 @@
+
+(:name prg-comment :description "This package helps to comment source code" :type emacsmirror :pkgname "prg-comment" :required ((("tempo" tempo))))

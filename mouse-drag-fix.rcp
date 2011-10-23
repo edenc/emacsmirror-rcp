@@ -1,0 +1,2 @@
+
+(:name mouse-drag-fix :description "Bug fixed version of mouse-drag" :type emacsmirror :pkgname "mouse-drag-fix" :required ((("mouse-drag" mouse-drag))))

@@ -1,0 +1,2 @@
+
+(:name di :description "Simple directory editor for GNU Emacs" :type emacsmirror :pkgname "di" :required nil)

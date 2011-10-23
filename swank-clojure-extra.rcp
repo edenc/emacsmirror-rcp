@@ -1,0 +1,2 @@
+
+(:name swank-clojure-extra :description "Some handy utilities for using" :type emacsmirror :pkgname "swank-clojure-extra" :required ((("assoc" assoc) ("clojure-mode" clojure-mode) ("slime" slime))) :depends (slime clojure-mode))

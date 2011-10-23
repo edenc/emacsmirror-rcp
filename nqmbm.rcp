@@ -1,0 +1,2 @@
+
+(:name nqmbm :description "Advanced mouse buffer menu mainly for win32" :type emacsmirror :pkgname "nqmbm" :required nil)

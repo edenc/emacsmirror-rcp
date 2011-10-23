@@ -1,0 +1,2 @@
+
+(:name e2wm :description "Simple window manager for emacs" :type emacsmirror :pkgname "e2wm" :required ((("cl" cl) ("easymenu" easymenu) ("imenu" imenu) ("magit" magit) ("windmove" windmove) ("window-layout" window-layout) (nil dsvn))) :depends (window-layout magit))

@@ -1,0 +1,2 @@
+
+(:name punycode :description "An ASCII compatible Unicode encoding format" :type emacsmirror :pkgname "punycode" :required nil)

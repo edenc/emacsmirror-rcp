@@ -1,0 +1,2 @@
+
+(:name scratch :description "Mode-specific scratch buffers" :type emacsmirror :pkgname "scratch" :required nil)

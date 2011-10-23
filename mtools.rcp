@@ -1,0 +1,2 @@
+
+(:name mtools :description "Emacs front-end to mtools" :type emacsmirror :pkgname "mtools" :required ((("dired" dired))))

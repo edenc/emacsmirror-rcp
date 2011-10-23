@@ -1,0 +1,2 @@
+
+(:name color-moccur :description "Multi-buffer occur (grep) mode" :type emacsmirror :pkgname "color-moccur" :required ((("cl" cl) ("ee" ee-autoloads) ("emacs-core" overlay) ("migemo" migemo) ("moccur-edit" moccur-edit))) :depends (moccur-edit migemo))

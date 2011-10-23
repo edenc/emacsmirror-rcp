@@ -1,0 +1,2 @@
+
+(:name notes-mode :description nil :type emacsmirror :pkgname "notes-mode" :required ((("emacs-core" font-lock) ("mailcrypt" mailcrypt) (nil npgp pam))) :depends (mailcrypt))

@@ -1,0 +1,2 @@
+
+(:name ion3 :description "Tight integration of emacs with the ion3 window manager" :type emacsmirror :pkgname "ion3" :required nil)

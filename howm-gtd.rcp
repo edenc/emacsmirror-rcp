@@ -1,0 +1,2 @@
+
+(:name howm-gtd :description "GTD with howm" :type emacsmirror :pkgname "howm-gtd" :required ((("cl" cl) ("howm" action-lock howm))) :depends (howm))

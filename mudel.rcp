@@ -1,0 +1,2 @@
+
+(:name mudel :description "The Mudel MUD Client" :type emacsmirror :pkgname "mudel" :required ((("comint" comint))))

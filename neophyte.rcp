@@ -1,0 +1,2 @@
+
+(:name neophyte :description "Makes it easier to learn emacs" :type emacsmirror :pkgname "neophyte" :required ((("advice" advice) ("emacs-core" helper))))

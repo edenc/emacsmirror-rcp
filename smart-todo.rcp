@@ -1,0 +1,2 @@
+
+(:name smart-todo :description "Makes it easier to quickly add todos" :type emacsmirror :pkgname "smart-todo" :required nil)

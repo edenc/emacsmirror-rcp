@@ -1,0 +1,2 @@
+
+(:name festival :description nil :type emacsmirror :pkgname "festival" :required ((("comint" comint))))

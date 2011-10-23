@@ -1,0 +1,2 @@
+
+(:name convert-email :description "Go through my web tree, and convert mailtos into a reference to a contact details page" :type emacsmirror :pkgname "convert-email" :required nil)

@@ -1,0 +1,2 @@
+
+(:name fixme-mode :description "Makes FIXME, TODO, etc. appear in big, angry letters" :type emacsmirror :pkgname "fixme-mode" :required ((("cl" cl))))

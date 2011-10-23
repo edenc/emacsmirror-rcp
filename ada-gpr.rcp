@@ -1,0 +1,2 @@
+
+(:name ada-gpr :description "Major-mode for editing GNAT project files" :type emacsmirror :pkgname "ada-gpr" :required ((("ada-mode" ada-mode))))

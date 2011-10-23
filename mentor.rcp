@@ -1,0 +1,2 @@
+
+(:name mentor :description "Control rtorrent from GNU Emacs" :type emacsmirror :pkgname "mentor" :required ((("cl" cl) ("xml-rpc" xml-rpc))) :depends (xml-rpc))

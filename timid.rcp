@@ -1,0 +1,2 @@
+
+(:name timid :description "Timid completion" :type emacsmirror :pkgname "timid" :required ((("iswitchb" iswitchb))))

@@ -1,0 +1,2 @@
+
+(:name window-number :description "Select windows by numbers" :type emacsmirror :pkgname "window-number" :required ((("cl" cl))))

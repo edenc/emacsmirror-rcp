@@ -1,0 +1,2 @@
+
+(:name xcscope :description nil :type emacsmirror :pkgname "xcscope" :required ((("easymenu" easymenu))))

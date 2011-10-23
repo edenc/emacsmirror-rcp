@@ -1,0 +1,2 @@
+
+(:name maple-mode :description nil :type emacsmirror :pkgname "maple-mode" :required ((("shell" shell))))

@@ -1,0 +1,2 @@
+
+(:name bbcode-mode :description "Major mode to edit bbcode files in Emacs" :type emacsmirror :pkgname "bbcode-mode" :required nil)

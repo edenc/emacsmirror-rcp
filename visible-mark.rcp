@@ -1,0 +1,2 @@
+
+(:name visible-mark :description "Make marks visible" :type emacsmirror :pkgname "visible-mark" :required ((("cl" cl) ("easy-mmode" easy-mmode))))

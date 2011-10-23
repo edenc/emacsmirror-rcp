@@ -1,0 +1,2 @@
+
+(:name auctex :description nil :type emacsmirror :pkgname "auctex" :required ((("cl" cl) ("comint" comint) ("crm" crm) ("custom" custom) ("desktop" desktop) ("easymenu" easymenu) ("emacs-core" font-lock overlay) ("etags" etags) ("etexshow" etexshow) ("info" info) ("outline" outline) ("reftex" reftex) ("reporter" reporter) ("texinfo" texinfo) (nil tex-site))) :depends (reftex etexshow))

@@ -1,0 +1,2 @@
+
+(:name regression :description "Some simple stats functions" :type emacsmirror :pkgname "regression" :required nil)

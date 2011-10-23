@@ -1,0 +1,2 @@
+
+(:name list-fns :description "List-searching and manipulation functions" :type emacsmirror :pkgname "list-fns" :required nil)

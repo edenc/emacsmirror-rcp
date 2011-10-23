@@ -1,0 +1,2 @@
+
+(:name ruby-test-mode :description "Minor mode for Behaviour and Test Driven" :type emacsmirror :pkgname "ruby-test-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name find-git :description "Git working tree browser" :type emacsmirror :pkgname "find-git" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name gist :description "Emacs integration for gist.github.com" :type emacsmirror :pkgname "gist" :required ((("cl" cl) ("xml" xml))))

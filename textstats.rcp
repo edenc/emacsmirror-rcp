@@ -1,0 +1,2 @@
+
+(:name textstats :description "Show text statistics" :type emacsmirror :pkgname "textstats" :required ((("cl" cl) ("emacs-core" overlay) ("info" info) ("tellib" tellib) ("thingatpt" thingatpt) ("timer" timer))) :depends (tellib))

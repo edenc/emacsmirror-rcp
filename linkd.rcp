@@ -1,0 +1,2 @@
+
+(:name linkd :description "Make hypertext with active links in any buffer" :type emacsmirror :pkgname "linkd" :required ((("cl" cl) ("easymenu" easymenu)) (("htmlize" htmlize))))

@@ -1,0 +1,2 @@
+
+(:name ccm :description "Continuus integration" :type emacsmirror :pkgname "ccm" :required ((("easymenu" easymenu))))

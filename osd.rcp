@@ -1,0 +1,2 @@
+
+(:name osd :description "On-screen display" :type emacsmirror :pkgname "osd" :required nil)

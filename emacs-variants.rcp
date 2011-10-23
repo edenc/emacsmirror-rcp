@@ -1,0 +1,2 @@
+
+(:name emacs-variants :description "Identify emacs versions, variants, and platforms" :type emacsmirror :pkgname "emacs-variants" :required nil)

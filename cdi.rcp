@@ -1,0 +1,2 @@
+
+(:name cdi :description "Interface between Emacs and command line CD players" :type emacsmirror :pkgname "cdi" :required nil)

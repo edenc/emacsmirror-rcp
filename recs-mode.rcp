@@ -1,0 +1,2 @@
+
+(:name recs-mode :description "[R]eg[E]xp-based [C]ommand [S]uggestion" :type emacsmirror :pkgname "recs-mode" :required ((("cl" cl))))

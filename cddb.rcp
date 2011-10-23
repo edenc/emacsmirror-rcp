@@ -1,0 +1,2 @@
+
+(:name cddb :description "Cddb interface" :type emacsmirror :pkgname "cddb" :required ((("cl" cl) ("expect" expect) ("gnus" message) (nil captitle))) :depends (gnus expect))

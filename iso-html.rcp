@@ -1,0 +1,2 @@
+
+(:name iso-html :description "Translating HTML to ISO-8859/1 while editing a file" :type emacsmirror :pkgname "iso-html" :required nil)

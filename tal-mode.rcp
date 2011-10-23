@@ -1,0 +1,2 @@
+
+(:name tal-mode :description "Handles the Tandem/NSK/Guardian TAL & PTAL languages" :type emacsmirror :pkgname "tal-mode" :required ((("column-marker" column-marker) ("imenu" imenu) ("tal-indent" tal-indent) ("which-func" which-func))) :depends (tal-indent python-mode))

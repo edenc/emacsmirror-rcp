@@ -1,0 +1,2 @@
+
+(:name org-website :description "Generate multi-level website from org" :type emacsmirror :pkgname "org-website" :required ((("cl" cl) ("dirtree" dirtree) ("org-mode" org-html org-publish) ("string-template" string-template))) :depends (string-template org-mode dirtree))

@@ -1,0 +1,2 @@
+
+(:name golisp :description "Navigate lisp source code with hyperlinks" :type emacsmirror :pkgname "golisp" :required ((("cl" cl))))

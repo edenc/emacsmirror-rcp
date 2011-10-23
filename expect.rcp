@@ -1,0 +1,2 @@
+
+(:name expect :description "Support for external process communication" :type emacsmirror :pkgname "expect" :required ((("cl" cl) ("timer" timer))))

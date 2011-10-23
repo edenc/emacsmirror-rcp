@@ -1,0 +1,2 @@
+
+(:name sml-mode :description "Major mode for editing (Standard) ML" :type emacsmirror :pkgname "sml-mode" :required ((("cl" cl) ("comint" comint) ("compile" compile) ("custom" custom) ("info" info) ("skeleton" skeleton) ("smerge-mode" smerge-mode))))

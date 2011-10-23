@@ -1,0 +1,2 @@
+
+(:name org-hyde :description "Export hyde-ready posts from org-mode entries" :type emacsmirror :pkgname "org-hyde" :required nil)

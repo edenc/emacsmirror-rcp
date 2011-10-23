@@ -1,0 +1,2 @@
+
+(:name evil :description "Extensible vi layer" :type emacsmirror :pkgname "evil" :required ((("elp" elp) ("ffap" ffap) ("goto-chg" goto-chg) ("imenu" imenu) ("rect" rect) ("undo-tree" undo-tree) ("windmove" windmove) (nil ert))) :depends (rvm undo-tree goto-chg))

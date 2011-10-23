@@ -1,0 +1,2 @@
+
+(:name vm-addons :description "Extra stuff for VM" :type emacsmirror :pkgname "vm-addons" :required ((("buffer-fns" buffer-fns) ("fmailutils" fmailutils) ("list-fns" list-fns) ("string-fns" string-fns) ("vm" vm))) :depends (vm string-fns list-fns fmailutils buffer-fns))

@@ -1,0 +1,2 @@
+
+(:name summarye :description "List up matched strings from a buffer, and display them in summary buffer" :type emacsmirror :pkgname "summarye" :required ((("cl" cl) ("which-func" which-func))))

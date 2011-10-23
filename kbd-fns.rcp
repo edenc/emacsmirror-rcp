@@ -1,0 +1,2 @@
+
+(:name kbd-fns :description "Keyboard input and keymap utility functions" :type emacsmirror :pkgname "kbd-fns" :required ((("list-fns" list-fns))) :depends (list-fns))

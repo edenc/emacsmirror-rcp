@@ -1,0 +1,2 @@
+
+(:name shell-history :description "Integration with shell history" :type emacsmirror :pkgname "shell-history" :required ((("cl" cl))))

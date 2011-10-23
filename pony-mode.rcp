@@ -1,0 +1,2 @@
+
+(:name pony-mode :description "Minor mode for working with Django projects" :type emacsmirror :pkgname "pony-mode" :required ((("cl" cl) ("easymenu" easymenu) ("sgml-mode" sgml-mode) ("sql" sql) ("thingatpt" thingatpt))))

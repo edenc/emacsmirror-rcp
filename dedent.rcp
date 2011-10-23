@@ -1,0 +1,2 @@
+
+(:name dedent :description "Add and remove indentation during copy and paste" :type emacsmirror :pkgname "dedent" :required ((("cl" cl))))

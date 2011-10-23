@@ -1,0 +1,2 @@
+
+(:name jump :description "Build functions which contextually jump between files" :type emacsmirror :pkgname "jump" :required ((("findr" findr) ("which-func" which-func) (nil inflections))))

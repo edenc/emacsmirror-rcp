@@ -1,0 +1,2 @@
+
+(:name rfringe :description "Display the relative location of the region, in the fringe" :type emacsmirror :pkgname "rfringe" :required ((("emacs-core" fringe))))

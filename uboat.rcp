@@ -1,0 +1,2 @@
+
+(:name uboat :description "Generate u-boat-death messages, patterned after Iron Coffins" :type emacsmirror :pkgname "uboat" :required nil)

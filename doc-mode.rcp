@@ -1,0 +1,2 @@
+
+(:name doc-mode :description "Convenient editing of in-code documentation" :type emacsmirror :pkgname "doc-mode" :required ((("cc-mode" cc-mode) ("cedet" semantic) ("cl" cl) ("newcomment" newcomment))) :depends (cedet cc-mode))

@@ -1,0 +1,2 @@
+
+(:name jde-refactor :description "Refactoring support for JDEE" :type emacsmirror :pkgname "jde-refactor" :required nil)

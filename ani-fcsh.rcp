@@ -1,0 +1,2 @@
+
+(:name ani-fcsh :description "Lets compile work without restarting fcsh and recognize flex errors" :type emacsmirror :pkgname "ani-fcsh" :required nil)

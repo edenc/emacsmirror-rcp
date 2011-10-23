@@ -1,0 +1,2 @@
+
+(:name window-jump :description "Move left/right/up/down through your windows" :type emacsmirror :pkgname "window-jump" :required ((("cl" cl))))

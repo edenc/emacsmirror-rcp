@@ -1,0 +1,2 @@
+
+(:name org-outlook :description "Outlook org" :type emacsmirror :pkgname "org-outlook" :required ((("org-mode" org org-protocol))) :depends (org-mode))

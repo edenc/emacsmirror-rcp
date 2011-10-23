@@ -1,0 +1,2 @@
+
+(:name auto-complete-latex-light :description "An abbreviated version of the auto-complete-latex" :type emacsmirror :pkgname "auto-complete-latex-light" :required ((("auto-complete" auto-complete) ("cl" cl))) :depends (auto-complete))

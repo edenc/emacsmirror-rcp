@@ -1,0 +1,2 @@
+
+(:name nc :description "Emulate famos ms-dog file browser" :type emacsmirror :pkgname "nc" :required ((("easymenu" easymenu) ("shell" shell))))

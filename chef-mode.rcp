@@ -1,0 +1,2 @@
+
+(:name chef-mode :description "Minor mode for editing an opscode chef repository" :type emacsmirror :pkgname "chef-mode" :required nil)

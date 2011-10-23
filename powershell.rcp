@@ -1,0 +1,2 @@
+
+(:name powershell :description "Run powershell as an inferior shell in emacs" :type emacsmirror :pkgname "powershell" :required ((("shell" shell))))

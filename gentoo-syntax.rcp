@@ -1,0 +1,2 @@
+
+(:name gentoo-syntax :description "Modes for editing Gentoo specific files" :type emacsmirror :pkgname "gentoo-syntax" :required ((("easymenu" easymenu) ("emacs-core" font-lock) ("sh-script" sh-script) ("skeleton" skeleton))))

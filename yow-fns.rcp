@@ -1,0 +1,2 @@
+
+(:name yow-fns :description "Add-ons to zippy" :type emacsmirror :pkgname "yow-fns" :required ((("cookie1" cookie1) ("yow" yow))))

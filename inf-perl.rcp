@@ -1,0 +1,2 @@
+
+(:name inf-perl :description "Perl" :type emacsmirror :pkgname "inf-perl" :required ((("cl" cl) ("comint" comint) ("cperl-mode" cperl-mode) ("shell" shell))) :depends (cperl-mode))

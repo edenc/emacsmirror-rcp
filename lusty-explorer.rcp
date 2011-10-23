@@ -1,0 +1,2 @@
+
+(:name lusty-explorer :description "Dynamic filesystem explorer and buffer switcher" :type emacsmirror :pkgname "lusty-explorer" :required ((("cl" cl) ("dired" dired) ("ido" ido))))

@@ -1,0 +1,2 @@
+
+(:name dar :description "Disk archiver (DAR) interface for emacs" :type emacsmirror :pkgname "dar" :required nil)

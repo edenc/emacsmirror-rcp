@@ -1,0 +1,2 @@
+
+(:name highlight-completion :description "Completion with highlighted provisional text" :type emacsmirror :pkgname "highlight-completion" :required ((("ispell" ispell))))

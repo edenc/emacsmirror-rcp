@@ -1,0 +1,2 @@
+
+(:name hiwin :description "Visible active window mode" :type emacsmirror :pkgname "hiwin" :required nil)

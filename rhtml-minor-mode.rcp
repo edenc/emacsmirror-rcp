@@ -1,0 +1,2 @@
+
+(:name rhtml-minor-mode :description "Minor mode for Ruby .rhtml files that" :type emacsmirror :pkgname "rhtml-minor-mode" :required nil)

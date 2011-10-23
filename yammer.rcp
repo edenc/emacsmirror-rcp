@@ -1,0 +1,2 @@
+
+(:name yammer :description "Simple tool for accessing yammer.com" :type emacsmirror :pkgname "yammer" :required ((("image-file" image-file) ("json" json) ("oauth" oauth))) :depends (oauth))

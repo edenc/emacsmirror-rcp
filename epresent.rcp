@@ -1,0 +1,2 @@
+
+(:name epresent :description "Simple presentation mode for Emacs" :type emacsmirror :pkgname "epresent" :required nil)

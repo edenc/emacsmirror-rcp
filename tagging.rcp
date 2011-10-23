@@ -1,0 +1,2 @@
+
+(:name tagging :description "A global Status bar for emacs" :type emacsmirror :pkgname "tagging" :required ((("cl" cl))))

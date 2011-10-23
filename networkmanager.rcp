@@ -1,0 +1,2 @@
+
+(:name networkmanager :description "Define hooks which run after changing a status of network" :type emacsmirror :pkgname "networkmanager" :required ((("dbus" dbus))))

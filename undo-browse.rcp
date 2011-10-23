@@ -1,0 +1,2 @@
+
+(:name undo-browse :description "Powerful Undo system. Browser/movie/redo/hilit" :type emacsmirror :pkgname "undo-browse" :required ((("cl" cl) ("hilit-chg" hilit-chg) ("mkback" mkback))) :depends (mkback))

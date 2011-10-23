@@ -1,0 +1,2 @@
+
+(:name mailq :description "A major mode for `mailq' interaction" :type emacsmirror :pkgname "mailq" :required ((("emacs-core" simple))))

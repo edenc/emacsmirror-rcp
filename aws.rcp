@@ -1,0 +1,2 @@
+
+(:name aws :description "Major mode for managing AWS" :type emacsmirror :pkgname "aws" :required nil)

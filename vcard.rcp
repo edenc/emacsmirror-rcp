@@ -1,0 +1,2 @@
+
+(:name vcard :description "Vcard parsing and display routines" :type emacsmirror :pkgname "vcard" :required nil)

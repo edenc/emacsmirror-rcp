@@ -1,0 +1,2 @@
+
+(:name host-fns :description "Functions for querying host name information" :type emacsmirror :pkgname "host-fns" :required ((("file-fns" file-fns) ("string-fns" string-fns))) :depends (string-fns file-fns))

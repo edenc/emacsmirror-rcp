@@ -1,0 +1,2 @@
+
+(:name auto-complete-clang :description "Auto Completion source for clang for GNU Emacs" :type emacsmirror :pkgname "auto-complete-clang" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

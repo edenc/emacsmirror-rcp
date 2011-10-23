@@ -1,0 +1,2 @@
+
+(:name jem-pkg :description "Some kind of elisp packaging for and by jemarch" :type emacsmirror :pkgname "jem-pkg" :required nil)

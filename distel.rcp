@@ -1,0 +1,2 @@
+
+(:name distel :description "Top-level of distel package, loads all subparts" :type emacsmirror :pkgname "distel" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("emacs-core" font-lock md5 overlay) ("erlang" erlang) ("ewoc" ewoc)) (("w3m" w3m))) :depends (erlang))

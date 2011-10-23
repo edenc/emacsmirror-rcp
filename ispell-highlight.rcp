@@ -1,0 +1,2 @@
+
+(:name ispell-highlight :description "MS-Word like spell-error highlithing" :type emacsmirror :pkgname "ispell-highlight" :required ((("ispell" ispell) (nil hyper-apropos))))

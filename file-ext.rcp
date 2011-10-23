@@ -1,0 +1,2 @@
+
+(:name file-ext :description "Tools for seeking text in files and edit this files" :type emacsmirror :pkgname "file-ext" :required nil)

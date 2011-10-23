@@ -1,0 +1,2 @@
+
+(:name filename-cases :description "Fix up filename cases" :type emacsmirror :pkgname "filename-cases" :required nil)

@@ -1,0 +1,2 @@
+
+(:name silly-mail :description "Generate bozotic mail headers" :type emacsmirror :pkgname "silly-mail" :required ((("horoscope" horoscope) ("kibologize" kibologize) ("sendmail" sendmail) ("shop" shop) ("uboat" uboat) ("youwill" youwill))) :depends (youwill uboat shop kibologize horoscope))

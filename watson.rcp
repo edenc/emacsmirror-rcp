@@ -1,0 +1,2 @@
+
+(:name watson :description "Query web search engines and aggregate results" :type emacsmirror :pkgname "watson" :required ((("browse-url" browse-url) ("cl" cl) ("emacs-core" backquote) ("url" url) ("w3" w3-forms) ("widget" wid-browse widget))) :depends (w3))

@@ -1,0 +1,2 @@
+
+(:name acme-search :description "Right-click searching" :type emacsmirror :pkgname "acme-search" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name paren-glint :description "Unhighlight matching paren after a timeout" :type emacsmirror :pkgname "paren-glint" :required ((("advice" advice))))

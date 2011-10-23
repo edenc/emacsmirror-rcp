@@ -1,0 +1,2 @@
+
+(:name iuscheme :description "Scheme support, Indiana Univeristy style" :type emacsmirror :pkgname "iuscheme" :required ((("cmuscheme" cmuscheme))))

@@ -1,0 +1,2 @@
+
+(:name dabbrev-expand-multiple :description "Dabbrev-expand for multiple" :type emacsmirror :pkgname "dabbrev-expand-multiple" :required ((("dabbrev" dabbrev))))

@@ -1,0 +1,2 @@
+
+(:name igrep-next-error :description "Highlight text matched by `igrep'" :type emacsmirror :pkgname "igrep-next-error" :required ((("custom" custom) ("igrep" igrep))))

@@ -1,0 +1,2 @@
+
+(:name egit :description "Emacs git commit history interface ala gitk and qgit" :type emacsmirror :pkgname "egit" :required ((("cl" cl) ("ewoc" ewoc) (nil git))))

@@ -1,0 +1,2 @@
+
+(:name mmm-mode :description "Allow Multiple Major Modes in a buffer" :type emacsmirror :pkgname "mmm-mode" :required ((("cl" cl) ("custom" custom) ("emacs-core" font-lock overlay) ("regexp-opt" regexp-opt))))

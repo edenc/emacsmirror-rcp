@@ -1,0 +1,2 @@
+
+(:name find-file-in-tags :description nil :type emacsmirror :pkgname "find-file-in-tags" :required ((("etags" etags))))

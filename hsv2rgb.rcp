@@ -1,0 +1,2 @@
+
+(:name hsv2rgb :description "Transformation from HSV to RGB" :type emacsmirror :pkgname "hsv2rgb" :required nil)

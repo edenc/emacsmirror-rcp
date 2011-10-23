@@ -1,0 +1,2 @@
+
+(:name markerpen :description "Colour and highlight arbitrary sections of buffers" :type emacsmirror :pkgname "markerpen" :required nil)

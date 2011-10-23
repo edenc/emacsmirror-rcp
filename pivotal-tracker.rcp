@@ -1,0 +1,2 @@
+
+(:name pivotal-tracker :description nil :type emacsmirror :pkgname "pivotal-tracker" :required ((("url" url) ("xml" xml))))

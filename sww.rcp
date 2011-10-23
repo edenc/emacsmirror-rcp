@@ -1,0 +1,2 @@
+
+(:name sww :description "Switch to a named window on win32 systems" :type emacsmirror :pkgname "sww" :required nil)

@@ -1,0 +1,2 @@
+
+(:name mail-directory :description "Set up mail buffers for sending photos" :type emacsmirror :pkgname "mail-directory" :required ((("cl" cl))))

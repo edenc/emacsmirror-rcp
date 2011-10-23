@@ -1,0 +1,2 @@
+
+(:name jde-eclipse-compiler-server :description "Eclipse compiler as a compile server for JDEE" :type emacsmirror :pkgname "jde-eclipse-compiler-server" :required ((("flymake" flymake) ("jdee" jde jde-compile))) :depends (jdee))

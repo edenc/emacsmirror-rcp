@@ -1,0 +1,2 @@
+
+(:name ocr :description "Major mode for editing OCR'd documents" :type emacsmirror :pkgname "ocr" :required nil)

@@ -1,0 +1,2 @@
+
+(:name espect :description "Aspect-oriented buffer settings" :type emacsmirror :pkgname "espect" :required nil)

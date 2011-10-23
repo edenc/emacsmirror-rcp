@@ -1,0 +1,2 @@
+
+(:name cacoo :description "Minor mode for Cacoo (http://cacoo.com)" :type emacsmirror :pkgname "cacoo" :required ((("cl" cl) ("deferred" concurrent) ("easymenu" easymenu) ("json" json) ("url" url-file))) :depends (deferred))

@@ -1,0 +1,2 @@
+
+(:name twittering-mode :description nil :type emacsmirror :pkgname "twittering-mode" :required ((("cl" cl) ("emacs-core" jka-compr) ("gnus" parse-time sha1) ("skeleton" skeleton) ("url" url) ("xml" xml)) (("epg" epa epg) ("gnus" tls) ("revive" revive) ("url" url-methods) (nil alpaca))) :depends (gnus))

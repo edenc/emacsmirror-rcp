@@ -1,0 +1,2 @@
+
+(:name phpsh :description nil :type emacsmirror :pkgname "phpsh" :required ((("cl" cl) ("custom" custom) ("gud" gud) ("tree-widget" tree-widget) ("url" url-util) ("xml" xml))))

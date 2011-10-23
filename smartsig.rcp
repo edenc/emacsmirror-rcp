@@ -1,0 +1,2 @@
+
+(:name smartsig :description "Smart signature selection based on message content" :type emacsmirror :pkgname "smartsig" :required ((("cl" cl))))

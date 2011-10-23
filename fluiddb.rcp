@@ -1,0 +1,2 @@
+
+(:name fluiddb :description "Code to work with FluidDB" :type emacsmirror :pkgname "fluiddb" :required ((("cl" cl) ("json" json) ("url" url))))

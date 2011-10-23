@@ -1,0 +1,2 @@
+
+(:name u-mandelbrot :description "A simple fractal browser" :type emacsmirror :pkgname "u-mandelbrot" :required ((("emacs-core" overlay))))

@@ -1,0 +1,2 @@
+
+(:name mv-shell :description nil :type emacsmirror :pkgname "mv-shell" :required nil)

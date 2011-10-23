@@ -1,0 +1,2 @@
+
+(:name anything-rurima :description "Look up Japanese Ruby Reference Manual with anything.el" :type emacsmirror :pkgname "anything-rurima" :required ((("anything" anything-config anything-match-plugin) ("cl" cl))) :depends (anything))

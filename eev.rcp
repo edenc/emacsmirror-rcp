@@ -1,0 +1,2 @@
+
+(:name eev :description "Add support for e-scripts in Emacs" :type emacsmirror :pkgname "eev" :required ((("add-log" add-log) ("dired" dired) ("emacs-core" jit-lock) ("htmlize" htmlize) ("outline" outline) ("ps-mode" ps-mode))))

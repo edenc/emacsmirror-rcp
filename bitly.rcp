@@ -1,0 +1,2 @@
+
+(:name bitly :description "Shorten URLs with bit.ly from emacs" :type emacsmirror :pkgname "bitly" :required ((("thingatpt" thingatpt) ("url" url))))

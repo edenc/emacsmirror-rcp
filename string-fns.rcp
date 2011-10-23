@@ -1,0 +1,2 @@
+
+(:name string-fns :description "An assortment of string-manipulation functions" :type emacsmirror :pkgname "string-fns" :required nil)

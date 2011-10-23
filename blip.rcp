@@ -1,0 +1,2 @@
+
+(:name blip :description "Interface with blip.pl" :type emacsmirror :pkgname "blip" :required ((("cl" cl) ("json" json) ("url" url url-http))))

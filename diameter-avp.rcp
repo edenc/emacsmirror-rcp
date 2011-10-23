@@ -1,0 +1,2 @@
+
+(:name diameter-avp :description nil :type emacsmirror :pkgname "diameter-avp" :required ((("gnus" hex-util))) :depends (gnus))

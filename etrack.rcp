@@ -1,0 +1,2 @@
+
+(:name etrack :description "Expense tracking user interface" :type emacsmirror :pkgname "etrack" :required ((("cl" cl) ("comint" comint))))

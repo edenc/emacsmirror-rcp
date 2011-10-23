@@ -1,0 +1,2 @@
+
+(:name atom-blogger :description "Utilities for Atom Blogger API" :type emacsmirror :pkgname "atom-blogger" :required ((("cl" cl) ("emacs-core" derived))))

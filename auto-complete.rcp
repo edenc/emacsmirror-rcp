@@ -1,0 +1,2 @@
+
+(:name auto-complete :description "Auto Completion for GNU Emacs" :type emacsmirror :pkgname "auto-complete" :required ((("cl" cl) ("emacs-core" pp) ("help-mode" help-mode) ("popup" popup) ("regexp-opt" regexp-opt) ("thingatpt" thingatpt) (nil rcodetools)) (("cedet" semantic-ia) (nil semantic/ia))) :depends (popup))

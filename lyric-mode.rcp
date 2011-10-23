@@ -1,0 +1,2 @@
+
+(:name lyric-mode :description "Major mode for editing lyric (.lrc) files" :type emacsmirror :pkgname "lyric-mode" :required nil)

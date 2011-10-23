@@ -1,0 +1,2 @@
+
+(:name thing-at-point-utils :description "More th-at-point edit functions" :type emacsmirror :pkgname "thing-at-point-utils" :required ((("emacs-core" overlay) ("footnote" footnote) ("sh-script" sh-script) ("time-stamp" time-stamp))))

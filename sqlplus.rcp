@@ -1,0 +1,2 @@
+
+(:name sqlplus :description "User friendly interface to SQL*Plus and support for PL/SQL compilation" :type emacsmirror :pkgname "sqlplus" :required ((("cl" cl) ("emacs-core" font-lock) ("recentf" recentf) ("skeleton" skeleton) ("sql" sql) ("tabify" tabify))))

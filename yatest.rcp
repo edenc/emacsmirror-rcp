@@ -1,0 +1,2 @@
+
+(:name yatest :description "Simple test framework" :type emacsmirror :pkgname "yatest" :required nil)

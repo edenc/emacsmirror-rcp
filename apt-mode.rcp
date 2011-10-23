@@ -1,0 +1,2 @@
+
+(:name apt-mode :description nil :type emacsmirror :pkgname "apt-mode" :required nil)

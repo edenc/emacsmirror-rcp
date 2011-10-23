@@ -1,0 +1,2 @@
+
+(:name tx-mode :description "Major mode for editing Text::Xslate syntax" :type emacsmirror :pkgname "tx-mode" :required ((("tempo" tempo))))

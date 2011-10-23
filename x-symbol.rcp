@@ -1,0 +1,2 @@
+
+(:name x-symbol :description "Semi WYSIWYG for LaTeX, HTML, etc using additional fonts" :type emacsmirror :pkgname "x-symbol" :required ((("cl" cl) ("emacs-core" font-lock fontset warnings) ("emacs-obsolete" lucid) ("reporter" reporter))))

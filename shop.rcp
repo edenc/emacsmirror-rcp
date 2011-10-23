@@ -1,0 +1,2 @@
+
+(:name shop :description "Generate random shopping lists" :type emacsmirror :pkgname "shop" :required nil)

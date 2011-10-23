@@ -1,0 +1,2 @@
+
+(:name f90-interface-browser :description "Parse and browse f90 interfaces" :type emacsmirror :pkgname "f90-interface-browser" :required ((("cl" cl) ("etags" etags) ("f90" f90) ("thingatpt" thingatpt))))

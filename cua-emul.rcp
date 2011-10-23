@@ -1,0 +1,2 @@
+
+(:name cua-emul :description "CUA style buffer-switching" :type emacsmirror :pkgname "cua-emul" :required ((("cl" cl))))

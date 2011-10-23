@@ -1,0 +1,2 @@
+
+(:name dvi-view :description "View a DVI file in an Emacs buffer" :type emacsmirror :pkgname "dvi-view" :required nil)

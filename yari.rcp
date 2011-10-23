@@ -1,0 +1,2 @@
+
+(:name yari :description "Yet Another RI interface for Emacs" :type emacsmirror :pkgname "yari" :required ((("ansi-color" ansi-color) ("cl" cl) ("thingatpt" thingatpt))))

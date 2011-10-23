@@ -1,0 +1,2 @@
+
+(:name lnk :description "Follow Microsoft Explorer shortcuts" :type emacsmirror :pkgname "lnk" :required nil)

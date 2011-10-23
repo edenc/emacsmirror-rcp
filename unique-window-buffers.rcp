@@ -1,0 +1,2 @@
+
+(:name unique-window-buffers :description "Try to avoid showing same buffer in two windows on the same frame" :type emacsmirror :pkgname "unique-window-buffers" :required ((("cl" cl))))

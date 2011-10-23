@@ -1,0 +1,2 @@
+
+(:name hier-imenu :description "Hierarchical index menus, using imenu.el" :type emacsmirror :pkgname "hier-imenu" :required ((("imenu" imenu))))

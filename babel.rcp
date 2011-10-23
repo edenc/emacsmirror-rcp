@@ -1,0 +1,2 @@
+
+(:name babel :description "Interface to web translation services such as Babelfish" :type emacsmirror :pkgname "babel" :required ((("cl" cl) ("easymenu" easymenu) ("gnus" mm-url) ("json" json) ("url" url-handlers))) :depends (gnus))

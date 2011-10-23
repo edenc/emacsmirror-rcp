@@ -1,0 +1,2 @@
+
+(:name ack-and-a-half :description "Yet another front-end for ack" :type emacsmirror :pkgname "ack-and-a-half" :required ((("cl" cl) ("compile" compile) ("grep" grep) ("iswitchb" iswitchb))))

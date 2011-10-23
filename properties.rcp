@@ -1,0 +1,2 @@
+
+(:name properties :description "Non-intrusive file local variables" :type emacsmirror :pkgname "properties" :required ((("tellib" tellib))) :depends (tellib))

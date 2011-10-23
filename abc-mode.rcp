@@ -1,0 +1,2 @@
+
+(:name abc-mode :description "Major mode for editing abc music files" :type emacsmirror :pkgname "abc-mode" :required ((("custom" cus-face) ("easymenu" easymenu))))

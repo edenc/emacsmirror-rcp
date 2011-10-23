@@ -1,0 +1,2 @@
+
+(:name gentext-plaintext :description nil :type emacsmirror :pkgname "gentext-plaintext" :required ((("gentext-models" gentext-models))) :depends (gentext-models))

@@ -1,0 +1,2 @@
+
+(:name x-face-mini :description "Create MINI X-Face image for XEmacs/Emacs21+" :type emacsmirror :pkgname "x-face-mini" :required ((("cl" cl) ("x-face" x-face))) :depends (x-face))

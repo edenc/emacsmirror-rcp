@@ -1,0 +1,2 @@
+
+(:name anything-el-swank-fuzzy :description "Anything-sources for el-swank-fuzzy.el" :type emacsmirror :pkgname "anything-el-swank-fuzzy" :required ((("anything" anything anything-complete) ("cl" cl) ("el-swank-fuzzy" el-swank-fuzzy) ("eldoc" eldoc) ("term" term)) (("anything" anything-show-completion))) :depends (el-swank-fuzzy anything))

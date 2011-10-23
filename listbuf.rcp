@@ -1,0 +1,2 @@
+
+(:name listbuf :description "Build buffer menu for use in Buff-menu-mode" :type emacsmirror :pkgname "listbuf" :required nil)

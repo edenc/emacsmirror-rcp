@@ -1,0 +1,2 @@
+
+(:name ess-edit :description "Convenient editing of R code" :type emacsmirror :pkgname "ess-edit" :required ((("emacs-core" overlay))))

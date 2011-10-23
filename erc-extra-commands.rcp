@@ -1,0 +1,2 @@
+
+(:name erc-extra-commands :description nil :type emacsmirror :pkgname "erc-extra-commands" :required ((("erc" erc))) :depends (erc))

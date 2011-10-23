@@ -1,0 +1,2 @@
+
+(:name vimvars :description "Emacs support for VI modelines" :type emacsmirror :pkgname "vimvars" :required nil)

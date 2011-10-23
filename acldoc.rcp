@@ -1,0 +1,2 @@
+
+(:name acldoc :description nil :type emacsmirror :pkgname "acldoc" :required ((("url" url))))

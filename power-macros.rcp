@@ -1,0 +1,2 @@
+
+(:name power-macros :description nil :type emacsmirror :pkgname "power-macros" :required ((("advice" advice) ("cl" cl) ("edmacro" edmacro))))

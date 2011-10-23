@@ -1,0 +1,2 @@
+
+(:name db-sql :description "Connect to SQL server using tramp syntax" :type emacsmirror :pkgname "db-sql" :required ((("cl" cl) ("sql" sql) ("tramp" tramp))) :depends (tramp))

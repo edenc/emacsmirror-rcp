@@ -1,0 +1,2 @@
+
+(:name emms-player-streaming-fix :description "Mplayer url fix" :type emacsmirror :pkgname "emms-player-streaming-fix" :required nil)

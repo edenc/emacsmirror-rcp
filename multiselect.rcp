@@ -1,0 +1,2 @@
+
+(:name multiselect :description "Select non-contiguous regions" :type emacsmirror :pkgname "multiselect" :required nil)

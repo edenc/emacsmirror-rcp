@@ -1,0 +1,2 @@
+
+(:name mailcrypt :description nil :type emacsmirror :pkgname "mailcrypt" :required ((("comint" comint) ("easymenu" easymenu) ("itimer" itimer) ("rfc822" rfc822) ("timer" timer))) :depends (itimer))

@@ -1,0 +1,2 @@
+
+(:name jabber :description nil :type emacsmirror :pkgname "jabber" :required ((("assoc" assoc) ("button" button) ("cl" cl) ("ewoc" ewoc) ("festival" festival) ("gnus" dns format-spec mailcap sasl sha1 starttls time-date tls) ("hexrgb" hexrgb) ("hippie-exp" hippie-exp) ("jabber" jabber-autoloads) ("osd" osd) ("sgml-mode" sgml-mode) ("twittering-mode" ssl) ("widget" wid-edit widget) ("xml" xml) (nil password sha1-el)) (("dbus" dbus) ("gnus" password-cache))) :depends (twittering-mode osd gnus festival))

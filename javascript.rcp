@@ -1,0 +1,2 @@
+
+(:name javascript :description "Major mode for editing JavaScript source text" :type emacsmirror :pkgname "javascript" :required nil)

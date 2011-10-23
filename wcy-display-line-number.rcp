@@ -1,0 +1,2 @@
+
+(:name wcy-display-line-number :description "Line number mode for Emacs" :type emacsmirror :pkgname "wcy-display-line-number" :required nil)

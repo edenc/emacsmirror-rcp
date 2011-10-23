@@ -1,0 +1,2 @@
+
+(:name recentf-ext :description "Recentf extensions" :type emacsmirror :pkgname "recentf-ext" :required ((("cl" cl) ("recentf" recentf))))

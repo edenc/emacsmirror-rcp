@@ -1,0 +1,2 @@
+
+(:name excite-translate :description "Translate english using excite's service" :type emacsmirror :pkgname "excite-translate" :required (((nil kael-http))))

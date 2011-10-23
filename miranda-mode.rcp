@@ -1,0 +1,2 @@
+
+(:name miranda-mode :description nil :type emacsmirror :pkgname "miranda-mode" :required ((("easymenu" easymenu) ("shell" shell))))

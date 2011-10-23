@@ -1,0 +1,2 @@
+
+(:name less-mode :description "Major mode for editing Less files" :type emacsmirror :pkgname "less-mode" :required ((("compile" compile) ("emacs-core" derived))))

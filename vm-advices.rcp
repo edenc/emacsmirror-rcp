@@ -1,0 +1,2 @@
+
+(:name vm-advices :description "Misc patches to VM using defadvice" :type emacsmirror :pkgname "vm-advices" :required ((("advice" advice) ("vm-addons" vm-addons) ("win-disp-util" win-disp-util))) :depends (win-disp-util vm-addons))

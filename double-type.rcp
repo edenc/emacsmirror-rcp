@@ -1,0 +1,2 @@
+
+(:name double-type :description "Keyboard operation method corresponding to double click on a mouse" :type emacsmirror :pkgname "double-type" :required ((("cl" cl))))

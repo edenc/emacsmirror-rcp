@@ -1,0 +1,2 @@
+
+(:name sese :description nil :type emacsmirror :pkgname "sese" :required ((("emacs-core" font-lock) ("filladapt" filladapt))) :depends (filladapt))

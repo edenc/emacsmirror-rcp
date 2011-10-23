@@ -1,0 +1,2 @@
+
+(:name remap-del-key :description nil :type emacsmirror :pkgname "remap-del-key" :required nil)

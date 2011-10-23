@@ -1,0 +1,2 @@
+
+(:name csv-mode :description "Major mode for editing comma-separated value files" :type emacsmirror :pkgname "csv-mode" :required ((("emacs-core" sort))))

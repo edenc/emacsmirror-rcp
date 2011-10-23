@@ -1,0 +1,2 @@
+
+(:name actr-mode :description "ACT-R-mode/support for Emacs" :type emacsmirror :pkgname "actr-mode" :required nil)

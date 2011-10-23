@@ -1,0 +1,2 @@
+
+(:name emacs-eclim :description "An interface to the Eclipse IDE" :type emacsmirror :pkgname "emacs-eclim" :required ((("cl" cl) ("company" company) ("compile" compile) ("json" json))) :depends (company))

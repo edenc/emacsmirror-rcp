@@ -1,0 +1,2 @@
+
+(:name recentf-buffer :description "Creates the buffer with the list of recently open files" :type emacsmirror :pkgname "recentf-buffer" :required ((("recentf" recentf) ("widget" wid-edit))))

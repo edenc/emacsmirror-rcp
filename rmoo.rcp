@@ -1,0 +1,2 @@
+
+(:name rmoo :description nil :type emacsmirror :pkgname "rmoo" :required ((("advice" advice) ("cl" cl) ("comint" comint) ("emacspeak" emacspeak-fix-interactive) ("w3" w3) (nil emacspeak-speak))) :depends (w3 emacspeak))

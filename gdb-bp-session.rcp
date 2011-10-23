@@ -1,0 +1,2 @@
+
+(:name gdb-bp-session :description "Save and Restore breakpoints for Emacs gdb" :type emacsmirror :pkgname "gdb-bp-session" :required ((("gud" gud))))

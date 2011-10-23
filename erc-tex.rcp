@@ -1,0 +1,2 @@
+
+(:name erc-tex :description "LaTeX mathematical expressions rendering for ERC" :type emacsmirror :pkgname "erc-tex" :required ((("cl" cl) ("erc" erc))) :depends (erc))

@@ -1,0 +1,2 @@
+
+(:name gtklookup :description nil :type emacsmirror :pkgname "gtklookup" :required ((("anything" anything) ("browse-url" browse-url) ("cl" cl) ("emacs-core" simple) ("ido" ido))) :depends (anything))

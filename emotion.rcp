@@ -1,0 +1,2 @@
+
+(:name emotion :description "Quick way to jump to specific characters" :type emacsmirror :pkgname "emotion" :required ((("cl" cl))))

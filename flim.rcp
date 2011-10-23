@@ -1,0 +1,2 @@
+
+(:name flim :description "A MIME encoding/decoding library" :type emacsmirror :pkgname "flim" :required ((("apel" mcharset path-util pccl pcustom poe poem) ("cl" cl) ("custom" custom) ("emacs-core" ccl) ("mail-utils" mail-utils) ("riece" luna))) :depends (apel))

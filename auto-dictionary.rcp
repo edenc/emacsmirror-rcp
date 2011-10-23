@@ -1,0 +1,2 @@
+
+(:name auto-dictionary :description "Automatic dictionary switcher for flyspell" :type emacsmirror :pkgname "auto-dictionary" :required ((("cl" cl) ("flyspell" flyspell) ("ispell" ispell))))

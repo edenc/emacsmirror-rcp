@@ -1,0 +1,2 @@
+
+(:name odf-mode :description "Support for Open Document Format files" :type emacsmirror :pkgname "odf-mode" :required ((("xml" xml))))

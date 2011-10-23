@@ -1,0 +1,2 @@
+
+(:name etop :description "Run \"top\" to display information about processes" :type emacsmirror :pkgname "etop" :required nil)

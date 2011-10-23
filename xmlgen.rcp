@@ -1,0 +1,2 @@
+
+(:name xmlgen :description "A DSL for generating XML" :type emacsmirror :pkgname "xmlgen" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name hyperbole :description nil :type emacsmirror :pkgname "hyperbole" :required ((("browse-url" browse-url) ("calendar" cal-julian calendar) ("cc-mode" cc-mode) ("comint" comint) ("custom" custom) ("efs" efs efs-auto) ("emacs-obsolete" lmenu) ("info" info) ("mail-utils" mail-utils) ("mh-e" mh-e) ("rmail" rmail) ("sendmail" sendmail) ("vm" vm) (nil h-skip-bytec id-menubars sw-process x-mouse))) :depends (vm efs cc-mode))

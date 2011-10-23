@@ -1,0 +1,5 @@
+(:name color-theme-almost-monokai-ec
+       :description "Spread colored candy around your emacs"
+       :type git
+       :url "https://github.com/edenc/color-theme-almost-monokai.git"
+       :pkgname "color-theme-almost-monakai-ec")

@@ -1,0 +1,2 @@
+
+(:name thrift-mode :description nil :type emacsmirror :pkgname "thrift-mode" :required ((("emacs-core" font-lock))))

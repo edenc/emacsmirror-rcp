@@ -1,0 +1,2 @@
+
+(:name c-eldoc :description "Helpful description of the arguments to C functions" :type emacsmirror :pkgname "c-eldoc" :required ((("cc-mode" cc-defs) ("cl" cl) ("eldoc" eldoc))) :depends (cc-mode))

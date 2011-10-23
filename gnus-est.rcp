@@ -1,0 +1,2 @@
+
+(:name gnus-est :description "Search mail with HyperEstraier" :type emacsmirror :pkgname "gnus-est" :required ((("cl" cl) ("gnus" gnus-sum nnheader nnmail nnoo))) :depends (gnus))

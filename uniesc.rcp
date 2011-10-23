@@ -1,0 +1,2 @@
+
+(:name uniesc :description "Processing Java-style Unicode character escapes" :type emacsmirror :pkgname "uniesc" :required (nil (("emacs-core" syntax))))

@@ -1,0 +1,2 @@
+
+(:name flowtimer :description "Let yourself work in sprints" :type emacsmirror :pkgname "flowtimer" :required nil)

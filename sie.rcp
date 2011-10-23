@@ -1,0 +1,2 @@
+
+(:name sie :description "Interpreter of a Scheme-like language" :type emacsmirror :pkgname "sie" :required nil)

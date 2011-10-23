@@ -1,0 +1,2 @@
+
+(:name indent-tabs-maybe :description "Guess whether to use indent-tabs-mode when finding file" :type emacsmirror :pkgname "indent-tabs-maybe" :required nil)

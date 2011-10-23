@@ -1,0 +1,2 @@
+
+(:name image+ :description "Image extensions" :type emacsmirror :pkgname "image+" :required ((("easy-mmode" easy-mmode) ("emacs-core" image))))

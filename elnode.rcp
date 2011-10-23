@@ -1,0 +1,2 @@
+
+(:name elnode :description "A simple emacs async HTTP server" :type emacsmirror :pkgname "elnode" :required ((("cl" cl) ("gnus" mailcap mm-encode) ("url" url-util) (nil ert))) :depends (rvm gnus))

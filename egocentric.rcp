@@ -1,0 +1,2 @@
+
+(:name egocentric :description "Highlight your name inside emacs buffers" :type emacsmirror :pkgname "egocentric" :required nil)

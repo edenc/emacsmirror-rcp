@@ -1,0 +1,2 @@
+
+(:name osx-osascript :description "Invoke osascript on OSX" :type emacsmirror :pkgname "osx-osascript" :required nil)

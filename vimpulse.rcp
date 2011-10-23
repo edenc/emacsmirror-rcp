@@ -1,0 +1,2 @@
+
+(:name vimpulse :description nil :type emacsmirror :pkgname "vimpulse" :required ((("goto-chg" goto-chg) ("paren" paren) ("redo" redo) ("test-framework" test-framework) ("undo-tree" undo-tree) ("viper" viper))) :depends (undo-tree test-framework redo goto-chg))

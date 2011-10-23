@@ -1,0 +1,2 @@
+
+(:name ecmascript-mode :description "Major mode for editing ECMAScript code" :type emacsmirror :pkgname "ecmascript-mode" :required ((("cc-mode" cc-mode) ("emacs-core" font-lock) ("regexp-opt" regexp-opt))) :depends (cc-mode))

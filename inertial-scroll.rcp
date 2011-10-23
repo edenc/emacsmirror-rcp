@@ -1,0 +1,2 @@
+
+(:name inertial-scroll :description "Global minor mode for inertial scrolling " :type emacsmirror :pkgname "inertial-scroll" :required ((("deferred" deferred))) :depends (deferred))

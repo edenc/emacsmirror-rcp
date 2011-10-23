@@ -1,0 +1,2 @@
+
+(:name x-face :description "X-Face encoder/decoder/viewer for Emacsen" :type emacsmirror :pkgname "x-face" :required ((("cl" cl) ("custom" custom) ("emacs-core" bytecomp) ("mew" mew-cache mew-syntax) ("semi" mime-image) ("vm" vm-macro vm-misc) (nil alist highlight-headers tl-list tm-image))) :depends (vm semi mew))

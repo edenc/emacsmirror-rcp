@@ -1,0 +1,2 @@
+
+(:name popup-select-window :description "Selecting a window by popup-menu*" :type emacsmirror :pkgname "popup-select-window" :required ((("popup" popup))) :depends (popup))

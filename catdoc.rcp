@@ -1,0 +1,2 @@
+
+(:name catdoc :description "This is a simple wrapper around the catdoc Word to Text converter" :type emacsmirror :pkgname "catdoc" :required nil)

@@ -1,0 +1,2 @@
+
+(:name rust-mode :description "CC Mode derived mode for rust" :type emacsmirror :pkgname "rust-mode" :required ((("cc-mode" cc-fonts cc-langs cc-mode))) :depends (cc-mode))

@@ -1,0 +1,2 @@
+
+(:name anything-eproject :description "Anything integration for eproject" :type emacsmirror :pkgname "anything-eproject" :required nil)

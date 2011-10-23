@@ -1,0 +1,2 @@
+
+(:name diredful :description "Colorful file names in dired buffers" :type emacsmirror :pkgname "diredful" :required ((("custom" cus-edit) ("dired" dired) ("dired-x" dired-x) ("widget" widget))))

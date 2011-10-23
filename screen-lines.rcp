@@ -1,0 +1,2 @@
+
+(:name screen-lines :description "A minor mode for screen-line-based point motion" :type emacsmirror :pkgname "screen-lines" :required nil)

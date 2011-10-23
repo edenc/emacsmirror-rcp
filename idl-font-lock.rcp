@@ -1,0 +1,2 @@
+
+(:name idl-font-lock :description "Font Lock configuration for OMG IDL (CORBA IDL) files" :type emacsmirror :pkgname "idl-font-lock" :required ((("emacs-core" font-lock))))

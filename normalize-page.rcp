@@ -1,0 +1,2 @@
+
+(:name normalize-page :description "Rebuild a page usinga  given template</title>" :type emacsmirror :pkgname "normalize-page" :required ((("page-attributes" page-attributes) ("webmaster-macros" webmaster-macros))) :depends (webmaster-macros page-attributes))

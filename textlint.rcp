@@ -1,0 +1,2 @@
+
+(:name textlint :description "TextLint is a tool to check your scientific writing for common style errors from Emacs" :type emacsmirror :pkgname "textlint" :required nil)

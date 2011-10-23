@@ -1,0 +1,2 @@
+
+(:name jde-mvn :description "Maven2 integration for JDEE" :type emacsmirror :pkgname "jde-mvn" :required ((("cl" cl) ("jdee" efc) ("json" json) ("nxml-mode" nxml-mode) ("url" url) ("xml" xml))) :depends (jdee))

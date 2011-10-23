@@ -1,0 +1,2 @@
+
+(:name bibsnarf :description "Get BibTeX format bibliography entries from the net" :type emacsmirror :pkgname "bibsnarf" :required ((("bibtex" bibtex) ("cl" cl) ("gnus" mm-url))) :depends (gnus))

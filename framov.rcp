@@ -1,0 +1,2 @@
+
+(:name framov :description "Minor mode and any commands for Emacsen on X-Window System" :type emacsmirror :pkgname "framov" :required ((("cl" cl) ("easy-mmode" easy-mmode))))

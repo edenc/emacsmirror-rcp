@@ -1,0 +1,2 @@
+
+(:name eperiodic :description "Periodic table for Emacs" :type emacsmirror :pkgname "eperiodic" :required ((("cl" cl) ("dired" dired))))

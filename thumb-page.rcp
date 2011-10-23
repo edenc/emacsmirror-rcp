@@ -1,0 +1,2 @@
+
+(:name thumb-page :description "Create a muse file with thumbs" :type emacsmirror :pkgname "thumb-page" :required ((("cl" cl))))

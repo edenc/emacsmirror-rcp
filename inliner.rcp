@@ -1,0 +1,2 @@
+
+(:name inliner :description "Insert Tag for inline image of R graphics" :type emacsmirror :pkgname "inliner" :required ((("ess" ess-site))) :depends (ess))

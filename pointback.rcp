@@ -1,0 +1,2 @@
+
+(:name pointback :description "Restore window points when returning to buffers" :type emacsmirror :pkgname "pointback" :required ((("assoc" assoc))))

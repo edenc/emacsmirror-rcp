@@ -1,0 +1,2 @@
+
+(:name save-visited-files :description "Save opened files across sessions" :type emacsmirror :pkgname "save-visited-files" :required nil)

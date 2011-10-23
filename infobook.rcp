@@ -1,0 +1,2 @@
+
+(:name infobook :description "Keep info node \"hot list\"" :type emacsmirror :pkgname "infobook" :required ((("info" info))))

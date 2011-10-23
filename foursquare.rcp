@@ -1,0 +1,2 @@
+
+(:name foursquare :description "Foursquare client for Emacs" :type emacsmirror :pkgname "foursquare" :required ((("37emacs" rest-api) ("geocode" geocode) ("json" json) ("url" url))) :depends (geocode 37emacs))

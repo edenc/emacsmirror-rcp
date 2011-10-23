@@ -1,0 +1,2 @@
+
+(:name emacs-xcode :description "An interface to the XCode IDE" :type emacsmirror :pkgname "emacs-xcode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name remember :description "A mode for quickly jotting down things to remember" :type emacsmirror :pkgname "remember" :required ((("bbdb" bbdb-com) ("bibl-mode" bibl-mode) ("bookmark" bookmark) ("emacs-wiki-journal" emacs-wiki-journal) ("planner" planner) ("url" url) (nil emacs-wiki-blosxom))) :depends (planner bibl-mode bbdb))

@@ -1,0 +1,2 @@
+
+(:name space-chord :description "Key chord with Space" :type emacsmirror :pkgname "space-chord" :required ((("key-chord" key-chord))) :depends (key-chord))

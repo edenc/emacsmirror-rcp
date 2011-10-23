@@ -1,0 +1,2 @@
+
+(:name mozart :description nil :type emacsmirror :pkgname "mozart" :required ((("comint" comint) ("compile" compile) ("custom" custom) ("emacs-core" font-lock) ("outline" outline))))

@@ -1,0 +1,2 @@
+
+(:name gb4e :description "Style hook for the gb4e package" :type emacsmirror :pkgname "gb4e" :required nil)

@@ -1,0 +1,2 @@
+
+(:name joccur :description "An improved 'occur' implementation" :type emacsmirror :pkgname "joccur" :required nil)

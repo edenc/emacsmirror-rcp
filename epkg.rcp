@@ -1,0 +1,2 @@
+
+(:name epkg :description "The stupid package tracker for Emacs" :type emacsmirror :pkgname "epkg" :required ((("cl" cl) ("magit" magit) ("vcomp" vcomp))) :depends (magit))

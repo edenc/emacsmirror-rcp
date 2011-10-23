@@ -1,0 +1,2 @@
+
+(:name anything-netscape-bookmark :description "Anything interface for netscape format bookmark file" :type emacsmirror :pkgname "anything-netscape-bookmark" :required ((("anything" anything) ("cl" cl))) :depends (anything))

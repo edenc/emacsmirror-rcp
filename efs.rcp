@@ -1,0 +1,2 @@
+
+(:name efs :description nil :type emacsmirror :pkgname "efs" :required ((("advice" advice) ("comint" comint) ("custom" custom) ("dired" dired) ("emacs-core" backquote) ("view" view))))

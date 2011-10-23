@@ -1,0 +1,2 @@
+
+(:name colour-schemes :description "Try other groups of colours" :type emacsmirror :pkgname "colour-schemes" :required nil)

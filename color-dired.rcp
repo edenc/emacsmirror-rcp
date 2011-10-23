@@ -1,0 +1,2 @@
+
+(:name color-dired :description "Make dired color" :type emacsmirror :pkgname "color-dired" :required ((("cl" cl) ("ls-lisp" ls-lisp))))

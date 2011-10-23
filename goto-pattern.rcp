@@ -1,0 +1,2 @@
+
+(:name goto-pattern :description "An easy way to navigate to a predefined pattern" :type emacsmirror :pkgname "goto-pattern" :required nil)

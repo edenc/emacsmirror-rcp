@@ -1,0 +1,2 @@
+
+(:name filenames-in-env :description "Put environment variables into filenames where possible" :type emacsmirror :pkgname "filenames-in-env" :required nil)

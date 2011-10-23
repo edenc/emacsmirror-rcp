@@ -1,0 +1,2 @@
+
+(:name spectre-mode :description "Major mode providing a spectre mode hook for fontification" :type emacsmirror :pkgname "spectre-mode" :required ((("cedet" speedbar) ("emacs-core" font-lock))) :depends (cedet))

@@ -1,0 +1,2 @@
+
+(:name bash-completion :description "BASH completion for the shell buffer" :type emacsmirror :pkgname "bash-completion" :required ((("comint" comint))))

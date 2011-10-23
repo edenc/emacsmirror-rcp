@@ -1,0 +1,2 @@
+
+(:name blorg :description "Export a blog from an org file" :type emacsmirror :pkgname "blorg" :required ((("calendar" calendar) ("cl" cl) ("easy-mmode" easy-mmode) ("eshell" em-unix eshell) ("org-mode" org) ("regexp-opt" regexp-opt) ("time-stamp" time-stamp))) :depends (org-mode eshell))

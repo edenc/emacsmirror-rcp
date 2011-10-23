@@ -1,0 +1,2 @@
+
+(:name idna :description "Internationalizing Domain Names in Applications" :type emacsmirror :pkgname "idna" :required nil)

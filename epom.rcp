@@ -1,0 +1,2 @@
+
+(:name epom :description "Pomodoro time management in emacs" :type emacsmirror :pkgname "epom" :required nil)

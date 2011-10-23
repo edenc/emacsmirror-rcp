@@ -1,0 +1,2 @@
+
+(:name hl-sentence :description "Highlight a sentence based on customizable face" :type emacsmirror :pkgname "hl-sentence" :required nil)

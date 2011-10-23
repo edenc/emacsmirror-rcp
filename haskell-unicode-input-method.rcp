@@ -1,0 +1,2 @@
+
+(:name haskell-unicode-input-method :description nil :type emacsmirror :pkgname "haskell-unicode-input-method" :required ((("emacs-core" quail))))

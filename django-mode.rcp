@@ -1,0 +1,2 @@
+
+(:name django-mode :description "Major mode for Django web framework" :type emacsmirror :pkgname "django-mode" :required ((("nxml-mode" nxml-mode) ("python" python) ("python-mode" python-mode))) :depends (python-mode))

@@ -1,0 +1,2 @@
+
+(:name ooc-mode :description nil :type emacsmirror :pkgname "ooc-mode" :required ((("cc-mode" cc-fonts cc-langs cc-mode) ("cedet" cedet semantic) ("cl" cl) ("flymake" flymake)) (("cedet" semantic-decorate-include semantic-lex wisent-comp) (nil semantic/decorate/include semantic/lex semantic/wisent/comp))) :depends (cedet cc-mode))

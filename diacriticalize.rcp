@@ -1,0 +1,2 @@
+
+(:name diacriticalize :description "Constructive diacriticism" :type emacsmirror :pkgname "diacriticalize" :required nil)

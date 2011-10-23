@@ -1,0 +1,2 @@
+
+(:name company :description "Extensible inline text completion mechanism" :type emacsmirror :pkgname "company" :required ((("abbrev" abbrev) ("cl" cl) ("etags" etags) ("help-mode" help-mode) ("ispell" ispell) ("nxml-mode" nxml-mode rng-nxml) ("pymacs" pymacs) ("tempo" tempo) (nil pysmell semantic/analyze)) (("cedet" semantic-analyze semantic-idle) ("oddmuse" oddmuse) (nil semantic/idle yaooddmuse))) :depends (pymacs))

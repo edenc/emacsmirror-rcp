@@ -1,0 +1,2 @@
+
+(:name killbuf :description "Emacs 19--style kill-buffer for emacs 18" :type emacsmirror :pkgname "killbuf" :required nil)

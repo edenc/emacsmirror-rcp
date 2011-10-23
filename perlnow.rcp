@@ -1,0 +1,2 @@
+
+(:name perlnow :description "Wed Jan 14 13:45:31 2004" :type emacsmirror :pkgname "perlnow" :required ((("cl" cl) ("template" template))) :depends (template))

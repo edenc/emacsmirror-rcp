@@ -1,0 +1,2 @@
+
+(:name jde-hotspot :description nil :type emacsmirror :pkgname "jde-hotspot" :required ((("jdee" jde))) :depends (jdee))

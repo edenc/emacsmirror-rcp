@@ -1,0 +1,2 @@
+
+(:name wordnik :description "Client library for the Wordnik API" :type emacsmirror :pkgname "wordnik" :required ((("json" json) ("url" url))))

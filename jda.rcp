@@ -1,0 +1,2 @@
+
+(:name jda :description "Jong-Gyu Development Assistant minor mode for Developers" :type emacsmirror :pkgname "jda" :required ((("anything" anything) ("cl" cl) ("hi-lock" hi-lock) ("ido" ido) ("imenu" imenu) ("thingatpt" thingatpt))) :depends (anything))

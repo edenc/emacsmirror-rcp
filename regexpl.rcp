@@ -1,0 +1,2 @@
+
+(:name regexpl :description "Search and replace list of patterns and replacements" :type emacsmirror :pkgname "regexpl" :required nil)

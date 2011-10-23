@@ -1,0 +1,2 @@
+
+(:name darcsum :description "A pcl-cvs like interface for managing darcs patches" :type emacsmirror :pkgname "darcsum" :required ((("add-log" add-log) ("cl" cl) ("diff" diff) ("gnus" gnus-art mm-decode)) ((nil vc-darcs))) :depends (gnus))

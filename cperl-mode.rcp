@@ -1,0 +1,2 @@
+
+(:name cperl-mode :description "Perl code editing commands for Emacs" :type emacsmirror :pkgname "cperl-mode" :required ((("cl" cl) ("custom" custom) ("easymenu" easymenu) ("edebug" edebug) ("emacs-core" font-lock) ("etags" etags) ("gud" gud) ("imenu" imenu) ("info" info) ("man" man) ("mode-compile" mode-compile) ("ps-print" ps-print) ("tmm" tmm))))

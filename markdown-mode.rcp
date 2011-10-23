@@ -1,0 +1,2 @@
+
+(:name markdown-mode :description "Emacs Major mode for Markdown-formatted text files" :type emacsmirror :pkgname "markdown-mode" :required ((("cl" cl) ("easymenu" easymenu) ("emacs-core" font-lock) ("outline" outline) ("thingatpt" thingatpt))))

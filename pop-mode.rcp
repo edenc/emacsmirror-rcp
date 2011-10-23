@@ -1,0 +1,2 @@
+
+(:name pop-mode :description "Major mode for editing Pop-11 code" :type emacsmirror :pkgname "pop-mode" :required ((("add-log" add-log) ("cl" cl) ("easymenu" easymenu) ("emacs-core" font-lock))))

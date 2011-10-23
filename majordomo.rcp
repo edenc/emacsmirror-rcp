@@ -1,0 +1,2 @@
+
+(:name majordomo :description nil :type emacsmirror :pkgname "majordomo" :required ((("cl" cl) ("emacs-core" backquote))))

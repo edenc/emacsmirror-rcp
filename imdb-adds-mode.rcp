@@ -1,0 +1,2 @@
+
+(:name imdb-adds-mode :description "Major mode for editing IMDb data submissions" :type emacsmirror :pkgname "imdb-adds-mode" :required ((("easymenu" easymenu))))

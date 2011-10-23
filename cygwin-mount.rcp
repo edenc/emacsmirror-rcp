@@ -1,0 +1,2 @@
+
+(:name cygwin-mount :description "Teach EMACS about cygwin styles and mount points" :type emacsmirror :pkgname "cygwin-mount" :required ((("ange-ftp" ange-ftp))))

@@ -1,0 +1,2 @@
+
+(:name recent-changes :description "Handling updating of pages in web trees" :type emacsmirror :pkgname "recent-changes" :required ((("cl" cl) ("page-attributes" page-attributes))) :depends (page-attributes))

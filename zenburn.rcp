@@ -1,0 +1,2 @@
+
+(:name zenburn :description "Just some alien fruit salad to keep you in the zone" :type emacsmirror :pkgname "zenburn" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

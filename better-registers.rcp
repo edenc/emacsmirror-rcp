@@ -1,0 +1,2 @@
+
+(:name better-registers :description "Facilities for more powerful registers" :type emacsmirror :pkgname "better-registers" :required nil)

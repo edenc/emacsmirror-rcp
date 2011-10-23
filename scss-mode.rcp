@@ -1,0 +1,2 @@
+
+(:name scss-mode :description "Major mode for editing SCSS files" :type emacsmirror :pkgname "scss-mode" :required ((("compile" compile) ("emacs-core" derived) ("flymake" flymake))))

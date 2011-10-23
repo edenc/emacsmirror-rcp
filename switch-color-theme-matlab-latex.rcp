@@ -1,0 +1,2 @@
+
+(:name switch-color-theme-matlab-latex :description "Color themes for matlab" :type emacsmirror :pkgname "switch-color-theme-matlab-latex" :required nil)

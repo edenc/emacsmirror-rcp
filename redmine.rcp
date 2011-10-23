@@ -1,0 +1,2 @@
+
+(:name redmine :description "See Redmine on Emacs" :type emacsmirror :pkgname "redmine" :required ((("anything" anything) ("cl" cl) ("xml" xml))) :depends (anything))

@@ -1,0 +1,2 @@
+
+(:name elhome :description "A framework for a \"home\" Emacs configuration" :type emacsmirror :pkgname "elhome" :required nil)

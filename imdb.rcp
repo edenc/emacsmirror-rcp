@@ -1,0 +1,2 @@
+
+(:name imdb :description nil :type emacsmirror :pkgname "imdb" :required nil)

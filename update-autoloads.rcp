@@ -1,0 +1,2 @@
+
+(:name update-autoloads :description "Update autoloads according to my conventions" :type emacsmirror :pkgname "update-autoloads" :required nil)

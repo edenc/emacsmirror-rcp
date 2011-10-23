@@ -1,0 +1,2 @@
+
+(:name malyon :description "Mode to execute z code files version 3, 5, 8" :type emacsmirror :pkgname "malyon" :required nil)

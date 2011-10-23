@@ -1,0 +1,2 @@
+
+(:name ngn :description "Quickly insert a newsgroup name into a buffer using completion" :type emacsmirror :pkgname "ngn" :required ((("cl" cl))))

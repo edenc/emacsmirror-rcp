@@ -1,0 +1,2 @@
+
+(:name defaultbanner :description nil :type emacsmirror :pkgname "defaultbanner" :required nil)

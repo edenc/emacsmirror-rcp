@@ -1,0 +1,2 @@
+
+(:name sigadapt :description nil :type emacsmirror :pkgname "sigadapt" :required ((("bbdb" bbdb bbdb-com))) :depends (bbdb))

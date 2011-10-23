@@ -1,0 +1,2 @@
+
+(:name gnus-autocheck :description nil :type emacsmirror :pkgname "gnus-autocheck" :required ((("gnus" gnus))) :depends (gnus))

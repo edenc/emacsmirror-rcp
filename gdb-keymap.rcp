@@ -1,0 +1,2 @@
+
+(:name gdb-keymap :description "Make the life easier with debugging" :type emacsmirror :pkgname "gdb-keymap" :required ((("cl" cl))))

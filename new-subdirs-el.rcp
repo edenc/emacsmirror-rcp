@@ -1,0 +1,2 @@
+
+(:name new-subdirs-el :description "Special subdirs.el to go along with write-subdirs-el" :type emacsmirror :pkgname "new-subdirs-el" :required nil)

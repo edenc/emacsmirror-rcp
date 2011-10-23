@@ -1,0 +1,2 @@
+
+(:name fold :description "Folding" :type emacsmirror :pkgname "fold" :required nil)

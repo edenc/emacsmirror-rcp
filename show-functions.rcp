@@ -1,0 +1,2 @@
+
+(:name show-functions :description "List functions in a buffer" :type emacsmirror :pkgname "show-functions" :required ((("widget" wid-edit))))

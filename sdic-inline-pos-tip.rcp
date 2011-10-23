@@ -1,0 +1,2 @@
+
+(:name sdic-inline-pos-tip :description "Extension for sdic-inline-mode using pos-tip.el" :type emacsmirror :pkgname "sdic-inline-pos-tip" :required ((("pos-tip" pos-tip) ("sdic-inline" sdic-inline))) :depends (sdic-inline pos-tip))

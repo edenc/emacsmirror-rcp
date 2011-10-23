@@ -1,0 +1,2 @@
+
+(:name zenburn-theme :description "A low contrast color theme for Emacs" :type emacsmirror :pkgname "zenburn-theme" :required ((("cl" cl) ("custom" cus-face) ("easymenu" easymenu) ("reporter" reporter) ("widget" wid-edit))))

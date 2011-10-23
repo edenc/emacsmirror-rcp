@@ -1,0 +1,2 @@
+
+(:name message-utils :description nil :type emacsmirror :pkgname "message-utils" :required ((("custom" custom) ("gnus" message))) :depends (gnus))

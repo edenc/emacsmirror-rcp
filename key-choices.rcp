@@ -1,0 +1,2 @@
+
+(:name key-choices :description "Key Choices -- Also Viper has different colors in different modes" :type emacsmirror :pkgname "key-choices" :required ((("color-theme" color-theme) ("easymenu" easymenu) ("ergoemacs" ergoemacs-mode) ("vimpulse" vimpulse) ("viper" viper) ("viper-in-more-modes" viper-in-more-modes))) :depends (viper-in-more-modes vimpulse ergoemacs zenburn-theme))

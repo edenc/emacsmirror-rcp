@@ -1,0 +1,2 @@
+
+(:name auto-complete-exuberant-ctags :description "Exuberant ctags auto-complete.el source" :type emacsmirror :pkgname "auto-complete-exuberant-ctags" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

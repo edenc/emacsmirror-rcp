@@ -1,0 +1,2 @@
+
+(:name wikiarea :description "Interface to the Emacs Wiki's Elisp area" :type emacsmirror :pkgname "wikiarea" :required ((("emacs-core" overlay pp) ("http-emacs" http-get))) :depends (http-emacs))

@@ -1,0 +1,2 @@
+
+(:name iflipb :description "Interactively flip between recently visited buffers" :type emacsmirror :pkgname "iflipb" :required nil)

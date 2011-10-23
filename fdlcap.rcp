@@ -1,0 +1,2 @@
+
+(:name fdlcap :description "Cycle through case and capitalization of words" :type emacsmirror :pkgname "fdlcap" :required nil)

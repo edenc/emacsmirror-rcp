@@ -1,0 +1,2 @@
+
+(:name magithub :description "Magit extensions for using GitHub" :type emacsmirror :pkgname "magithub" :required ((("cl" cl) ("crm" crm) ("json" json) ("magit" magit) ("url" url))) :depends (magit))

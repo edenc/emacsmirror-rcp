@@ -1,0 +1,2 @@
+
+(:name concordance :description "Show concordance table" :type emacsmirror :pkgname "concordance" :required ((("cl" cl) ("info" info) ("tellib" tellib) ("thingatpt" thingatpt) ("timer" timer))) :depends (tellib))

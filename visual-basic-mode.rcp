@@ -1,0 +1,2 @@
+
+(:name visual-basic-mode :description "A mode for editing Visual Basic programs" :type emacsmirror :pkgname "visual-basic-mode" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name clojure-mode :description "Major mode for Clojure code" :type emacsmirror :pkgname "clojure-mode" :required ((("cl" cl) ("slime" slime) ("which-func" which-func))) :depends (slime))

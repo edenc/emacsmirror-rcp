@@ -1,0 +1,2 @@
+
+(:name mmm-mako :description "MMM submode class for Mako Templates" :type emacsmirror :pkgname "mmm-mako" :required ((("mmm-mode" mmm-auto mmm-compat mmm-vars))) :depends (mmm-mode))

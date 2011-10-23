@@ -1,0 +1,2 @@
+
+(:name rmail-extras :description "Remote inboxes for RMAIL, extend \"time\" with multiple mail flags" :type emacsmirror :pkgname "rmail-extras" :required ((("ange-ftp" ange-ftp) ("cl" cl) ("rmail" rmail))))

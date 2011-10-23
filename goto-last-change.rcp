@@ -1,0 +1,2 @@
+
+(:name goto-last-change :description "Move point through buffer-undo-list positions" :type emacsmirror :pkgname "goto-last-change" :required ((("cl" cl))))

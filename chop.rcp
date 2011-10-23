@@ -1,0 +1,2 @@
+
+(:name chop :description "Interactive binary search for a line within a window" :type emacsmirror :pkgname "chop" :required nil)

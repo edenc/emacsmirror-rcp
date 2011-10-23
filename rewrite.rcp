@@ -1,0 +1,2 @@
+
+(:name rewrite :description "Utility to rewrite text files with easier regular expression handling" :type emacsmirror :pkgname "rewrite" :required nil)

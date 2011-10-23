@@ -1,0 +1,2 @@
+
+(:name connectivity :description nil :type emacsmirror :pkgname "connectivity" :required ((("cl" cl) ("webmaster-macros" webmaster-macros))) :depends (webmaster-macros))

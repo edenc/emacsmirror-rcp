@@ -1,0 +1,2 @@
+
+(:name ri :description "Ruby Documentation Lookup" :type emacsmirror :pkgname "ri" :required ((("ido" ido) ("thingatpt" thingatpt))))

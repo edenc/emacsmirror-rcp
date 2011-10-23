@@ -1,0 +1,2 @@
+
+(:name protocols :description "Protocol database access functions" :type emacsmirror :pkgname "protocols" :required ((("cl" cl))))

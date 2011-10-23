@@ -1,0 +1,2 @@
+
+(:name html-helper-mode :description "Major mode for composing html files" :type emacsmirror :pkgname "html-helper-mode" :required ((("easymenu" easymenu) ("tempo" tempo))))

@@ -1,0 +1,2 @@
+
+(:name faq-mode :description nil :type emacsmirror :pkgname "faq-mode" :required nil)

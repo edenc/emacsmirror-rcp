@@ -1,0 +1,2 @@
+
+(:name linum+ :description "Extension of linum" :type emacsmirror :pkgname "linum+" :required ((("linum" linum))))

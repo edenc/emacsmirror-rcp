@@ -1,0 +1,2 @@
+
+(:name ac-lilypond :description "Set up the use of LilyPond with auto-complete" :type emacsmirror :pkgname "ac-lilypond" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

@@ -1,0 +1,2 @@
+
+(:name hatena-tools :description nil :type emacsmirror :pkgname "hatena-tools" :required ((("cl" cl) ("emacs-core" derived font-lock) ("html-helper-mode" html-helper-mode))) :depends (html-helper-mode))

@@ -1,0 +1,2 @@
+
+(:name mwe-cambridge-permute :description "Obfuscate text" :type emacsmirror :pkgname "mwe-cambridge-permute" :required nil)

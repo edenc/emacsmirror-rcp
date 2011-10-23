@@ -1,0 +1,2 @@
+
+(:name tehom-4 :description "A variant completing-read that returns value" :type emacsmirror :pkgname "tehom-4" :required ((("cl" cl))))

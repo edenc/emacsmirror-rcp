@@ -1,0 +1,2 @@
+
+(:name ska-skel-matlab :description "My matlab skeletons" :type emacsmirror :pkgname "ska-skel-matlab" :required nil)

@@ -1,0 +1,2 @@
+
+(:name gentext-tex :description nil :type emacsmirror :pkgname "gentext-tex" :required ((("gentext-models" gentext-models) ("reftex" reftex-cite) ("tex-mode" tex-mode))) :depends (reftex gentext-models))

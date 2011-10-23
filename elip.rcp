@@ -1,0 +1,2 @@
+
+(:name elip :description nil :type emacsmirror :pkgname "elip" :required ((("calendar" calendar) ("cl" cl) ("edb" database edb-t-timedate1))))

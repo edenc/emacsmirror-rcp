@@ -1,0 +1,2 @@
+
+(:name vex :description "Interactive svg graphics in a buffer" :type emacsmirror :pkgname "vex" :required ((("cl" cl))))

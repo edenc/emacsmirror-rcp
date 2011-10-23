@@ -1,0 +1,2 @@
+
+(:name labbook :description "Provides a labbook log" :type emacsmirror :pkgname "labbook" :required ((("add-log" add-log))))

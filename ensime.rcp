@@ -1,0 +1,2 @@
+
+(:name ensime :description "ENhanced Scala Interaction Mode for Emacs" :type emacsmirror :pkgname "ensime" :required ((("apropos" apropos) ("auto-complete" auto-complete) ("cl" cl) ("comint" comint) ("compile" compile) ("easymenu" easymenu) ("emacs-core" font-lock pp tooltip) ("etags" etags) ("hideshow" hideshow) ("thingatpt" thingatpt) ("timer" timer))) :depends (auto-complete))

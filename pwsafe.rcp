@@ -1,0 +1,2 @@
+
+(:name pwsafe :description "Emacs interface to pwsafe" :type emacsmirror :pkgname "pwsafe" :required nil)

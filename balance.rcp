@@ -1,0 +1,2 @@
+
+(:name balance :description "Editing balance sheets" :type emacsmirror :pkgname "balance" :required nil)

@@ -1,0 +1,2 @@
+
+(:name clhs :description "Access the Common Lisp HyperSpec (CLHS)" :type emacsmirror :pkgname "clhs" :required ((("browse-url" browse-url) ("cl" cl) ("thingatpt" thingatpt) ("url" url))))

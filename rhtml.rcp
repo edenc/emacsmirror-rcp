@@ -1,0 +1,2 @@
+
+(:name rhtml :description nil :type emacsmirror :pkgname "rhtml" :required ((("cl" cl) ("ruby-mode" ruby-mode) ("sgml-mode" sgml-mode))))

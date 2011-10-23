@@ -1,0 +1,2 @@
+
+(:name ebib :description nil :type emacsmirror :pkgname "ebib" :required ((("bibtex" bibtex) ("cl" cl) ("easymenu" easymenu))))

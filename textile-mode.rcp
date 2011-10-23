@@ -1,0 +1,2 @@
+
+(:name textile-mode :description "Textile markup editing major mode" :type emacsmirror :pkgname "textile-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name typopunct :description "Automatic typographical punctuation marks" :type emacsmirror :pkgname "typopunct" :required nil)

@@ -1,0 +1,2 @@
+
+(:name kill-ring-search :description "Incremental search for the kill ring" :type emacsmirror :pkgname "kill-ring-search" :required ((("cl" cl))))

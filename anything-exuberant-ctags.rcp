@@ -1,0 +1,2 @@
+
+(:name anything-exuberant-ctags :description "Exuberant ctags anything.el interface" :type emacsmirror :pkgname "anything-exuberant-ctags" :required ((("anything" anything))) :depends (anything))

@@ -1,0 +1,2 @@
+
+(:name openpaste :description "Emacs interface for OpenPastebin" :type emacsmirror :pkgname "openpaste" :required ((("xml-rpc" xml-rpc))) :depends (xml-rpc))

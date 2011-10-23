@@ -1,0 +1,2 @@
+
+(:name vm-thread :description "Functions for collapsing threads in a VM Summary buffer" :type emacsmirror :pkgname "vm-thread" :required nil)

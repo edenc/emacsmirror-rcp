@@ -1,0 +1,2 @@
+
+(:name latex-symbols :description "Display tables of (La)TeX symbols in XEmacs" :type emacsmirror :pkgname "latex-symbols" :required nil)

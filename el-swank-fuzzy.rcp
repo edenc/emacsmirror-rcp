@@ -1,0 +1,2 @@
+
+(:name el-swank-fuzzy :description "Fuzzy symbol completion" :type emacsmirror :pkgname "el-swank-fuzzy" :required ((("cl" cl))))

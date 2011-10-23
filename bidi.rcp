@@ -1,0 +1,2 @@
+
+(:name bidi :description "Bidi support for Emacs" :type emacsmirror :pkgname "bidi" :required nil)

@@ -1,0 +1,2 @@
+
+(:name org-daypage :description "Org-Mode Day Page" :type emacsmirror :pkgname "org-daypage" :required ((("cl" cl))))

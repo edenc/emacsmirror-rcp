@@ -1,0 +1,2 @@
+
+(:name android-mode :description "Minor mode for Android application development" :type emacsmirror :pkgname "android-mode" :required ((("cl" cl))))

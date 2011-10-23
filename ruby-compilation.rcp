@@ -1,0 +1,2 @@
+
+(:name ruby-compilation :description "Run a ruby process in a compilation buffer" :type emacsmirror :pkgname "ruby-compilation" :required ((("ansi-color" ansi-color) ("rinari" pcmpl-rake))) :depends (rinari))

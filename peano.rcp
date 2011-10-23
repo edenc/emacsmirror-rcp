@@ -1,0 +1,2 @@
+
+(:name peano :description nil :type emacsmirror :pkgname "peano" :required ((("cl" cl) ("emacs-core" font-lock) ("org-mode" org) ("rx" rx))) :depends (org-mode))

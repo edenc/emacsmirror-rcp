@@ -1,0 +1,2 @@
+
+(:name x-migrant :description "Support for subprocesses handling remote X displays" :type emacsmirror :pkgname "x-migrant" :required ((("advice" advice))))

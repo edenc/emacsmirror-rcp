@@ -1,0 +1,2 @@
+
+(:name goofey :description "Send Goofey messages from Emacs !" :type emacsmirror :pkgname "goofey" :required nil)

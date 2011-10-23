@@ -1,0 +1,2 @@
+
+(:name anything-hatena-bookmark :description "Hatena::Bookmark anything.el interface" :type emacsmirror :pkgname "anything-hatena-bookmark" :required ((("anything" anything) ("cl" cl) ("gnus" sha1) ("url" url) ("xml" xml))) :depends (gnus anything))

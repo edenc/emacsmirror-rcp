@@ -1,0 +1,2 @@
+
+(:name bongo :description "Flexible and usable media player for Emacs" :type emacsmirror :pkgname "bongo" :required ((("cl" cl) ("custom" cus-edit custom) ("electric" electric) ("find-func" find-func) ("gnus" format-spec time-date) ("rx" rx)) (("volume" volume))) :depends (gnus))

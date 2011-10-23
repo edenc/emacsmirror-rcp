@@ -1,0 +1,2 @@
+
+(:name auto-complete-acr :description "Auto-complete-mode extension for GNU R" :type emacsmirror :pkgname "auto-complete-acr" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

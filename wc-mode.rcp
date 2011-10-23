@@ -1,0 +1,2 @@
+
+(:name wc-mode :description nil :type emacsmirror :pkgname "wc-mode" :required nil)

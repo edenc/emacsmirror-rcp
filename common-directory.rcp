@@ -1,0 +1,2 @@
+
+(:name common-directory :description "Special handling of my common directory" :type emacsmirror :pkgname "common-directory" :required nil)

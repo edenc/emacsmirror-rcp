@@ -1,0 +1,2 @@
+
+(:name beginner :description "Simplify Emacs" :type emacsmirror :pkgname "beginner" :required ((("saveplace" saveplace))))

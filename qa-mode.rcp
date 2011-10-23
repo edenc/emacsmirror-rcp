@@ -1,0 +1,2 @@
+
+(:name qa-mode :description "Major mode to edit QA files for SuperMemo" :type emacsmirror :pkgname "qa-mode" :required nil)

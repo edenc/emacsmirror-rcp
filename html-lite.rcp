@@ -1,0 +1,2 @@
+
+(:name html-lite :description "Construct html with sexp" :type emacsmirror :pkgname "html-lite" :required nil)

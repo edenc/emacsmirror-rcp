@@ -1,0 +1,2 @@
+
+(:name my-zmacs :description nil :type emacsmirror :pkgname "my-zmacs" :required nil)

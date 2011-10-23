@@ -1,0 +1,2 @@
+
+(:name tal-indent :description "Handles indentation functions for tal-mode" :type emacsmirror :pkgname "tal-indent" :required ((("tal-mode" tal-mode))) :depends (tal-mode))

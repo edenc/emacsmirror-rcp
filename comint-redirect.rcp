@@ -1,0 +1,2 @@
+
+(:name comint-redirect :description "Redirect comint output to multiple buffers" :type emacsmirror :pkgname "comint-redirect" :required ((("comint" comint))))

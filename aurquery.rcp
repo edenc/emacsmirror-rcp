@@ -1,0 +1,2 @@
+
+(:name aurquery :description "Interface to the Arch User Repository" :type emacsmirror :pkgname "aurquery" :required ((("json" json))))

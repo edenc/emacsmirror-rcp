@@ -1,0 +1,2 @@
+
+(:name ahg :description "Alberto's Emacs interface for Mercurial (Hg)" :type emacsmirror :pkgname "ahg" :required ((("cl" cl) ("diff-mode" diff-mode) ("easymenu" easymenu) ("ewoc" ewoc) ("grep" grep) ("log-edit" log-edit))))

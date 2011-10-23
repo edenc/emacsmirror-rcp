@@ -1,0 +1,2 @@
+
+(:name qemu :description "An interface to the qemu emulator" :type emacsmirror :pkgname "qemu" :required nil)

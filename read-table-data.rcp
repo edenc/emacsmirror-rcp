@@ -1,0 +1,2 @@
+
+(:name read-table-data :description nil :type emacsmirror :pkgname "read-table-data" :required ((("cl" cl))))

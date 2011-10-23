@@ -1,0 +1,2 @@
+
+(:name doit-mode :description "A major mode for organizing tasks" :type emacsmirror :pkgname "doit-mode" :required nil)

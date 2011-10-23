@@ -1,0 +1,2 @@
+
+(:name codepad :description "Emacs integration for codepad.org" :type emacsmirror :pkgname "codepad" :required ((("cl" cl) ("url" url-http))))

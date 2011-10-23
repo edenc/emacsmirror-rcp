@@ -1,0 +1,2 @@
+
+(:name pseudo-grep :description "Approximate replacement for grep, for machines which don't have it" :type emacsmirror :pkgname "pseudo-grep" :required nil)

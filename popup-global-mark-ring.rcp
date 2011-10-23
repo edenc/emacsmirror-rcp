@@ -1,0 +1,2 @@
+
+(:name popup-global-mark-ring :description "Jumping Interactively through global mark ring" :type emacsmirror :pkgname "popup-global-mark-ring" :required ((("popup" popup))) :depends (popup))

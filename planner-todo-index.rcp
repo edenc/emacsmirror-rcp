@@ -1,0 +1,2 @@
+
+(:name planner-todo-index :description "Find todos in files of project and display to planner page" :type emacsmirror :pkgname "planner-todo-index" :required (((nil traverse-dir))))

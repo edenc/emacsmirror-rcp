@@ -1,0 +1,2 @@
+
+(:name git-emacs :description nil :type emacsmirror :pkgname "git-emacs" :required ((("cl" cl) ("easymenu" easymenu) ("ediff" ediff) ("ewoc" ewoc) ("grep" grep) ("ido" ido) ("log-view" log-view) ("time-stamp" time-stamp) ("vc" vc vc-git)) (("hl-line" hl-line))))

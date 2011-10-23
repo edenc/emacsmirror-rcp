@@ -1,0 +1,2 @@
+
+(:name hilit-swiftex :description "Enhancements for highlighting swiftex and doctex" :type emacsmirror :pkgname "hilit-swiftex" :required (((nil hilit19))))

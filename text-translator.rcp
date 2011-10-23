@@ -1,0 +1,2 @@
+
+(:name text-translator :description "Text Translator" :type emacsmirror :pkgname "text-translator" :required nil)

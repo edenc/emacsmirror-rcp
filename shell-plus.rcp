@@ -1,0 +1,2 @@
+
+(:name shell-plus :description "Extra bits for talking to shells" :type emacsmirror :pkgname "shell-plus" :required nil)

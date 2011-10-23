@@ -1,0 +1,2 @@
+
+(:name octal-chars :description "Convert escape sequences in a file" :type emacsmirror :pkgname "octal-chars" :required nil)

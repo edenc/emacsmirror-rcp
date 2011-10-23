@@ -1,0 +1,2 @@
+
+(:name whine :description nil :type emacsmirror :pkgname "whine" :required nil)

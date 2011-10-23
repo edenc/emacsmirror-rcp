@@ -1,0 +1,2 @@
+
+(:name html-parse :description "Html parser for Emacs" :type emacsmirror :pkgname "html-parse" :required ((("xml-parse" xml-parse))))

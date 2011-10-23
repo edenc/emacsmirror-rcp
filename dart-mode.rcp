@@ -1,0 +1,2 @@
+
+(:name dart-mode :description "Major mode for editing Dart files" :type emacsmirror :pkgname "dart-mode" :required ((("cc-mode" cc-langs cc-mode) ("cl" cl))) :depends (cc-mode))

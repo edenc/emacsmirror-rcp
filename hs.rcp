@@ -1,0 +1,2 @@
+
+(:name hs :description nil :type emacsmirror :pkgname "hs" :required ((("auto-complete" auto-complete) ("cl" cl))) :depends (auto-complete))

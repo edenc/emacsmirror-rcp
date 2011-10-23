@@ -1,0 +1,2 @@
+
+(:name tumblr-gist :description "Ties the Gist and Tumblr integration to allow syntax highlighted and revision controlled region pasting" :type emacsmirror :pkgname "tumblr-gist" :required ((("gist" gist) ("http-post-simple" http-post-simple) ("tumblr" tumblr))) :depends (tumblr http-post-simple gist))

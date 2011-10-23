@@ -1,0 +1,2 @@
+
+(:name applescript-mode :description "Major mode for editing AppleScript source" :type emacsmirror :pkgname "applescript-mode" :required ((("easymenu" easymenu))))

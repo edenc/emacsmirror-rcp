@@ -1,0 +1,2 @@
+
+(:name vi-dot :description "Implementation of vi's dot command for Emacs" :type emacsmirror :pkgname "vi-dot" :required ((("advice" advice) ("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name fic-mode :description "Show FIXME/TODO/BUG/KLUDGE in special face only in comments and strings" :type emacsmirror :pkgname "fic-mode" :required nil)

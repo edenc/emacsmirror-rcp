@@ -1,0 +1,2 @@
+
+(:name rudel :description "A collaborative editing framework for Emacs" :type emacsmirror :pkgname "rudel" :required ((("cedet" data-debug eieio eieio-base eieio-datadebug eieio-speedbar speedbar) ("cl" cl) ("custom" custom) ("easy-mmode" easy-mmode) ("easymenu" easymenu) ("emacs-core" image warnings) ("gnus" format-spec sasl) ("xml" xml) ("zeroconf" zeroconf))) :depends (gnus cedet))

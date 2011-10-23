@@ -1,0 +1,2 @@
+
+(:name gnus-notify :description nil :type emacsmirror :pkgname "gnus-notify" :required nil)

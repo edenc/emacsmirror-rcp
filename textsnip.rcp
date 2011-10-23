@@ -1,0 +1,2 @@
+
+(:name textsnip :description "Posts text to textsnip for sharing" :type emacsmirror :pkgname "textsnip" :required ((("http-post-simple" http-post-simple))) :depends (http-post-simple))

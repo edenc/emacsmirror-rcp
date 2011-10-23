@@ -1,0 +1,2 @@
+
+(:name flatten-saved-pages :description "Flatten pages saved by browsers" :type emacsmirror :pkgname "flatten-saved-pages" :required nil)

@@ -1,0 +1,2 @@
+
+(:name twiki-outline :description "Major mode for editing twiki documents" :type emacsmirror :pkgname "twiki-outline" :required ((("outline" outline))))

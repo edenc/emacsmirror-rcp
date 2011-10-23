@@ -1,0 +1,2 @@
+
+(:name prand :description "Generate pesudo-random number" :type emacsmirror :pkgname "prand" :required ((("calc" calc calc-ext calc-misc) ("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name versor :description "Versatile cursor" :type emacsmirror :pkgname "versor" :required ((("cl" cl) ("contexts" contexts) ("find-func" find-func) ("screen-setups" screen-setups) ("tempo" tempo) ("tmm" tmm) (nil handsfree-menu-additions handsfree-tools-menus languide-utils versor-joystick))) :depends (screen-setups contexts))

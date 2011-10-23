@@ -1,0 +1,2 @@
+
+(:name yank-whitespace :description "Advise kill-ring functions to tag items with what the surrounding whitespace was" :type emacsmirror :pkgname "yank-whitespace" :required nil)

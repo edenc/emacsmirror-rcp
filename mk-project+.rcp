@@ -1,0 +1,2 @@
+
+(:name mk-project+ :description "Enhancement of `mk-project.el'" :type emacsmirror :pkgname "mk-project+" :required ((("mk-project" mk-project))) :depends (mk-project))

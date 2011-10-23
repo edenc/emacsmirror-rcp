@@ -1,0 +1,2 @@
+
+(:name unmunge-general :description "Change address/sig with context in gnus" :type emacsmirror :pkgname "unmunge-general" :required ((("cl" cl) ("custom" custom) ("gnus" gnus message))) :depends (gnus))

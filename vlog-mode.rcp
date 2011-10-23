@@ -1,0 +1,2 @@
+
+(:name vlog-mode :description "A new major mode for editing verilog files" :type emacsmirror :pkgname "vlog-mode" :required ((("align" align) ("cl" cl) ("emacs-core" font-lock) ("hideshow" hideshow))))

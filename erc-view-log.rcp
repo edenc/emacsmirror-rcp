@@ -1,0 +1,2 @@
+
+(:name erc-view-log :description "Major mode for viewing ERC logs" :type emacsmirror :pkgname "erc-view-log" :required ((("erc" erc))) :depends (erc))

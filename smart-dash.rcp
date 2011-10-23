@@ -1,0 +1,2 @@
+
+(:name smart-dash :description "Smart-Dash minor mode" :type emacsmirror :pkgname "smart-dash" :required nil)

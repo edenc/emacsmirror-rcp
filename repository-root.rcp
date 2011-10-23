@@ -1,0 +1,2 @@
+
+(:name repository-root :description "Deduce the repository root directory for a given file" :type emacsmirror :pkgname "repository-root" :required ((("widget" wid-edit widget))))

@@ -1,0 +1,2 @@
+
+(:name powershell-mode :description "Mode for editing Powershell scripts" :type emacsmirror :pkgname "powershell-mode" :required (nil (("cedet" speedbar) ("compile" compile))))

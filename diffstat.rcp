@@ -1,0 +1,2 @@
+
+(:name diffstat :description "A mode for showing the summary of diff" :type emacsmirror :pkgname "diffstat" :required nil)

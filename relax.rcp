@@ -1,0 +1,2 @@
+
+(:name relax :description "For browsing and interacting with CouchDB" :type emacsmirror :pkgname "relax" :required ((("gnus" mm-util) ("json" json) ("thingatpt" thingatpt) ("url" url))) :depends (gnus))

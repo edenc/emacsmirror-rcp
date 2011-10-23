@@ -1,0 +1,2 @@
+
+(:name obarray-fns :description "Obarray-manipulating routines" :type emacsmirror :pkgname "obarray-fns" :required nil)

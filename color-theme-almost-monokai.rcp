@@ -1,0 +1,2 @@
+
+(:name color-theme-almost-monokai :description nil :type emacsmirror :pkgname "color-theme-almost-monokai" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

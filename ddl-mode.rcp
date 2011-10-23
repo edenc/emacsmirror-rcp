@@ -1,0 +1,2 @@
+
+(:name ddl-mode :description "Handles the Tandem-Compaq-HP DDL language" :type emacsmirror :pkgname "ddl-mode" :required ((("column-marker" column-marker) ("imenu" imenu) ("which-func" which-func))) :depends (python-mode))

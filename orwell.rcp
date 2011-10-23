@@ -1,0 +1,2 @@
+
+(:name orwell :description "Exchange [C-h] & [DEL] without affecting prefix mappings" :type emacsmirror :pkgname "orwell" :required nil)

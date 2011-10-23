@@ -1,0 +1,2 @@
+
+(:name qsas :description "QuickSilver's Abbreviation Scoring" :type emacsmirror :pkgname "qsas" :required ((("cl" cl))))

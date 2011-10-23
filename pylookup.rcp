@@ -1,0 +1,2 @@
+
+(:name pylookup :description nil :type emacsmirror :pkgname "pylookup" :required ((("browse-url" browse-url) ("cl" cl) ("emacs-core" simple) ("ido" ido))))

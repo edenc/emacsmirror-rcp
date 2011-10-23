@@ -1,0 +1,2 @@
+
+(:name slack-rtm :description "An elisp implementation of the Remember The Milk API" :type emacsmirror :pkgname "slack-rtm" :required ((("cl" cl) ("custom" custom) ("ido" ido) ("org-mode" org) ("url" url-http url-util) ("xml" xml))) :depends (org-mode))

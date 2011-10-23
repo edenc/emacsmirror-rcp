@@ -1,0 +1,2 @@
+
+(:name xquery-mode :description "A simple mode for editing xquery programs" :type emacsmirror :pkgname "xquery-mode" :required ((("nxml-mode" nxml-mode))))

@@ -1,0 +1,2 @@
+
+(:name buffer-timer :description nil :type emacsmirror :pkgname "buffer-timer" :required ((("gnus" gnus-spec))) :depends (gnus))

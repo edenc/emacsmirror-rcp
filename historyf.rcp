@@ -1,0 +1,2 @@
+
+(:name historyf :description "File history library like browser" :type emacsmirror :pkgname "historyf" :required ((("cl" cl))))

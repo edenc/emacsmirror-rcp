@@ -1,0 +1,2 @@
+
+(:name constellations :description "Constellation tools" :type emacsmirror :pkgname "constellations" :required nil)

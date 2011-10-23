@@ -1,0 +1,2 @@
+
+(:name pair-mode :description "Insertion of paired characters" :type emacsmirror :pkgname "pair-mode" :required ((("skeleton" skeleton))))

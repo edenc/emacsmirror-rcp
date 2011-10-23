@@ -1,0 +1,2 @@
+
+(:name archie :description "Query archie servers and parse the results" :type emacsmirror :pkgname "archie" :required ((("cl" cl) ("custom" custom))))

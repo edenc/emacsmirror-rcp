@@ -1,0 +1,2 @@
+
+(:name langtool :description "Grammer check utility using LanguageTool" :type emacsmirror :pkgname "langtool" :required ((("cl" cl) ("flymake" flymake))))

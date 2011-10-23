@@ -1,0 +1,2 @@
+
+(:name nav :description "Emacs mode for filesystem navigation" :type emacsmirror :pkgname "nav" :required ((("ack" ack) ("dired" dired))))

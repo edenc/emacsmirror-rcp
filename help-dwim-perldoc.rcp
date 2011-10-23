@@ -1,0 +1,2 @@
+
+(:name help-dwim-perldoc :description nil :type emacsmirror :pkgname "help-dwim-perldoc" :required ((("cl" cl) ("help-dwim" help-dwim) ("tree-widget" tree-widget) ("woman" woman)) (("tree-mode" tree-mode))) :depends (help-dwim))

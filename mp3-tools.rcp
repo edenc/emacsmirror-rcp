@@ -1,0 +1,2 @@
+
+(:name mp3-tools :description "A simple MP3 Tag Editor for GNU Emacs" :type emacsmirror :pkgname "mp3-tools" :required ((("easymenu" easymenu) ("widget" wid-edit widget))))

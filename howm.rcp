@@ -1,0 +1,2 @@
+
+(:name howm :description "Wiki-like note-taking tool" :type emacsmirror :pkgname "howm" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("emacs-core" font-lock) ("gnus" mailcap) ("migemo" migemo))) :depends (migemo gnus))

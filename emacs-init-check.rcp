@@ -1,0 +1,2 @@
+
+(:name emacs-init-check :description "Automatic init file checker" :type emacsmirror :pkgname "emacs-init-check" :required ((("cl" cl))))

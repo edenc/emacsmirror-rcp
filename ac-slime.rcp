@@ -1,0 +1,2 @@
+
+(:name ac-slime :description "An auto-complete source using slime completions" :type emacsmirror :pkgname "ac-slime" :required ((("cl" cl))))

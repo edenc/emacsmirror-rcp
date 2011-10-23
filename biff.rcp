@@ -1,0 +1,2 @@
+
+(:name biff :description nil :type emacsmirror :pkgname "biff" :required ((("emacs-core" base64 md5) ("itimer" itimer) ("timer" timer))) :depends (itimer))

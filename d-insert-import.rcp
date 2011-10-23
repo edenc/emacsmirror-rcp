@@ -1,0 +1,2 @@
+
+(:name d-insert-import :description "Insert import statement for D language" :type emacsmirror :pkgname "d-insert-import" :required nil)

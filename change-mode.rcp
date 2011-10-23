@@ -1,0 +1,2 @@
+
+(:name change-mode :description "Minor mode displaying buffer changes with special face" :type emacsmirror :pkgname "change-mode" :required ((("advice" advice))))

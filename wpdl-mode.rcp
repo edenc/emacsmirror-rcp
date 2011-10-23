@@ -1,0 +1,2 @@
+
+(:name wpdl-mode :description "Major mode for editing WPDL files" :type emacsmirror :pkgname "wpdl-mode" :required nil)

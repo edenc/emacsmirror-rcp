@@ -1,0 +1,2 @@
+
+(:name mogo :description "Simple MoGo client" :type emacsmirror :pkgname "mogo" :required ((("cl" cl))))

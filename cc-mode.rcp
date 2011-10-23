@@ -1,0 +1,2 @@
+
+(:name cc-mode :description "Major mode for editing C and similar languages" :type emacsmirror :pkgname "cc-mode" :required ((("custom" custom) ("emacs-core" font-lock) ("reporter" reporter) ("widget" widget))))

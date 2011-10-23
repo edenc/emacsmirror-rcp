@@ -1,0 +1,2 @@
+
+(:name maude-mode :description "Emacs mode for the programming language Maude" :type emacsmirror :pkgname "maude-mode" :required ((("ansi-color" ansi-color) ("cl" cl) ("comint" comint) ("compile" compile) ("easymenu" easymenu) ("emacs-core" derived font-lock) ("imenu" imenu) ("newcomment" newcomment) ("rx" rx))))

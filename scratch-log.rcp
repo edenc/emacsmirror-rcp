@@ -1,0 +1,2 @@
+
+(:name scratch-log :description nil :type emacsmirror :pkgname "scratch-log" :required ((("cl" cl))))

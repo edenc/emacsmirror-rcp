@@ -1,0 +1,2 @@
+
+(:name vc-jump :description "Jump to status buffer for the current VC" :type emacsmirror :pkgname "vc-jump" :required ((("cl" cl) ("vc" vc))))

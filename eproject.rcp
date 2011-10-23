@@ -1,0 +1,4 @@
+(:name eproject
+       :description "Assign files to projects, programatically"
+       :type emacsmirror
+       :pkgname "eproject")

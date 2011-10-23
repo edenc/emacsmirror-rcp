@@ -1,0 +1,2 @@
+
+(:name dpaste :description "Emacs integration for dpaste.com" :type emacsmirror :pkgname "dpaste" :required nil)

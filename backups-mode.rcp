@@ -1,0 +1,2 @@
+
+(:name backups-mode :description "Major mode for autosaving files and listing, viewing, and reverting Emacs generated backups" :type emacsmirror :pkgname "backups-mode" :required ((("cl" cl) ("diff" diff))))

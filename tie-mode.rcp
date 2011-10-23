@@ -1,0 +1,2 @@
+
+(:name tie-mode :description "Tie code editing commands for GNU Emacs" :type emacsmirror :pkgname "tie-mode" :required ((("compile" compile) ("easymenu" easymenu))))

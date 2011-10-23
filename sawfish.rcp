@@ -1,0 +1,2 @@
+
+(:name sawfish :description "Sawfish mode" :type emacsmirror :pkgname "sawfish" :required ((("cl" cl) ("easymenu" easymenu) ("emacs-core" font-lock pp) ("inf-lisp" inf-lisp) ("info" info) ("regexp-opt" regexp-opt) ("thingatpt" thingatpt) (nil lisp-doc rep\.structures))))

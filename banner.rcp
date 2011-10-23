@@ -1,0 +1,2 @@
+
+(:name banner :description "Make banners from strings" :type emacsmirror :pkgname "banner" :required nil)

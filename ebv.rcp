@@ -1,0 +1,2 @@
+
+(:name ebv :description "Emacs ebook viewer" :type emacsmirror :pkgname "ebv" :required ((("cl" cl) ("gnus" parse-time) ("url" url url-http) ("w3m" w3m) ("xml" xml))) :depends (w3m gnus))

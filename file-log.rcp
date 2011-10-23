@@ -1,0 +1,2 @@
+
+(:name file-log :description "Manage a log file per file for version control" :type emacsmirror :pkgname "file-log" :required ((("add-log" add-log))))

@@ -1,0 +1,2 @@
+
+(:name js2-mode :description "An improved JavaScript editing mode" :type emacsmirror :pkgname "js2-mode" :required ((("cc-mode" cc-cmds cc-engine cc-langs cc-mode) ("cl" cl) ("imenu" imenu))) :depends (cc-mode))

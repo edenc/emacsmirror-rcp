@@ -1,0 +1,2 @@
+
+(:name yahoo-weather :description "Get the weather from yahoo" :type emacsmirror :pkgname "yahoo-weather" :required nil)

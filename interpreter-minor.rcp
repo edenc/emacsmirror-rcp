@@ -1,0 +1,2 @@
+
+(:name interpreter-minor :description "Provide navigation, clickability, folding, interpretation" :type emacsmirror :pkgname "interpreter-minor" :required nil)

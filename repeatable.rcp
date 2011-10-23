@@ -1,0 +1,2 @@
+
+(:name repeatable :description "Modify commands to repeat on last key event" :type emacsmirror :pkgname "repeatable" :required ((("advice" advice))))

@@ -1,0 +1,2 @@
+
+(:name extract-ical :description "Import iCalendar events from buffers to OS X iCal" :type emacsmirror :pkgname "extract-ical" :required ((("gnus" gnus))) :depends (gnus))

@@ -1,0 +1,2 @@
+
+(:name perl-completion :description nil :type emacsmirror :pkgname "perl-completion" :required ((("anything" anything) ("cl" cl) ("cperl-mode" cperl-mode) ("custom" custom) ("dabbrev" dabbrev) ("emacs-core" env pp) ("ffap" ffap) ("man" man) ("regexp-opt" regexp-opt) ("rx" rx) ("tramp" tramp) ("woman" woman)) (("anything" anything-show-completion) ("color-moccur" color-moccur) ("url" url))) :depends (tramp cperl-mode anything))

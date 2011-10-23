@@ -1,0 +1,2 @@
+
+(:name ce :description "Copyedit entries for the Stanford Encyclopedia of Philosophy" :type emacsmirror :pkgname "ce" :required ((("cl" cl) ("custom" custom) ("emacs-core" pp))))

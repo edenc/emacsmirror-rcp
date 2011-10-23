@@ -1,0 +1,2 @@
+
+(:name mactag :description "Mode for automatically handle multiple tags files with Mactag rubygem" :type emacsmirror :pkgname "mactag" :required nil)

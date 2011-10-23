@@ -1,0 +1,2 @@
+
+(:name bm-man-cmplt :description "Completion of Unix manual page spec. using apropos(1)" :type emacsmirror :pkgname "bm-man-cmplt" :required nil)

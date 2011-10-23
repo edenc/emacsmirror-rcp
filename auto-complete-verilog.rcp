@@ -1,0 +1,2 @@
+
+(:name auto-complete-verilog :description nil :type emacsmirror :pkgname "auto-complete-verilog" :required ((("auto-complete" auto-complete) ("cl" cl))) :depends (auto-complete))

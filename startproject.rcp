@@ -1,0 +1,2 @@
+
+(:name startproject :description "Simple project starter" :type emacsmirror :pkgname "startproject" :required ((("ido" ido)) (("vc" vc))))

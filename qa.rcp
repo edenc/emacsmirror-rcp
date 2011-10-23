@@ -1,0 +1,2 @@
+
+(:name qa :description "Some elisp to make life easier for QA Engineers" :type emacsmirror :pkgname "qa" :required ((("cl" cl) ("edb" database))))

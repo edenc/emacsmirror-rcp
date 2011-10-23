@@ -1,0 +1,2 @@
+
+(:name alert :description nil :type emacsmirror :pkgname "alert" :required ((("cl" cl) ("timerfunctions" timerfunctions))) :depends (timerfunctions))

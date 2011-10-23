@@ -1,0 +1,2 @@
+
+(:name xslide :description "XSL Integrated Development Environment" :type emacsmirror :pkgname "xslide" :required ((("cedet" speedbar) ("cl" cl) ("compile" compile) ("emacs-core" font-lock) ("etags" etags) ("imenu" imenu) ("reporter" reporter) ("sendmail" sendmail))) :depends (cedet))

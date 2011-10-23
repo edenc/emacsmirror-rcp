@@ -1,0 +1,2 @@
+
+(:name simplegeo :description "Library to access SimpleGeo's API" :type emacsmirror :pkgname "simplegeo" :required nil)

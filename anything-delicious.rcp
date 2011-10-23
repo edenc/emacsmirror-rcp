@@ -1,0 +1,2 @@
+
+(:name anything-delicious :description nil :type emacsmirror :pkgname "anything-delicious" :required ((("xml" xml))))

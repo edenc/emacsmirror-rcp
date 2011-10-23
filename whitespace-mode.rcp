@@ -1,0 +1,2 @@
+
+(:name whitespace-mode :description "Major mode for editing Whitespace" :type emacsmirror :pkgname "whitespace-mode" :required nil)

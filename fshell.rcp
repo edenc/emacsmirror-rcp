@@ -1,0 +1,2 @@
+
+(:name fshell :description "Enhancements to shell.el" :type emacsmirror :pkgname "fshell" :required ((("shell" shell))))

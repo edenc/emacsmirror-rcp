@@ -1,0 +1,2 @@
+
+(:name buffer-thumbnail :description nil :type emacsmirror :pkgname "buffer-thumbnail" :required (((nil xpm-fulmination))))

@@ -1,0 +1,2 @@
+
+(:name bbdb-vcard-export :description "Export BBDB as vCard files" :type emacsmirror :pkgname "bbdb-vcard-export" :required ((("bbdb" bbdb) ("easy-mmode" easy-mmode))) :depends (bbdb))

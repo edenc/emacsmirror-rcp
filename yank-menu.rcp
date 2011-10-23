@@ -1,0 +1,2 @@
+
+(:name yank-menu :description nil :type emacsmirror :pkgname "yank-menu" :required ((("cl" cl) ("electric" electric) (nil yank-menu-frame))))

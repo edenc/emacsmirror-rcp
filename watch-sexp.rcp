@@ -1,0 +1,2 @@
+
+(:name watch-sexp :description "Continously watch s-expressions" :type emacsmirror :pkgname "watch-sexp" :required nil)

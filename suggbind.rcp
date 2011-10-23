@@ -1,0 +1,2 @@
+
+(:name suggbind :description "Suggest key bindings for M-x commands AFTER they complete" :type emacsmirror :pkgname "suggbind" :required ((("advice" advice))))

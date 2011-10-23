@@ -1,0 +1,2 @@
+
+(:name wubi :description "Chinese-wubi input method in Emacs" :type emacsmirror :pkgname "wubi" :required ((("emacs-core" quail))))

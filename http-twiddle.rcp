@@ -1,0 +1,2 @@
+
+(:name http-twiddle :description "Send & twiddle & resend HTTP requests" :type emacsmirror :pkgname "http-twiddle" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("emacs-core" font-lock))))

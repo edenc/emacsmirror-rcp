@@ -1,0 +1,2 @@
+
+(:name color-theme-eclipse :description "Eclipse color theme for GNU Emacs" :type emacsmirror :pkgname "color-theme-eclipse" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

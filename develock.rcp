@@ -1,0 +1,2 @@
+
+(:name develock :description "Additional font-lock keywords for the developers" :type emacsmirror :pkgname "develock" :required ((("advice" advice) ("cc-mode" cc-engine) ("emacs-core" font-lock))) :depends (cc-mode))

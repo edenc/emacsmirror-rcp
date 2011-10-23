@@ -1,0 +1,2 @@
+
+(:name vim-elscreen :description nil :type emacsmirror :pkgname "vim-elscreen" :required ((("cl" cl) ("elscreen" elscreen) ("vim-mode" vim))) :depends (vim-mode elscreen))

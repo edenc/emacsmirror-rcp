@@ -1,0 +1,2 @@
+
+(:name xsocks :description "Emacs sockets extender" :type emacsmirror :pkgname "xsocks" :required ((("socks" socks))))

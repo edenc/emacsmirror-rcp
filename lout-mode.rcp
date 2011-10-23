@@ -1,0 +1,2 @@
+
+(:name lout-mode :description "An Emacs major-mode for editing Lout source" :type emacsmirror :pkgname "lout-mode" :required ((("cl" cl) ("compile" compile) ("easymenu" easymenu) ("reporter" reporter))))

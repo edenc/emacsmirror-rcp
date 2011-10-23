@@ -1,0 +1,2 @@
+
+(:name flymake-cursor :description "Displays flymake error msg in minibuffer after delay" :type emacsmirror :pkgname "flymake-cursor" :required ((("cl" cl))))

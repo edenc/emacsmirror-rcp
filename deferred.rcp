@@ -1,0 +1,2 @@
+
+(:name deferred :description "Simple asynchronous functions for emacs lisp" :type emacsmirror :pkgname "deferred" :required ((("cl" cl) ("emacs-core" pp))))

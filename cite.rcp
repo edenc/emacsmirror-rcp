@@ -1,0 +1,2 @@
+
+(:name cite :description "Citing engine for Gnus" :type emacsmirror :pkgname "cite" :required nil)

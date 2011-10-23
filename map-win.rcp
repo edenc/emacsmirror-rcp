@@ -1,0 +1,2 @@
+
+(:name map-win :description "Run expressions for various windows" :type emacsmirror :pkgname "map-win" :required ((("emacs-core" backquote))))

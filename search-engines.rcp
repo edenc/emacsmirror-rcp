@@ -1,0 +1,2 @@
+
+(:name search-engines :description "Query AV via w3" :type emacsmirror :pkgname "search-engines" :required nil)

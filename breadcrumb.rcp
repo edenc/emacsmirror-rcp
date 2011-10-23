@@ -1,0 +1,2 @@
+
+(:name breadcrumb :description "Breadcrumb.  Set breadcrumb bookmarks and jump to them" :type emacsmirror :pkgname "breadcrumb" :required ((("info" info))))

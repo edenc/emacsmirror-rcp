@@ -1,0 +1,2 @@
+
+(:name rmime :description "Read MIME messages" :type emacsmirror :pkgname "rmime" :required ((("mh-e" mh-e) ("rmail" rmail) ("vm" vm))) :depends (vm))

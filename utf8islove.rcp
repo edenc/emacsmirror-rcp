@@ -1,0 +1,2 @@
+
+(:name utf8islove :description "Quail package for TeX integration" :type emacsmirror :pkgname "utf8islove" :required nil)

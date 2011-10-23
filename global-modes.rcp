@@ -1,0 +1,2 @@
+
+(:name global-modes :description "Enables activating minor modes globally" :type emacsmirror :pkgname "global-modes" :required nil)

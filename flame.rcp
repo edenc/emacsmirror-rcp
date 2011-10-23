@@ -1,0 +1,2 @@
+
+(:name flame :description "Automatic generation of flamage, as if we needed more" :type emacsmirror :pkgname "flame" :required nil)

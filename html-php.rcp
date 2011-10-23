@@ -1,0 +1,2 @@
+
+(:name html-php :description "Multi-mode PHP embedded in HTML" :type emacsmirror :pkgname "html-php" :required ((("multi-mode" multi-mode))) :depends (multi-mode))

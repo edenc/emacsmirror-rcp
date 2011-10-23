@@ -1,0 +1,2 @@
+
+(:name rnc-mode :description nil :type emacsmirror :pkgname "rnc-mode" :required ((("emacs-core" font-lock))))

@@ -1,0 +1,2 @@
+
+(:name variant :description "Convert between various English spellings" :type emacsmirror :pkgname "variant" :required ((("assoc" assoc) ("cedet" working) ("cl" cl) ("variant-abbc" variant-abbc))) :depends (variant-abbc cedet))

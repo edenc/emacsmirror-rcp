@@ -1,0 +1,2 @@
+
+(:name quack :description "Enhanced support for editing and running Scheme code" :type emacsmirror :pkgname "quack" :required ((("advice" advice) ("browse-url" browse-url) ("cmuscheme" cmuscheme) ("compile" compile) ("custom" custom) ("easymenu" easymenu) ("emacs-core" font-lock) ("scheme" scheme) ("thingatpt" thingatpt))))

@@ -1,0 +1,2 @@
+
+(:name services :description "Services database access functions" :type emacsmirror :pkgname "services" :required ((("cl" cl))))

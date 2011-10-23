@@ -1,0 +1,2 @@
+
+(:name joseph-single-dired :description nil :type emacsmirror :pkgname "joseph-single-dired" :required ((("dired" dired))))

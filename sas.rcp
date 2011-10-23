@@ -1,0 +1,2 @@
+
+(:name sas :description nil :type emacsmirror :pkgname "sas" :required ((("emacs-core" font-lock) ("shell" shell))))

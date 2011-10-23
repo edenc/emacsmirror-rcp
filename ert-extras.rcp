@@ -1,0 +1,2 @@
+
+(:name ert-extras :description "Some extensions to ert" :type emacsmirror :pkgname "ert-extras" :required nil)

@@ -1,0 +1,2 @@
+
+(:name anything-r :description "Anything-sources and some utilities for GNU R" :type emacsmirror :pkgname "anything-r" :required ((("anything" anything) ("ess" ess-site))) :depends (ess anything))

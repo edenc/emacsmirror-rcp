@@ -1,0 +1,2 @@
+
+(:name yalinum :description "Yet another display line numbers" :type emacsmirror :pkgname "yalinum" :required nil)

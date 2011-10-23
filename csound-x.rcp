@@ -1,0 +1,2 @@
+
+(:name csound-x :description nil :type emacsmirror :pkgname "csound-x" :required ((("calc" calc calc-keypd) ("cedet" speedbar) ("cl" cl) ("clojure-mode" clojure-mode) ("comint" comint) ("custom" cus-edit custom) ("easymenu" easymenu) ("emacs-core" font-lock) ("slime" slime) ("tabify" tabify) ("thingatpt" thingatpt) ("widget" widget) (nil embedded-elisp-library query-sheet swank-clojure-autoload)) (("mmm-mode" mmm-auto) ("org-mode" org) ("ses" ses) (nil keykit-interaction keykit-mode))) :depends (slime clojure-mode cedet))

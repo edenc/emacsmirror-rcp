@@ -1,0 +1,2 @@
+
+(:name xargs-grep :description "Grep large sets of files by using xargs" :type emacsmirror :pkgname "xargs-grep" :required ((("compile" compile) ("grep" grep))))

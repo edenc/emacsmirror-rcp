@@ -1,0 +1,2 @@
+
+(:name csv :description "Functions for reading and parsing CSV files" :type emacsmirror :pkgname "csv" :required nil)

@@ -1,0 +1,2 @@
+
+(:name calc-inline :description "Evaluate calc-expression within ordinary text" :type emacsmirror :pkgname "calc-inline" :required nil)

@@ -1,0 +1,2 @@
+
+(:name quick-task :description "Execute common tasks quickly" :type emacsmirror :pkgname "quick-task" :required nil)

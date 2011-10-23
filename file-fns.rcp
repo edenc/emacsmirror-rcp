@@ -1,0 +1,2 @@
+
+(:name file-fns :description "Functions for querying about or acting on files" :type emacsmirror :pkgname "file-fns" :required nil)

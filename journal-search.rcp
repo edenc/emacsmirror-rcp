@@ -1,0 +1,2 @@
+
+(:name journal-search :description "Search my journal" :type emacsmirror :pkgname "journal-search" :required nil)

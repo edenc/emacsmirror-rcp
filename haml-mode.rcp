@@ -1,0 +1,2 @@
+
+(:name haml-mode :description "Major mode for editing Haml files" :type emacsmirror :pkgname "haml-mode" :required ((("cl" cl) ("ruby-mode" ruby-mode)) (("css-mode" css-mode) ("javascript-mode" javascript-mode) ("js" js) ("markdown-mode" markdown-mode) ("textile-mode" textile-mode))))

@@ -1,0 +1,2 @@
+
+(:name thumb-through :description "Plain text reader of HTML documents" :type emacsmirror :pkgname "thumb-through" :required ((("emacs-core" font-lock) ("thingatpt" thingatpt))))

@@ -1,0 +1,2 @@
+
+(:name studlycaps :description "StudlyCapify as you type" :type emacsmirror :pkgname "studlycaps" :required nil)

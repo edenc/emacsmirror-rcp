@@ -1,0 +1,2 @@
+
+(:name policy-switch :description "Window configuration navigation utility" :type emacsmirror :pkgname "policy-switch" :required ((("cl" cl) ("desktop" desktop) ("winner" winner))))

@@ -1,0 +1,2 @@
+
+(:name mathematica :description nil :type emacsmirror :pkgname "mathematica" :required nil)

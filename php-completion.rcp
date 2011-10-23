@@ -1,0 +1,2 @@
+
+(:name php-completion :description "Complete everything PHP with Anything.el" :type emacsmirror :pkgname "php-completion" :required ((("anything" anything anything-match-plugin) ("auto-complete" auto-complete) ("browse-url" browse-url) ("cl" cl) ("emacs-core" pp tool-bar) ("etags" etags) ("rx" rx) ("thingatpt" thingatpt) ("url" url-util))) :depends (auto-complete anything))

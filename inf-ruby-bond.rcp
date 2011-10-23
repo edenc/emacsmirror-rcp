@@ -1,0 +1,2 @@
+
+(:name inf-ruby-bond :description "Bond autocompletion support for inf-ruby" :type emacsmirror :pkgname "inf-ruby-bond" :required nil)

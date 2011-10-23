@@ -1,0 +1,2 @@
+
+(:name emacs-pilot :description "Package for synchronization of various Emacs subsystems with Palm Pilot" :type emacsmirror :pkgname "emacs-pilot" :required ((("bbdb" bbdb bbdb-com) ("calendar" calendar diary-lib) ("cl" cl) ("easymenu" easymenu))) :depends (bbdb))

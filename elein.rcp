@@ -1,0 +1,2 @@
+
+(:name elein :description "Running leiningen commands from emacs" :type emacsmirror :pkgname "elein" :required ((("cl" cl))))

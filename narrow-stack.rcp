@@ -1,0 +1,2 @@
+
+(:name narrow-stack :description nil :type emacsmirror :pkgname "narrow-stack" :required ((("advice" advice))))

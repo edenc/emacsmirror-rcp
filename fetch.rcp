@@ -1,0 +1,2 @@
+
+(:name fetch :description "Never type the long remote file name again." :type emacsmirror :pkgname "fetch" :required ((("cl" cl))))

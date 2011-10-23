@@ -1,0 +1,2 @@
+
+(:name longlines-jp :description "Automatically wrap long lines in Japanese text" :type emacsmirror :pkgname "longlines-jp" :required nil)

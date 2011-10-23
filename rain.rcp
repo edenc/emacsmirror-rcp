@@ -1,0 +1,2 @@
+
+(:name rain :description "Display raindrops in a buffer" :type emacsmirror :pkgname "rain" :required ((("gamegrid" gamegrid))))

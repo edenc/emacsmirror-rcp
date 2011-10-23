@@ -1,0 +1,2 @@
+
+(:name pycomplete+ :description "Complete symbols at point using Pymacs" :type emacsmirror :pkgname "pycomplete+" :required ((("pymacs" pymacs) ("python-mode" python-mode))) :depends (python-mode pymacs))

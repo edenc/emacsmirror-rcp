@@ -1,0 +1,2 @@
+
+(:name ftnchek :description "Ftnchek support for fortran mode" :type emacsmirror :pkgname "ftnchek" :required ((("compile" compile) ("fortran" fortran))))

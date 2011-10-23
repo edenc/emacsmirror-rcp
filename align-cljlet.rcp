@@ -1,0 +1,2 @@
+
+(:name align-cljlet :description "Align clojure let functions" :type emacsmirror :pkgname "align-cljlet" :required nil)

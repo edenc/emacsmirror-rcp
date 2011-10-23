@@ -1,0 +1,2 @@
+
+(:name sourcepawn-mode :description nil :type emacsmirror :pkgname "sourcepawn-mode" :required nil)

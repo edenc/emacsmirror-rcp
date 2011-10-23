@@ -1,0 +1,2 @@
+
+(:name wgrep :description "Writable grep buffer and apply the changes to files" :type emacsmirror :pkgname "wgrep" :required ((("cl" cl) ("grep" grep))))

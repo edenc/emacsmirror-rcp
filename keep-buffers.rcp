@@ -1,0 +1,2 @@
+
+(:name keep-buffers :description "Attempt to prevent named buffers from deletion" :type emacsmirror :pkgname "keep-buffers" :required nil)

@@ -1,0 +1,2 @@
+
+(:name tc :description "Cite text with proper filling" :type emacsmirror :pkgname "tc" :required ((("emacs-core" overlay) ("mail-extr" mail-extr))))

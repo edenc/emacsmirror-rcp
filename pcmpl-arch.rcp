@@ -1,0 +1,2 @@
+
+(:name pcmpl-arch :description "Functions for dealing with arch/tla completions" :type emacsmirror :pkgname "pcmpl-arch" :required ((("executable" executable) ("pcomplete" pcomplete))))

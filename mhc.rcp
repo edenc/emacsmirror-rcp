@@ -1,0 +1,2 @@
+
+(:name mhc :description "MH Calendar" :type emacsmirror :pkgname "mhc" :required ((("apel" pcustom poe static) ("cl" cl) ("easymenu" easymenu) ("emacs-core" bytecomp) ("flim" eword-decode) ("gnus" gnus-art gnus-sum message nnheader nnmail nnoo) ("mew" mew) ("semi" mime-edit) ("wanderlust" elmo-localdir wl-summary) (nil bitmap cmail))) :depends (wanderlust semi mew gnus flim apel))

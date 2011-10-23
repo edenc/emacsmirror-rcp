@@ -1,0 +1,2 @@
+
+(:name yatex :description nil :type emacsmirror :pkgname "yatex" :required ((("comment" comment) ("emacs-core" font-lock) ("info" info))) :depends (comment))

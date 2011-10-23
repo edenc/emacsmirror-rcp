@@ -1,0 +1,2 @@
+
+(:name autotest :description nil :type emacsmirror :pkgname "autotest" :required ((("shell" shell)) (("unit-test" unit-test))))

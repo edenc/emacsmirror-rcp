@@ -1,0 +1,2 @@
+
+(:name doxymacs :description nil :type emacsmirror :pkgname "doxymacs" :required ((("custom" custom) ("tempo" tempo) ("url" url) ("xml-parse" xml-parse))))

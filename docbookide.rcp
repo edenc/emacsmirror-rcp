@@ -1,0 +1,2 @@
+
+(:name docbookide :description "DocBook Integrated Development Environment" :type emacsmirror :pkgname "docbookide" :required ((("cl" cl) ("compile" compile) ("emacs-core" font-lock) ("etags" etags))))

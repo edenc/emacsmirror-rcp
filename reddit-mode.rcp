@@ -1,0 +1,2 @@
+
+(:name reddit-mode :description nil :type emacsmirror :pkgname "reddit-mode" :required ((("cl" cl) ("json" json) ("markdown-mode" markdown-mode) ("thingatpt" thingatpt) ("tree-mode" tree-mode) ("url" url url-http))) :depends (tree-mode markdown-mode))

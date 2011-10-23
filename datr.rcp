@@ -1,0 +1,2 @@
+
+(:name datr :description "Major mode for editing DATR files" :type emacsmirror :pkgname "datr" :required nil)

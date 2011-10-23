@@ -1,0 +1,2 @@
+
+(:name logger :description "Log work time and activities" :type emacsmirror :pkgname "logger" :required ((("assoc" assoc))))

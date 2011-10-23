@@ -1,0 +1,2 @@
+
+(:name locdict :description "Using a local Webster dictionary" :type emacsmirror :pkgname "locdict" :required nil)

@@ -1,0 +1,2 @@
+
+(:name openssl-cipher :description "Encrypt/Decrypt string with password by openssl command" :type emacsmirror :pkgname "openssl-cipher" :required nil)

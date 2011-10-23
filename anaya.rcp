@@ -1,0 +1,2 @@
+
+(:name anaya :description "Emacs interface to the Anaya Online Spanish Dictionaries" :type emacsmirror :pkgname "anaya" :required ((("cl" cl) ("url" url) ("w3" w3 w3-forms))) :depends (w3))

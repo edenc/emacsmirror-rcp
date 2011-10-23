@@ -1,0 +1,2 @@
+
+(:name binclock :description "Display the current time using a binary clock" :type emacsmirror :pkgname "binclock" :required ((("cl" cl) ("easymenu" easymenu))))

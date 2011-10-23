@@ -1,0 +1,2 @@
+
+(:name pmd :description "Major mode for pluging PMD into Emacs" :type emacsmirror :pkgname "pmd" :required ((("compile" compile))))

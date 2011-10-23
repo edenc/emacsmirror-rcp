@@ -1,0 +1,2 @@
+
+(:name couchdb-document-text :description "Couchdb document as text" :type emacsmirror :pkgname "couchdb-document-text" :required ((("couchdb-document" couchdb-document))))

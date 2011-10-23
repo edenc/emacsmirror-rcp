@@ -1,0 +1,2 @@
+
+(:name todotxt :description "A major mode for editing todo.txt files" :type emacsmirror :pkgname "todotxt" :required nil)

@@ -1,0 +1,2 @@
+
+(:name fix-buffers-list :description "New M status and colors in buffers list" :type emacsmirror :pkgname "fix-buffers-list" :required nil)

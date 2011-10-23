@@ -1,0 +1,2 @@
+
+(:name refdb-mode :description "Minor mode for RefDB interaction" :type emacsmirror :pkgname "refdb-mode" :required ((("easy-mmode" easy-mmode) ("easymenu" easymenu) ("emacs-core" derived))))

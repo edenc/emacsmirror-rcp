@@ -1,0 +1,2 @@
+
+(:name perldoc :description nil :type emacsmirror :pkgname "perldoc" :required ((("cl" cl) ("pde" pde-vars) ("tree-mode" tree-mode) ("windata" windata) ("woman" woman))) :depends (windata tree-mode))

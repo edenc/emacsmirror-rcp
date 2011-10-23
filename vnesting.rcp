@@ -1,0 +1,2 @@
+
+(:name vnesting :description "Show form nesting with vertical bars" :type emacsmirror :pkgname "vnesting" :required ((("cl" cl))))

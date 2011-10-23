@@ -1,0 +1,2 @@
+
+(:name rcirc-random-names :description "Randomize names" :type emacsmirror :pkgname "rcirc-random-names" :required nil)

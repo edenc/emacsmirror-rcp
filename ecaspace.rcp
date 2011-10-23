@@ -1,0 +1,2 @@
+
+(:name ecaspace :description "Music creation tool built on Ecasound" :type emacsmirror :pkgname "ecaspace" :required ((("cell" cell) ("ecasound" ecasound) ("emms" jack))) :depends (emms cell))

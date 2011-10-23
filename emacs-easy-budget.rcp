@@ -1,0 +1,2 @@
+
+(:name emacs-easy-budget :description "Some date utilities used in easy-emacs-budget" :type emacsmirror :pkgname "emacs-easy-budget" :required ((("timezone" timezone))))

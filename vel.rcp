@@ -1,0 +1,2 @@
+
+(:name vel :description "Keyboard/mouse-based \"self-scroller\"" :type emacsmirror :pkgname "vel" :required ((("cl" cl))))

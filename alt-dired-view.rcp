@@ -1,0 +1,2 @@
+
+(:name alt-dired-view :description "Alternative 'view' command for dired" :type emacsmirror :pkgname "alt-dired-view" :required ((("dired" dired))))

@@ -1,0 +1,2 @@
+
+(:name mail-signature :description "Add context sensitive signature" :type emacsmirror :pkgname "mail-signature" :required nil)

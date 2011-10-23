@@ -1,0 +1,2 @@
+
+(:name avmmf :description "AVM Microformat tools for emacs" :type emacsmirror :pkgname "avmmf" :required nil)

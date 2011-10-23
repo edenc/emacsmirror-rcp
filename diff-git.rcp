@@ -1,0 +1,2 @@
+
+(:name diff-git :description "Git integration with diff-mode" :type emacsmirror :pkgname "diff-git" :required nil)

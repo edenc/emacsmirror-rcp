@@ -1,0 +1,2 @@
+
+(:name bk :description "Emacs support for BitKeeper configuration management" :type emacsmirror :pkgname "bk" :required ((("advice" advice) ("cl" cl) ("diff-mode" diff-mode) ("easymenu" easymenu) ("man" man) ("timer" timer) ("vc" vc) ("view" view) ("x-migrant" x-migrant) (nil view-less))) :depends (x-migrant))

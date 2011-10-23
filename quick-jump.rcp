@@ -1,0 +1,2 @@
+
+(:name quick-jump :description nil :type emacsmirror :pkgname "quick-jump" :required ((("ring" ring))))

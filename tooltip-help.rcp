@@ -1,0 +1,2 @@
+
+(:name tooltip-help :description "Show help as tooltip" :type emacsmirror :pkgname "tooltip-help" :required ((("eldoc" eldoc) ("help" help))))

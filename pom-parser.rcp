@@ -1,0 +1,2 @@
+
+(:name pom-parser :description "Tools for using attributes from a Maven POM in JDE project files" :type emacsmirror :pkgname "pom-parser" :required ((("cl" cl) ("jdee" jde) ("xml" xml))) :depends (jdee))

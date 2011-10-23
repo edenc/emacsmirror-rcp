@@ -1,0 +1,2 @@
+
+(:name jdibug :description nil :type emacsmirror :pkgname "jdibug" :required ((("bindat" bindat) ("cc-mode" cc-mode) ("cedet" eieio semantic-java) ("easymenu" easymenu) ("tree-mode" tree-mode) (nil jdibug-java-expr-wy))) :depends (tree-mode cedet cc-mode))

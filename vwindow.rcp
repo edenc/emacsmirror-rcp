@@ -1,0 +1,2 @@
+
+(:name vwindow :description "Overlay virtual windows onto part of a buffer" :type emacsmirror :pkgname "vwindow" :required ((("cell" grid))) :depends (cell))

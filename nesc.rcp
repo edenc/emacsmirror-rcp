@@ -1,0 +1,2 @@
+
+(:name nesc :description "Necs mode" :type emacsmirror :pkgname "nesc" :required ((("cc-mode" cc-mode) ("emacs-core" derived font-lock))) :depends (cc-mode))

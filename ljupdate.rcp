@@ -1,0 +1,2 @@
+
+(:name ljupdate :description "Misc elisp utilities for ljupdate" :type emacsmirror :pkgname "ljupdate" :required ((("cl" cl) ("emacs-core" autoload md5) ("gnus" message) ("http-emacs" http-post) ("pcomplete" pcomplete) ("sendmail" sendmail) ("viper" viper-cmd))) :depends (http-emacs gnus))

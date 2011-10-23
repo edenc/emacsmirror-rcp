@@ -1,0 +1,2 @@
+
+(:name psgml :description "SGML-editing mode with parsing support" :type emacsmirror :pkgname "psgml" :required ((("cl" cl) ("easymenu" easymenu) ("edebug" edebug) ("elp" elp))))

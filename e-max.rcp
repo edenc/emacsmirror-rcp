@@ -1,0 +1,2 @@
+
+(:name e-max :description nil :type emacsmirror :pkgname "e-max" :required nil)

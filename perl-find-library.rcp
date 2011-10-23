@@ -1,0 +1,2 @@
+
+(:name perl-find-library :description "Functions for locating perl libraries on your system" :type emacsmirror :pkgname "perl-find-library" :required ((("cl" cl) ("cperl-mode" cperl-mode) ("find-lisp" find-lisp))) :depends (cperl-mode))

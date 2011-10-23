@@ -1,0 +1,2 @@
+
+(:name elim :description nil :type emacsmirror :pkgname "elim" :required ((("assoc" assoc) ("browse-url" browse-url) ("dbus" dbus) ("tree-widget" tree-widget) ("xml" xml)) (("lui" lui))))

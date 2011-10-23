@@ -1,0 +1,2 @@
+
+(:name sysuplist-mode :description "Emacs Major mode for Yaourt's update selection" :type emacsmirror :pkgname "sysuplist-mode" :required ((("cl" cl))))

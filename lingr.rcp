@@ -1,0 +1,2 @@
+
+(:name lingr :description "Lingr Client for GNU Emacs" :type emacsmirror :pkgname "lingr" :required ((("cl" cl) ("gnus" parse-time) ("json" json) ("timezone" timezone) ("url" url))) :depends (gnus))

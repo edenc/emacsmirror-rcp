@@ -1,0 +1,2 @@
+
+(:name xs-mode :description "A simple major mode for write perl XS code" :type emacsmirror :pkgname "xs-mode" :required ((("cc-mode" cc-mode) ("cl" cl))) :depends (cc-mode))

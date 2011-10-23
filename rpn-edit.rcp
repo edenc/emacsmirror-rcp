@@ -1,0 +1,2 @@
+
+(:name rpn-edit :description "Reverse polish editing commands, aimed at voice command use" :type emacsmirror :pkgname "rpn-edit" :required ((("cl" cl))))

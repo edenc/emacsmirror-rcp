@@ -1,0 +1,2 @@
+
+(:name lbdb :description nil :type emacsmirror :pkgname "lbdb" :required ((("cl" cl))))

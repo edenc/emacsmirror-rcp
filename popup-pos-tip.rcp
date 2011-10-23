@@ -1,0 +1,2 @@
+
+(:name popup-pos-tip :description "Pos-tip.el wrapper library for programs using popup.el" :type emacsmirror :pkgname "popup-pos-tip" :required ((("cl" cl) ("popup" popup) ("pos-tip" pos-tip))) :depends (pos-tip popup))

@@ -1,0 +1,2 @@
+
+(:name ac-source-ispell :description "Ispell words source for auto-complete-mode" :type emacsmirror :pkgname "ac-source-ispell" :required ((("auto-complete" auto-complete) ("ispell" ispell))) :depends (auto-complete))

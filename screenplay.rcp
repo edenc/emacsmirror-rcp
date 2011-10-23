@@ -1,0 +1,2 @@
+
+(:name screenplay :description "A major mode for editing screenplay files" :type emacsmirror :pkgname "screenplay" :required ((("reporter" reporter))))

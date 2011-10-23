@@ -1,0 +1,2 @@
+
+(:name remem :description nil :type emacsmirror :pkgname "remem" :required ((("emacs-core" overlay) ("itimer" itimer) ("time-stamp" time-stamp) ("timer" timer))) :depends (itimer))

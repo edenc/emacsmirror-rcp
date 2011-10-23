@@ -1,0 +1,2 @@
+
+(:name smarty-mode :description "Major mode for editing smarty templates" :type emacsmirror :pkgname "smarty-mode" :required ((("emacs-core" font-lock) ("regexp-opt" regexp-opt))))

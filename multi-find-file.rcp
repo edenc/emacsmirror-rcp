@@ -1,0 +1,2 @@
+
+(:name multi-find-file :description "Find multiple files in one command" :type emacsmirror :pkgname "multi-find-file" :required nil)

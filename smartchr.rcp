@@ -1,0 +1,2 @@
+
+(:name smartchr :description "Emacs version of smartchr.vim" :type emacsmirror :pkgname "smartchr" :required ((("cl" cl))))

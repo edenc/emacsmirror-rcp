@@ -1,0 +1,2 @@
+
+(:name excerpt :description "Extraxt text & report to main file" :type emacsmirror :pkgname "excerpt" :required ((("emacs-core" overlay) ("file-properties" file-properties) ("tellib" tellib))) :depends (tellib file-properties))

@@ -1,0 +1,2 @@
+
+(:name emms :description "The Emacs Multimedia System" :type emacsmirror :pkgname "emms" :required ((("cl" cl) ("dired" dired) ("emacs-core" md5 overlay sort) ("gnus" format-spec parse-time time-date) ("hl-line" hl-line) ("later-do" later-do) ("locate" locate) ("tq" tq) ("url" url) ("w3m" w3m) ("xml" xml))) :depends (w3m later-do gnus))

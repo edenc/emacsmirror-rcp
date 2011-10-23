@@ -1,0 +1,2 @@
+
+(:name extview :description "Open files with external viewer" :type emacsmirror :pkgname "extview" :required ((("cl" cl) ("gnus" mailcap))) :depends (gnus))

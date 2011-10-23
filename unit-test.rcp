@@ -1,0 +1,2 @@
+
+(:name unit-test :description "Run unit tests from Emacs with visual feedback" :type emacsmirror :pkgname "unit-test" :required nil)

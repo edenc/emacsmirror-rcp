@@ -1,0 +1,2 @@
+
+(:name iswitch-menu :description "Use iswitch to access menus" :type emacsmirror :pkgname "iswitch-menu" :required ((("cl" cl) ("iswitchb" iswitchb) ("tmm" tmm))))

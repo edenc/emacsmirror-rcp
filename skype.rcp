@@ -1,0 +1,2 @@
+
+(:name skype :description "Skype UI for emacs users." :type emacsmirror :pkgname "skype" :required ((("cl" cl) ("dbus" dbus))))

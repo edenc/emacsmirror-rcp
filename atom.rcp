@@ -1,0 +1,2 @@
+
+(:name atom :description "Create an Atom feed" :type emacsmirror :pkgname "atom" :required ((("cl" cl) ("url" url-parse) ("xml" xml))))

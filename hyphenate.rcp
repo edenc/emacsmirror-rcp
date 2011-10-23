@@ -1,0 +1,2 @@
+
+(:name hyphenate :description "Hyphenate two adjacent words" :type emacsmirror :pkgname "hyphenate" :required nil)

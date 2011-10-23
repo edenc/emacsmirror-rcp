@@ -1,0 +1,2 @@
+
+(:name echo-pick :description "Filter for echo area status messages" :type emacsmirror :pkgname "echo-pick" :required ((("cl" cl) ("eldoc" eldoc))))

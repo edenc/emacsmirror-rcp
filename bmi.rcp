@@ -1,0 +1,2 @@
+
+(:name bmi :description "Calculate body mass index (BMI)" :type emacsmirror :pkgname "bmi" :required nil)

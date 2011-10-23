@@ -1,0 +1,2 @@
+
+(:name find-empty-el-files :description "Find elisp files that don't have any elisp in them" :type emacsmirror :pkgname "find-empty-el-files" :required ((("edit-tree" edit-tree))) :depends (edit-tree))

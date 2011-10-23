@@ -1,0 +1,2 @@
+
+(:name sorter :description "Cycles dired listing between name/date/extension/size" :type emacsmirror :pkgname "sorter" :required nil)

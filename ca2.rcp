@@ -1,0 +1,2 @@
+
+(:name ca2 :description nil :type emacsmirror :pkgname "ca2" :required ((("cedet" semantic-ia) ("cl" cl) ("thingatpt" thingatpt))) :depends (cedet))

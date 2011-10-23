@@ -1,0 +1,2 @@
+
+(:name show-whitespace-mode :description "Simple mode to highlight whitespaces" :type emacsmirror :pkgname "show-whitespace-mode" :required nil)

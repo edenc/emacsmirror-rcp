@@ -1,0 +1,2 @@
+
+(:name bg-rlogin-setup :description "Rlogin setup" :type emacsmirror :pkgname "bg-rlogin-setup" :required nil)

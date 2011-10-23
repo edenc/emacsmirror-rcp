@@ -1,0 +1,2 @@
+
+(:name strptime :description "Partial implementation of POSIX date and time parsing" :type emacsmirror :pkgname "strptime" :required ((("regexp-opt" regexp-opt))))

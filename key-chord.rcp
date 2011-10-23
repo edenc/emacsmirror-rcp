@@ -1,0 +1,2 @@
+
+(:name key-chord :description "Map pairs of simultaneously pressed keys to commands" :type emacsmirror :pkgname "key-chord" :required ((("advice" advice))))

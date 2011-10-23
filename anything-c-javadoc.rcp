@@ -1,0 +1,2 @@
+
+(:name anything-c-javadoc :description "Anything-sources for opening javadocs" :type emacsmirror :pkgname "anything-c-javadoc" :required ((("anything" anything) ("emacs-core" simple) ("url" url))) :depends (anything))

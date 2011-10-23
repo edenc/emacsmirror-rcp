@@ -1,0 +1,2 @@
+
+(:name html-tt :description "Template Toolkit for html-helper-mode" :type emacsmirror :pkgname "html-tt" :required ((("emacs-core" font-lock) ("html-helper-mode" html-helper-mode) ("tempo" tempo))) :depends (html-helper-mode))

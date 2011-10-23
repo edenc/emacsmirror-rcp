@@ -1,0 +1,2 @@
+
+(:name lilypond-hook :description "Automatically display and play lilypond Score" :type emacsmirror :pkgname "lilypond-hook" :required nil)

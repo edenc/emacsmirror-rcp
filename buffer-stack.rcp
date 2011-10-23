@@ -1,0 +1,2 @@
+
+(:name buffer-stack :description "Enhanced intelligent switch-to-other-buffer replacement" :type emacsmirror :pkgname "buffer-stack" :required nil)

@@ -1,0 +1,2 @@
+
+(:name rcirc-alias :description "Provide a local alias for nicks" :type emacsmirror :pkgname "rcirc-alias" :required nil)

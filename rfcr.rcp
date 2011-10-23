@@ -1,0 +1,2 @@
+
+(:name rfcr :description nil :type emacsmirror :pkgname "rfcr" :required ((("widget" widget))))

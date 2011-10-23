@@ -1,0 +1,2 @@
+
+(:name dot-mode :description "Minor mode to repeat typing or commands" :type emacsmirror :pkgname "dot-mode" :required nil)

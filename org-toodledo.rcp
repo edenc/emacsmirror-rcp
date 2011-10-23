@@ -1,0 +1,2 @@
+
+(:name org-toodledo :description nil :type emacsmirror :pkgname "org-toodledo" :required ((("org-mode" org) ("url" url url-http) ("w3m" w3m) ("xml" xml))) :depends (w3m org-mode))

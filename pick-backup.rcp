@@ -1,0 +1,2 @@
+
+(:name pick-backup :description "Easy access to versioned backup files" :type emacsmirror :pkgname "pick-backup" :required ((("diff" diff) ("ediff" ediff))))

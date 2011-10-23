@@ -1,0 +1,2 @@
+
+(:name chill-mode :description nil :type emacsmirror :pkgname "chill-mode" :required ((("emacs-core" font-lock) ("etags" etags) (nil func-menu))))

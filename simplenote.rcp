@@ -1,0 +1,2 @@
+
+(:name simplenote :description "Interact with simple-note.appspot.com" :type emacsmirror :pkgname "simplenote" :required ((("cl" cl) ("json" json) ("url" url) ("widget" widget))))

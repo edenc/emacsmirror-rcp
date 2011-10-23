@@ -1,0 +1,2 @@
+
+(:name per-window-point :description "Persisent per-window values of point" :type emacsmirror :pkgname "per-window-point" :required nil)

@@ -1,0 +1,2 @@
+
+(:name mc-gpg-file-mode :description "Automatically gpg decrypt/encrypt files ending with '.gpg'" :type emacsmirror :pkgname "mc-gpg-file-mode" :required ((("mailcrypt" mailcrypt))) :depends (mailcrypt))

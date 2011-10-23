@@ -1,0 +1,2 @@
+
+(:name ldraw-mode :description "Simple major mode for editing LDraw DAT-files" :type emacsmirror :pkgname "ldraw-mode" :required ((("cl" cl) ("w3" w3))) :depends (w3))

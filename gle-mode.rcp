@@ -1,0 +1,2 @@
+
+(:name gle-mode :description "Major mode for editing .gle files" :type emacsmirror :pkgname "gle-mode" :required ((("emacs-obsolete" lmenu))))

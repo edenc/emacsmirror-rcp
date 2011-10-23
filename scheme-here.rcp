@@ -1,0 +1,2 @@
+
+(:name scheme-here :description "Cmuscheme extension for multiple inferior processes" :type emacsmirror :pkgname "scheme-here" :required ((("cmuscheme" cmuscheme) ("comint" comint) ("scheme" scheme))))

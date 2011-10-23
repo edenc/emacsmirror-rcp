@@ -1,0 +1,2 @@
+
+(:name poker :description "A simple poker game for Emacs" :type emacsmirror :pkgname "poker" :required nil)

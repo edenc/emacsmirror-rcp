@@ -1,0 +1,2 @@
+
+(:name contexts :description nil :type emacsmirror :pkgname "contexts" :required ((("memory-monitor" memory-monitor) ("savebuffer" savebuffer))) :depends (savebuffer memory-monitor))

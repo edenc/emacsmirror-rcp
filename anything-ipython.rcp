@@ -1,0 +1,2 @@
+
+(:name anything-ipython :description nil :type emacsmirror :pkgname "anything-ipython" :required ((("cl" cl) (nil ipython))))

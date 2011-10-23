@@ -1,0 +1,2 @@
+
+(:name rcirc-controls :description "Control sequences" :type emacsmirror :pkgname "rcirc-controls" :required ((("rcirc" rcirc))))

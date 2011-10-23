@@ -1,0 +1,2 @@
+
+(:name spaces :description "Create and switch between named window configurations" :type emacsmirror :pkgname "spaces" :required ((("cl" cl) ("ido" ido))))

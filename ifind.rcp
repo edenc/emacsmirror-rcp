@@ -1,0 +1,2 @@
+
+(:name ifind :description "An interface to `find` based on igrep.el" :type emacsmirror :pkgname "ifind" :required ((("custom" custom) ("igrep" igrep))))

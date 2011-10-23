@@ -1,0 +1,2 @@
+
+(:name removable-media :description "Find files that may have been put on another drive" :type emacsmirror :pkgname "removable-media" :required nil)

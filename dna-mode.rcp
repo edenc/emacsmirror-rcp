@@ -1,0 +1,2 @@
+
+(:name dna-mode :description "A major mode for editing dna sequences" :type emacsmirror :pkgname "dna-mode" :required nil)

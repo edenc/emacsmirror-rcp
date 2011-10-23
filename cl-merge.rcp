@@ -1,0 +1,2 @@
+
+(:name cl-merge :description "Add a `cl-merge-struct' function" :type emacsmirror :pkgname "cl-merge" :required ((("cl" cl))))

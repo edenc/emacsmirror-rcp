@@ -1,0 +1,2 @@
+
+(:name rtest :description "Top of code common to both Elisp and CL rtest" :type emacsmirror :pkgname "rtest" :required ((("arrange" arrange) ("caselet" caselet) ("cl" cl) ("emacs-core" pp) ("hideshow" hideshow) ("reporter" reporter) ("tehom-cl" tehom-cl) ("tehom-font-lock" tehom-font-lock) ("tehom-inflisp" tehom-inflisp))) :depends (tehom-inflisp tehom-font-lock tehom-cl caselet))

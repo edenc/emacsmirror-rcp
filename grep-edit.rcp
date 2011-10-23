@@ -1,0 +1,2 @@
+
+(:name grep-edit :description "Edit grep buffer and apply the changes to files" :type emacsmirror :pkgname "grep-edit" :required nil)

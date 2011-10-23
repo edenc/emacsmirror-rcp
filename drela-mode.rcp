@@ -1,0 +1,2 @@
+
+(:name drela-mode :description "Mode for editing files used in Drela's aerodynamic codes" :type emacsmirror :pkgname "drela-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name sgml-id :description "Set of functions for finding cross-referenced IDs" :type emacsmirror :pkgname "sgml-id" :required nil)

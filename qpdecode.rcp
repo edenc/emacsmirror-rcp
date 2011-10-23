@@ -1,0 +1,2 @@
+
+(:name qpdecode :description "Decode mime quoted-printable messages" :type emacsmirror :pkgname "qpdecode" :required ((("fmailutils" fmailutils) ("sendmail" sendmail))) :depends (fmailutils))

@@ -1,0 +1,2 @@
+
+(:name tmt-mode :description "Major mode for editing Text::MicroTemplate syntax" :type emacsmirror :pkgname "tmt-mode" :required ((("tempo" tempo))))

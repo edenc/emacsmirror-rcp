@@ -1,0 +1,2 @@
+
+(:name dir-locals :description "Local variables for a directory tree" :type emacsmirror :pkgname "dir-locals" :required nil)

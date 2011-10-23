@@ -1,0 +1,2 @@
+
+(:name jde-findbugs :description "Findbugs interface for JDE" :type emacsmirror :pkgname "jde-findbugs" :required ((("jdee" jde-compile jde-package))) :depends (jdee))

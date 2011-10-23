@@ -1,0 +1,2 @@
+
+(:name jess-mode :description "Jess editing mode" :type emacsmirror :pkgname "jess-mode" :required ((("comint" comint) ("lisp-mode" lisp-mode))))

@@ -1,0 +1,2 @@
+
+(:name projectile :description "Manage and navigate projects in Emacs easily" :type emacsmirror :pkgname "projectile" :required ((("cl" cl) ("easymenu" easymenu) ("thingatpt" thingatpt))))

@@ -1,0 +1,2 @@
+
+(:name gentext-bindings :description "Key binding manipulations for generic text commands" :type emacsmirror :pkgname "gentext-bindings" :required ((("keymap-hacks" keymap-hacks))) :depends (keymap-hacks))

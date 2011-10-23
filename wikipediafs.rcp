@@ -1,0 +1,2 @@
+
+(:name wikipediafs :description "Add support for WikipediaFS" :type emacsmirror :pkgname "wikipediafs" :required ((("wikipedia-mode" wikipedia-mode))))

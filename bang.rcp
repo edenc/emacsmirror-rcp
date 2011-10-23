@@ -1,0 +1,2 @@
+
+(:name bang :description "Replace ?! and !? with the interrobang character" :type emacsmirror :pkgname "bang" :required nil)

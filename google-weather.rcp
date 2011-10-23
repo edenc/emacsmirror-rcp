@@ -1,0 +1,2 @@
+
+(:name google-weather :description "Fetch Google Weather forecasts" :type emacsmirror :pkgname "google-weather" :required ((("calendar" solar) ("cl" cl) ("emacs-core" image) ("gnus" format-spec time-date) ("url" url url-cache) ("xml" xml))) :depends (gnus))

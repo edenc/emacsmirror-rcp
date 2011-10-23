@@ -1,0 +1,2 @@
+
+(:name gm-webbot :description "An implementation of Webbots known from MS Frontpage" :type emacsmirror :pkgname "gm-webbot" :required nil)

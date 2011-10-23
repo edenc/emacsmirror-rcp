@@ -1,0 +1,2 @@
+
+(:name muse-definition :description "Define words in a muse project" :type emacsmirror :pkgname "muse-definition" :required ((("assoc" assoc))))

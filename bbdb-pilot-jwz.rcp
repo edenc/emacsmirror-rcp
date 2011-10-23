@@ -1,0 +1,2 @@
+
+(:name bbdb-pilot-jwz :description "Bbdb to palmos address book conduit" :type emacsmirror :pkgname "bbdb-pilot-jwz" :required ((("bbdb" bbdb) ("cl" cl))) :depends (bbdb))

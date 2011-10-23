@@ -1,0 +1,2 @@
+
+(:name swiftex :description "Major modes for LaTeX and LaTeX doc.sty documents" :type emacsmirror :pkgname "swiftex" :required ((("auctex" font-latex) ("hilit-swiftex" hilit-swiftex) ("outline" outline) ("tex-mode" tex-mode) (nil tex-site))) :depends (hilit-swiftex auctex))

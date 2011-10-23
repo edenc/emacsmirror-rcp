@@ -1,0 +1,2 @@
+
+(:name musical-letters :description "Play the fluidsynth software synthesizer" :type emacsmirror :pkgname "musical-letters" :required nil)

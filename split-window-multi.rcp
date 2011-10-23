@@ -1,0 +1,2 @@
+
+(:name split-window-multi :description "Multi-way split of window" :type emacsmirror :pkgname "split-window-multi" :required nil)

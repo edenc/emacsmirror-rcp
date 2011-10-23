@@ -1,0 +1,2 @@
+
+(:name diary-outlook :description "Snarf MS Outlook appointments into Emacs diary" :type emacsmirror :pkgname "diary-outlook" :required nil)

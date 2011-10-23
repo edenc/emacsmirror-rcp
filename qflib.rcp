@@ -1,0 +1,2 @@
+
+(:name qflib :description nil :type emacsmirror :pkgname "qflib" :required ((("easymenu" easymenu))))

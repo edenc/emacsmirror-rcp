@@ -1,0 +1,2 @@
+
+(:name smex :description "M-x interface with Ido-style fuzzy matching" :type emacsmirror :pkgname "smex" :required ((("cl" cl) ("ido" ido))))

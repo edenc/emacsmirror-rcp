@@ -1,0 +1,2 @@
+
+(:name cell :description "Abstract spreadsheet display engine for GNU Emacs" :type emacsmirror :pkgname "cell" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name quilt :description nil :type emacsmirror :pkgname "quilt" :required nil)

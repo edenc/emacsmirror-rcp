@@ -1,0 +1,2 @@
+
+(:name sql-completion :description "Completion in *SQL* for mysql" :type emacsmirror :pkgname "sql-completion" :required ((("cl" cl) ("mysql" mysql))))

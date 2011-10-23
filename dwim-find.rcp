@@ -1,0 +1,2 @@
+
+(:name dwim-find :description "Find something about the thing at point" :type emacsmirror :pkgname "dwim-find" :required nil)

@@ -1,0 +1,2 @@
+
+(:name glade-mode :description "A mode to view glade interface using tree-widget" :type emacsmirror :pkgname "glade-mode" :required ((("cl" cl) ("tree-mode" tree-mode) ("xml" xml))) :depends (tree-mode))

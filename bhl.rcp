@@ -1,0 +1,2 @@
+
+(:name bhl :description "From (P)lain text to (H)tml and (L)aTeX" :type emacsmirror :pkgname "bhl" :required ((("footnote" footnote) ("texnfo-upd" texnfo-upd)) (("reporter" reporter))))

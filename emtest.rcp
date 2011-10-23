@@ -1,0 +1,2 @@
+
+(:name emtest :description nil :type emacsmirror :pkgname "emtest" :required ((("cl" cl) ("custom" custom) ("emacs-core" pp) ("ewoc" ewoc) ("org-mode" org-id) ("outline" outline) ("predictive" heap) ("rtest" rtest-tools) ("tq" tq) (nil emtest/testhelp/mocks/filebuf emtest/testhelp/mocks/libversion fileset-whole pcmpl-elisp rtest-define rtest-util tinydb/persist)) (("button" button) ("elib" dll) ("outline-magic" outline-magic))) :depends (rtest predictive org-mode))

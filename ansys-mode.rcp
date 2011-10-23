@@ -1,0 +1,2 @@
+
+(:name ansys-mode :description "Editor support for working with Ansys FEA" :type emacsmirror :pkgname "ansys-mode" :required ((("align" align) ("comint" comint) ("custom" custom) ("easymenu" easymenu) ("reporter" reporter))))

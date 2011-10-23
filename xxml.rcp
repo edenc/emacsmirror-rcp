@@ -1,0 +1,2 @@
+
+(:name xxml :description "Supplementary tools for handling SGML and HTML" :type emacsmirror :pkgname "xxml" :required nil)

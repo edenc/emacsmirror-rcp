@@ -1,0 +1,2 @@
+
+(:name fenc :description "Detect CJK coding system by counting most frequence charaters" :type emacsmirror :pkgname "fenc" :required ((("cl" cl))))

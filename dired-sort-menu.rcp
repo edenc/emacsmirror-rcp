@@ -1,0 +1,2 @@
+
+(:name dired-sort-menu :description "Provide menu/dialogue for dired sort options" :type emacsmirror :pkgname "dired-sort-menu" :required ((("ange-ftp" ange-ftp) ("dired" dired) ("easymenu" easymenu) ("widget" wid-edit))))

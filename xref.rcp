@@ -1,0 +1,2 @@
+
+(:name xref :description "Maintain and use cross-references and hypertext links" :type emacsmirror :pkgname "xref" :required ((("reporter" reporter))))

@@ -1,0 +1,2 @@
+
+(:name gnugo :description nil :type emacsmirror :pkgname "gnugo" :required ((("cl" cl) ("gnus" time-date) (nil gnugo-xpms))) :depends (gnus))

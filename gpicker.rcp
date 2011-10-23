@@ -1,0 +1,2 @@
+
+(:name gpicker :description "Gpicker integration for Emacs" :type emacsmirror :pkgname "gpicker" :required ((("ffap" ffap) ("imenu" imenu))))

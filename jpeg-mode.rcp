@@ -1,0 +1,2 @@
+
+(:name jpeg-mode :description "Major mode for JPEG files" :type emacsmirror :pkgname "jpeg-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name gitsum :description "Basic darcsum feelalike for Git" :type emacsmirror :pkgname "gitsum" :required ((("cl" cl))))

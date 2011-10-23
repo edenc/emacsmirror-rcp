@@ -1,0 +1,2 @@
+
+(:name etach :description nil :type emacsmirror :pkgname "etach" :required ((("emacs-core" font-lock))))

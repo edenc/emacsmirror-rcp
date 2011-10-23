@@ -1,0 +1,2 @@
+
+(:name monky :description "Control Hg from Emacs" :type emacsmirror :pkgname "monky" :required ((("cl" cl) ("pcomplete" pcomplete))))

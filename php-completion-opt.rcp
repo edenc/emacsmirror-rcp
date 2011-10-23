@@ -1,0 +1,2 @@
+
+(:name php-completion-opt :description "Php-completion optional utilities" :type emacsmirror :pkgname "php-completion-opt" :required ((("php-completion" php-completion))) :depends (php-completion))

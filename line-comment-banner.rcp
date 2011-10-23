@@ -1,0 +1,2 @@
+
+(:name line-comment-banner :description "Comment a line in a banner style" :type emacsmirror :pkgname "line-comment-banner" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name exec-abbrev-cmd :description "Execute commands by giving an abbreviation" :type emacsmirror :pkgname "exec-abbrev-cmd" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name lru-yank :description "Least Recently Used stacking for kill-ring" :type emacsmirror :pkgname "lru-yank" :required ((("cl" cl))))

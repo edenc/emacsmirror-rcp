@@ -1,0 +1,2 @@
+
+(:name cycle-buffer :description "Select buffer by cycling through" :type emacsmirror :pkgname "cycle-buffer" :required ((("cl" cl))))

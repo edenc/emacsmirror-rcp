@@ -1,0 +1,2 @@
+
+(:name html-phrase-list :description "Read a phrase list from HTML" :type emacsmirror :pkgname "html-phrase-list" :required nil)

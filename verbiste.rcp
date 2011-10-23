@@ -1,0 +1,2 @@
+
+(:name verbiste :description "Emacs interface to verbiste" :type emacsmirror :pkgname "verbiste" :required nil)

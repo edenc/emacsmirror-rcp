@@ -1,0 +1,2 @@
+
+(:name dae :description "Digital Audio Extraction" :type emacsmirror :pkgname "dae" :required ((("cddb" cddb) ("cl" cl) ("musicbrainz" musicbrainz) ("scan" scan))) :depends (scan musicbrainz cddb))

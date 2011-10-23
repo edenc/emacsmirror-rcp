@@ -1,0 +1,2 @@
+
+(:name pop-help-mode :description "Major mode for reading Poplog help documentation.    " :type emacsmirror :pkgname "pop-help-mode" :required ((("cl" cl))))

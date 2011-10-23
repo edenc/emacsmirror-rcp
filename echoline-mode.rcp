@@ -1,0 +1,2 @@
+
+(:name echoline-mode :description nil :type emacsmirror :pkgname "echoline-mode" :required nil)

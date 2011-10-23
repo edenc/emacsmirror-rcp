@@ -1,0 +1,2 @@
+
+(:name auto-show-doc :description "Show documentation as point moves" :type emacsmirror :pkgname "auto-show-doc" :required nil)

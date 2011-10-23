@@ -1,0 +1,2 @@
+
+(:name yas-jit :description "Loads Yasnippets on demand (makes start up faster)" :type emacsmirror :pkgname "yas-jit" :required ((("cl" cl)) (("yasnippet" yasnippet) (nil yasnippet-bundle))))

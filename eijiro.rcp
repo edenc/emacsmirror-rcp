@@ -1,0 +1,2 @@
+
+(:name eijiro :description "\350\213\261\350\276\236\351\203\216\343\202\222anything.el\343\202\222\344\275\277\343\201\243\343\201\246\346\244\234\347\264\242\343\201\231\343\202\213" :type emacsmirror :pkgname "eijiro" :required ((("anything" anything anything-match-plugin) ("cl" cl) ("thingatpt" thingatpt))) :depends (anything))

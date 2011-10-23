@@ -1,0 +1,2 @@
+
+(:name undohist :description "Persistent Undo History for GNU Emacs" :type emacsmirror :pkgname "undohist" :required ((("cl" cl))))

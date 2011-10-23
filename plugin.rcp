@@ -1,0 +1,2 @@
+
+(:name plugin :description "Automatic fetching, installing and loading of Emacs modules according to widespread Emacs conventions" :type emacsmirror :pkgname "plugin" :required ((("cl" cl) ("loop-constructs" loop-constructs) ("record" record))) :depends (record loop-constructs))

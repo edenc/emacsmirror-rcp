@@ -1,0 +1,2 @@
+
+(:name html-fold :description "Fold HTML elements" :type emacsmirror :pkgname "html-fold" :required ((("emacs-core" overlay))))

@@ -1,0 +1,2 @@
+
+(:name cfml-helper-mode :description "Major mode for composing cfml files" :type emacsmirror :pkgname "cfml-helper-mode" :required ((("cc-mode" cc-mode) ("cl" cl) ("easymenu" easymenu) ("emacs-core" font-lock) ("jdee" jde) ("tempo" tempo) ("visual-basic-mode" visual-basic-mode) (nil psgml-html))) :depends (visual-basic-mode jdee cc-mode))

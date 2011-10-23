@@ -1,0 +1,2 @@
+
+(:name linphone :description nil :type emacsmirror :pkgname "linphone" :required ((("timer" timer))))

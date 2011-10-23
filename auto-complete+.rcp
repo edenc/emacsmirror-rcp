@@ -1,0 +1,2 @@
+
+(:name auto-complete+ :description "Auto complete plus" :type emacsmirror :pkgname "auto-complete+" :required ((("auto-complete" auto-complete))) :depends (auto-complete))

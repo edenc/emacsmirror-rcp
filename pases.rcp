@@ -1,0 +1,2 @@
+
+(:name pases :description "Packaging & system definition for Emacs" :type emacsmirror :pkgname "pases" :required nil)

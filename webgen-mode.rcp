@@ -1,0 +1,2 @@
+
+(:name webgen-mode :description "Webgen mode" :type emacsmirror :pkgname "webgen-mode" :required ((("autoinsert" autoinsert))))

@@ -1,0 +1,2 @@
+
+(:name fff-rfc :description "Locate IETF RFC (Request For Comments) texts quickly" :type emacsmirror :pkgname "fff-rfc" :required ((("fff" fff))) :depends (fff))

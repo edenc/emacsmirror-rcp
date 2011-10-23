@@ -1,0 +1,2 @@
+
+(:name color-theme :description "Install color themes" :type emacsmirror :pkgname "color-theme" :required ((("cl" cl) ("custom" cus-face) ("easymenu" easymenu) ("muse" muse-colors muse-docbook muse-html muse-latex muse-mode muse-project muse-texinfo muse-wiki) ("reporter" reporter) ("sendmail" sendmail) ("widget" wid-edit))))

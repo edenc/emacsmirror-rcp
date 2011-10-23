@@ -1,0 +1,2 @@
+
+(:name header-file :description "Assign a major mode for header files" :type emacsmirror :pkgname "header-file" :required ((("find-file" find-file))))

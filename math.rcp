@@ -1,0 +1,2 @@
+
+(:name math :description nil :type emacsmirror :pkgname "math" :required ((("comint" comint) ("shell" shell))))

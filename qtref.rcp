@@ -1,0 +1,2 @@
+
+(:name qtref :description "An interface with Qt API reference on Emacs" :type emacsmirror :pkgname "qtref" :required ((("cl" cl) ("w3m" w3m))) :depends (w3m))

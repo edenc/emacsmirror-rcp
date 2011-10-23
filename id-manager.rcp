@@ -1,0 +1,2 @@
+
+(:name id-manager :description "Id-password management " :type emacsmirror :pkgname "id-manager" :required ((("cl" cl) ("widget" wid-edit widget))))

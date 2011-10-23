@@ -1,0 +1,2 @@
+
+(:name auto-lang :description "Guess language of current buffer" :type emacsmirror :pkgname "auto-lang" :required ((("emacs-core" overlay) ("flyspell" flyspell) ("ispell" ispell) ("trace" trace))))

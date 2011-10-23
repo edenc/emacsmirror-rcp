@@ -1,0 +1,2 @@
+
+(:name etest :description "Run tests and get back a hierarchical set of results" :type emacsmirror :pkgname "etest" :required ((("cl" cl) ("outline" outline) ("xmlgen" xmlgen))) :depends (xmlgen))

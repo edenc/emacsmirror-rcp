@@ -1,0 +1,2 @@
+
+(:name blog :description "A wordpress posting client" :type emacsmirror :pkgname "blog" :required ((("metaweblog" metaweblog) ("muse" muse-html muse-mode))) :depends (metaweblog))

@@ -1,0 +1,2 @@
+
+(:name mma :description nil :type emacsmirror :pkgname "mma" :required ((("cl" cl) (nil func-menu))))

@@ -1,0 +1,2 @@
+
+(:name delim-kill :description "Kill text between delimiters" :type emacsmirror :pkgname "delim-kill" :required nil)

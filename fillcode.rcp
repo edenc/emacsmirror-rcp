@@ -1,0 +1,2 @@
+
+(:name fillcode :description "Fillcode minor mode" :type emacsmirror :pkgname "fillcode" :required ((("cc-mode" cc-bytecomp cc-engine) ("cl" cl))) :depends (cc-mode))

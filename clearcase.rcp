@@ -1,0 +1,2 @@
+
+(:name clearcase :description "ClearCase/Emacs integration" :type emacsmirror :pkgname "clearcase" :required ((("cl" cl) ("comint" comint) ("custom" custom) ("dired" dired) ("easymenu" easymenu) ("executable" executable) ("reporter" reporter) ("ring" ring) ("timer" timer) ("tq" tq))))

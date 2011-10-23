@@ -1,0 +1,2 @@
+
+(:name bm :description "Visible bookmarks in buffer" :type emacsmirror :pkgname "bm" :required ((("emacs-core" overlay) ("info" info))))

@@ -1,0 +1,2 @@
+
+(:name omake :description "Editing mode for omake files" :type emacsmirror :pkgname "omake" :required ((("rx" rx))))

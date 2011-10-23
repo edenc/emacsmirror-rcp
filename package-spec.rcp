@@ -1,0 +1,2 @@
+
+(:name package-spec :description "Specify package.el packages to use in a package spec" :type emacsmirror :pkgname "package-spec" :required (((nil package))))

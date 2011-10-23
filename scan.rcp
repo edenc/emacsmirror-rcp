@@ -1,0 +1,2 @@
+
+(:name scan :description "Editing Sound Files" :type emacsmirror :pkgname "scan" :required ((("cl" cl) ("gnus" gnus-util))) :depends (gnus))

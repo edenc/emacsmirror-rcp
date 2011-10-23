@@ -1,0 +1,2 @@
+
+(:name crontab-mode :description "Mode for editing crontab files" :type emacsmirror :pkgname "crontab-mode" :required nil)

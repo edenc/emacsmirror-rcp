@@ -1,0 +1,2 @@
+
+(:name find-files :description "Handle globing or regexp patterns for find-file" :type emacsmirror :pkgname "find-files" :required nil)

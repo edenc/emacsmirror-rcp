@@ -1,0 +1,2 @@
+
+(:name total-numbers :description "Add up all the numbers found in matches for a given pattern" :type emacsmirror :pkgname "total-numbers" :required nil)

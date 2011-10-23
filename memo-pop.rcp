@@ -1,0 +1,2 @@
+
+(:name memo-pop :description "Helps you pop up and pop out a specific file buffer easily" :type emacsmirror :pkgname "memo-pop" :required nil)

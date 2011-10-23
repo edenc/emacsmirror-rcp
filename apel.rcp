@@ -1,0 +1,2 @@
+
+(:name apel :description "Declare APEL version" :type emacsmirror :pkgname "apel" :required ((("advice" advice) ("custom" custom) ("emacs-core" ccl cyrillic) ("enriched" enriched) ("widget" wid-edit))))

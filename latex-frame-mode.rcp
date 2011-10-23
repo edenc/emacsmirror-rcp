@@ -1,0 +1,2 @@
+
+(:name latex-frame-mode :description "Minor mode for latex beamer geeks equipped with folding power" :type emacsmirror :pkgname "latex-frame-mode" :required nil)

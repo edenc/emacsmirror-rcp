@@ -1,0 +1,2 @@
+
+(:name ditz :description "Emacs interface to Ditz issue tracking system " :type emacsmirror :pkgname "ditz" :required nil)

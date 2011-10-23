@@ -1,0 +1,2 @@
+
+(:name gentext-texinfo :description nil :type emacsmirror :pkgname "gentext-texinfo" :required ((("gentext-models" gentext-models) ("texinfo" texinfo))) :depends (gentext-models))

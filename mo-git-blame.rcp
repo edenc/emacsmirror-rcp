@@ -1,0 +1,2 @@
+
+(:name mo-git-blame :description "An interactive, iterative 'git blame' mode for Emacs" :type emacsmirror :pkgname "mo-git-blame" :required ((("cl" cl) ("easymenu" easymenu) ("ido" ido))))

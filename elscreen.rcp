@@ -1,0 +1,2 @@
+
+(:name elscreen :description nil :type emacsmirror :pkgname "elscreen" :required ((("apel" static) ("dired" dired) (nil alist))) :depends (apel))

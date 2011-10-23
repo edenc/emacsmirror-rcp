@@ -1,0 +1,2 @@
+
+(:name deft :description "Quickly browse, filter, and edit plain text notes" :type emacsmirror :pkgname "deft" :required ((("widget" widget))))

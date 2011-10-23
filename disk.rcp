@@ -1,0 +1,2 @@
+
+(:name disk :description "Disk mounter module for STUN" :type emacsmirror :pkgname "disk" :required ((("cl" cl) ("rx" rx))))

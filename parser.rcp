@@ -1,0 +1,2 @@
+
+(:name parser :description "Elisp Macro DSL Parser Compiler" :type emacsmirror :pkgname "parser" :required ((("cl" cl) ("closure" closure) ("help" help-fns))))

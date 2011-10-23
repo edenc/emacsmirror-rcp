@@ -1,0 +1,2 @@
+
+(:name camelcase-mode :description "Minor mode for editing with camelCase words" :type emacsmirror :pkgname "camelcase-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name align-by-current-symbol :description "Align lines containing a symbol according to that symbol" :type emacsmirror :pkgname "align-by-current-symbol" :required nil)

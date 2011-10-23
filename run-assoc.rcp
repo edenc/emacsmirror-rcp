@@ -1,0 +1,2 @@
+
+(:name run-assoc :description "Run program or lisp function associated with a file" :type emacsmirror :pkgname "run-assoc" :required nil)

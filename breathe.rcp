@@ -1,0 +1,2 @@
+
+(:name breathe :description "Breathing exercises timer (to control hyperventilation)" :type emacsmirror :pkgname "breathe" :required ((("banner" banner) ("cl" cl))) :depends (banner))

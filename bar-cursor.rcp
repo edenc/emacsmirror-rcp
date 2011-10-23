@@ -1,0 +1,2 @@
+
+(:name bar-cursor :description "Package used to switch block cursor to a bar" :type emacsmirror :pkgname "bar-cursor" :required nil)

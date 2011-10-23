@@ -1,0 +1,2 @@
+
+(:name mailrc-mode :description "Major mode for editing .mailrc files" :type emacsmirror :pkgname "mailrc-mode" :required nil)

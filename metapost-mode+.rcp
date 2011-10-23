@@ -1,0 +1,2 @@
+
+(:name metapost-mode+ :description "Drawing with metapost interactively in Emacs" :type emacsmirror :pkgname "metapost-mode+" :required ((("doc-view" doc-view))))

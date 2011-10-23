@@ -1,0 +1,2 @@
+
+(:name show-arglist :description "Showing arglist of function at point" :type emacsmirror :pkgname "show-arglist" :required nil)

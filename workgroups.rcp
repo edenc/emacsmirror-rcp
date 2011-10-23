@@ -1,0 +1,2 @@
+
+(:name workgroups :description "Workgroups for windows (for Emacs)" :type emacsmirror :pkgname "workgroups" :required ((("cl" cl))))

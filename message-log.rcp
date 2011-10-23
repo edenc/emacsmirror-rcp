@@ -1,0 +1,2 @@
+
+(:name message-log :description nil :type emacsmirror :pkgname "message-log" :required nil)

@@ -1,0 +1,2 @@
+
+(:name steno :description "Edit time-stamped entries in text notepads under Emacs" :type emacsmirror :pkgname "steno" :required ((("emacs-core" derived))))

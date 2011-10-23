@@ -1,0 +1,2 @@
+
+(:name nmcobol-mode :description "For use with Tandem Cobol only - Sorry" :type emacsmirror :pkgname "nmcobol-mode" :required ((("anchored-transpose" anchored-transpose) ("column-marker" column-marker) ("imenu" imenu) ("paren" paren) ("which-func" which-func))) :depends (python-mode anchored-transpose))

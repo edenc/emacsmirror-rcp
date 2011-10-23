@@ -1,0 +1,2 @@
+
+(:name completing-help :description "An enhancement to `display-completion-list'" :type emacsmirror :pkgname "completing-help" :required nil)

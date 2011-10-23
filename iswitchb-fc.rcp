@@ -1,0 +1,2 @@
+
+(:name iswitchb-fc :description "Switch to buffers or file-cache entries with 1 command" :type emacsmirror :pkgname "iswitchb-fc" :required ((("cl" cl) ("filecache" filecache) ("iswitchb" iswitchb))))

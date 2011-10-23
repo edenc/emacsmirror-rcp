@@ -1,0 +1,2 @@
+
+(:name esmtpmail :description "Simple SMTP protocol (RFC 821) for sending mail" :type emacsmirror :pkgname "esmtpmail" :required ((("mail-utils" mail-utils) ("sendmail" sendmail) ("time-stamp" time-stamp) ("vm" vm-misc vm-pop))) :depends (vm))

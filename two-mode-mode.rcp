@@ -1,0 +1,2 @@
+
+(:name two-mode-mode :description "Switches between tcl and sgml(html) modes" :type emacsmirror :pkgname "two-mode-mode" :required nil)

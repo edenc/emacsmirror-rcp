@@ -1,0 +1,2 @@
+
+(:name czscm :description "Cheezy scheme interpreter for emacs" :type emacsmirror :pkgname "czscm" :required nil)

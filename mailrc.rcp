@@ -1,0 +1,2 @@
+
+(:name mailrc :description nil :type emacsmirror :pkgname "mailrc" :required ((("cl" cl))))

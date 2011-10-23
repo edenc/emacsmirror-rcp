@@ -1,0 +1,2 @@
+
+(:name pack-windows :description "Resize all windows to display as much info as possible" :type emacsmirror :pkgname "pack-windows" :required ((("cl" cl))))

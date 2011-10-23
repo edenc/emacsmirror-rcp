@@ -1,0 +1,2 @@
+
+(:name bbdb-hidden-update :description "Update BBDB records very quietly and automatically" :type emacsmirror :pkgname "bbdb-hidden-update" :required ((("advice" advice) ("bbdb" bbdb))) :depends (bbdb))

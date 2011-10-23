@@ -1,0 +1,2 @@
+
+(:name erc-highlight-nicknames :description "Highlights nicknames" :type emacsmirror :pkgname "erc-highlight-nicknames" :required ((("erc" erc erc-button))) :depends (erc))

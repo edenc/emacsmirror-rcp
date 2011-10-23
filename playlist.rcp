@@ -1,0 +1,2 @@
+
+(:name playlist :description "A music file playlist" :type emacsmirror :pkgname "playlist" :required nil)

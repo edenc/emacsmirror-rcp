@@ -1,0 +1,2 @@
+
+(:name pgg-crypt :description "Automatic encryption with gpg" :type emacsmirror :pkgname "pgg-crypt" :required ((("gnus" pgg))) :depends (gnus))

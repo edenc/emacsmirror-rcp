@@ -1,0 +1,2 @@
+
+(:name changelog-url :description "Buttonize PRs in ChangeLog" :type emacsmirror :pkgname "changelog-url" :required nil)

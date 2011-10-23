@@ -1,0 +1,2 @@
+
+(:name csde :description "Integrated Development Environment for Csharp" :type emacsmirror :pkgname "csde" :required ((("browse-url" browse-url) ("cc-mode" cc-mode) ("cedet" eieio semantic semantic-imenu semantic-sb senator speedbar) ("cl" cl) ("compile" compile) ("custom" cus-edit custom) ("easymenu" easymenu) ("elib" avltree) ("emacs-core" font-lock sort) ("gud" gud) ("imenu" imenu) ("jdee" beanshell) ("reporter" reporter) ("setnu" setnu) ("tempo" tempo) ("widget" wid-edit) (nil csde-wiz semantic-bnf semantic-mode))) :depends (setnu jdee elib cedet cc-mode))

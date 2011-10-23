@@ -1,0 +1,2 @@
+
+(:name cucumber-i18n :description "Translate i18n keys inside cucumber features" :type emacsmirror :pkgname "cucumber-i18n" :required nil)

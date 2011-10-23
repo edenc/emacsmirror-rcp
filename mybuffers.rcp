@@ -1,0 +1,2 @@
+
+(:name mybuffers :description "Switch buffers with Ctrl-Tab (or another keystroke)" :type emacsmirror :pkgname "mybuffers" :required nil)

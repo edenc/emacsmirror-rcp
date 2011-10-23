@@ -1,0 +1,2 @@
+
+(:name apples-mode :description "Major mode for editing and executing AppleScript code" :type emacsmirror :pkgname "apples-mode" :required ((("cl" cl) ("easymenu" easymenu) ("newcomment" newcomment))))

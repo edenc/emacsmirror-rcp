@@ -1,0 +1,2 @@
+
+(:name bookmark-add :description "Creates the buffer for work with bookmarks" :type emacsmirror :pkgname "bookmark-add" :required ((("bookmark" bookmark) ("widget" wid-edit))))

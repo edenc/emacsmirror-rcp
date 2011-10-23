@@ -1,0 +1,2 @@
+
+(:name muttrc-mode :description "Major mode to edit muttrc under Emacs" :type emacsmirror :pkgname "muttrc-mode" :required ((("emacs-core" jka-compr) ("man" man))))

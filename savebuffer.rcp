@@ -1,0 +1,2 @@
+
+(:name savebuffer :description nil :type emacsmirror :pkgname "savebuffer" :required ((("filenames-in-env" filenames-in-env))) :depends (filenames-in-env))

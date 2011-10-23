@@ -1,0 +1,2 @@
+
+(:name hide-comnt :description "Hide/show comments in code" :type emacsmirror :pkgname "hide-comnt" :required (nil (("newcomment" newcomment))))

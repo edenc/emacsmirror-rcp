@@ -1,0 +1,2 @@
+
+(:name osx-typecreator :description "Set OSX type and creator" :type emacsmirror :pkgname "osx-typecreator" :required nil)

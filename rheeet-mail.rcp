@@ -1,0 +1,2 @@
+
+(:name rheeet-mail :description "Rheeeeeeeeet!" :type emacsmirror :pkgname "rheeet-mail" :required ((("fmailutils" fmailutils) ("order-head" order-head))) :depends (order-head fmailutils))

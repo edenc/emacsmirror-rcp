@@ -1,0 +1,2 @@
+
+(:name grc :description "Google Reader Mode for Emacs" :type emacsmirror :pkgname "grc" :required ((("cl" cl) ("gnus" html2text) ("json" json))) :depends (gnus))

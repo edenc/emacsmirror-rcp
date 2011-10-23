@@ -1,0 +1,2 @@
+
+(:name openwith :description "Open files with external programs" :type emacsmirror :pkgname "openwith" :required nil)

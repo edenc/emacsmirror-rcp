@@ -1,0 +1,2 @@
+
+(:name aumix-mode :description "Run the aumix program in a buffer" :type emacsmirror :pkgname "aumix-mode" :required ((("cl" cl) ("term" term))))

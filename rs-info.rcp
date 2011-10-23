@@ -1,0 +1,2 @@
+
+(:name rs-info :description "Some info related functions" :type emacsmirror :pkgname "rs-info" :required nil)

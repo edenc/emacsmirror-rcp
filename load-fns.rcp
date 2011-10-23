@@ -1,0 +1,2 @@
+
+(:name load-fns :description "Library loading functions" :type emacsmirror :pkgname "load-fns" :required nil)

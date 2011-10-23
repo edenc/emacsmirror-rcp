@@ -1,0 +1,2 @@
+
+(:name multi-term :description "Managing multiple terminal buffers in Emacs" :type emacsmirror :pkgname "multi-term" :required ((("advice" advice) ("cl" cl) ("term" term)) (("ecb" ecb))))

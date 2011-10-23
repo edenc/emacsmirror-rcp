@@ -1,0 +1,2 @@
+
+(:name thinks :description "Insert text in a think bubble" :type emacsmirror :pkgname "thinks" :required ((("cl" cl))))

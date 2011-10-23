@@ -1,0 +1,2 @@
+
+(:name split-root :description "Root window splitter" :type emacsmirror :pkgname "split-root" :required ((("cl" cl))))

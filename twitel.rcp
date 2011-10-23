@@ -1,0 +1,2 @@
+
+(:name twitel :description "Simple Emacs-based client for Twitter" :type emacsmirror :pkgname "twitel" :required ((("cl" cl) ("oauth" oauth) ("url" url url-http) ("xml" xml))) :depends (oauth))

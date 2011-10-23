@@ -1,0 +1,2 @@
+
+(:name save-kill :description nil :type emacsmirror :pkgname "save-kill" :required ((("save-emacs-state" save-emacs-state))) :depends (save-emacs-state))

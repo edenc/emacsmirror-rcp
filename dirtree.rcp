@@ -1,0 +1,2 @@
+
+(:name dirtree :description "Functions for building directory-tree lists" :type emacsmirror :pkgname "dirtree" :required nil)

@@ -1,0 +1,2 @@
+
+(:name bookmark-search :description "Provide a search command for emacs bookmarks ala anything. " :type emacsmirror :pkgname "bookmark-search" :required ((("bookmark" bookmark) ("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name csense :description "Coding assistant front-end" :type emacsmirror :pkgname "csense" :required ((("cl" cl) ("csharp-mode" csharp-mode) ("etags" etags) ("rx" rx))))

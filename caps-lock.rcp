@@ -1,0 +1,2 @@
+
+(:name caps-lock :description "Caps Lock mode" :type emacsmirror :pkgname "caps-lock" :required nil)

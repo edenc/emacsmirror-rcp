@@ -1,0 +1,2 @@
+
+(:name smart-quotes :description "Smart Quotes minor mode for GNU Emacs" :type emacsmirror :pkgname "smart-quotes" :required nil)

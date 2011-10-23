@@ -1,0 +1,2 @@
+
+(:name protect-files :description "Hooks and minor mode to avoid modifying files" :type emacsmirror :pkgname "protect-files" :required nil)

@@ -1,0 +1,2 @@
+
+(:name batch-mode :description "Major mode for editing ESRI batch scrips" :type emacsmirror :pkgname "batch-mode" :required nil)

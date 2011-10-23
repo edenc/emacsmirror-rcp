@@ -1,0 +1,2 @@
+
+(:name cat-safe :description "Protect your buffers from wandering cats" :type emacsmirror :pkgname "cat-safe" :required nil)

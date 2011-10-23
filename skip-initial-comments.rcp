@@ -1,0 +1,2 @@
+
+(:name skip-initial-comments :description "Skip initial comments when loading a file" :type emacsmirror :pkgname "skip-initial-comments" :required nil)

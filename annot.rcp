@@ -1,0 +1,2 @@
+
+(:name annot :description "A global annotator/highlighter for GNU Emacs" :type emacsmirror :pkgname "annot" :required nil)

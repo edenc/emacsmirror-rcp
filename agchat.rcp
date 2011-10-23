@@ -1,0 +1,2 @@
+
+(:name agchat :description "Comint-based emacs interface for chatting on AgChat" :type emacsmirror :pkgname "agchat" :required ((("comint" comint))))

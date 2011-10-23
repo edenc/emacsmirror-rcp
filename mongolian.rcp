@@ -1,0 +1,2 @@
+
+(:name mongolian :description "Mongolian input method" :type emacsmirror :pkgname "mongolian" :required nil)

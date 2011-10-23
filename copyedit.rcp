@@ -1,0 +1,2 @@
+
+(:name copyedit :description "Tweak editing commands for handling prose" :type emacsmirror :pkgname "copyedit" :required ((("cc-mode" cc-defs) ("cl" cl) ("thingatpt" thingatpt))) :depends (cc-mode))

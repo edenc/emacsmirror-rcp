@@ -1,0 +1,2 @@
+
+(:name window-layout :description "Window layout manager" :type emacsmirror :pkgname "window-layout" :required ((("cl" cl))))

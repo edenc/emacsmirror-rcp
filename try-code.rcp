@@ -1,0 +1,2 @@
+
+(:name try-code :description "Try out a new idea by commenting out old code" :type emacsmirror :pkgname "try-code" :required nil)

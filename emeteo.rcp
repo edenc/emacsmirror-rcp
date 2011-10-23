@@ -1,0 +1,2 @@
+
+(:name emeteo :description "An Emacs Interface To Meteorological Data" :type emacsmirror :pkgname "emeteo" :required ((("cl" cl) ("timer" timer))))

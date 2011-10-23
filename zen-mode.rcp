@@ -1,0 +1,2 @@
+
+(:name zen-mode :description "Remove/restore Emacs frame distractions quickly" :type emacsmirror :pkgname "zen-mode" :required nil)

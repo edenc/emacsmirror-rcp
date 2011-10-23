@@ -1,0 +1,2 @@
+
+(:name counter :description "Insert series of numbers into text" :type emacsmirror :pkgname "counter" :required ((("cl" cl))))

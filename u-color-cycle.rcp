@@ -1,0 +1,2 @@
+
+(:name u-color-cycle :description "Eye-candy" :type emacsmirror :pkgname "u-color-cycle" :required ((("emacs-core" overlay))))

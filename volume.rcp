@@ -1,0 +1,2 @@
+
+(:name volume :description "Tweak your sound card volume from Emacs" :type emacsmirror :pkgname "volume" :required ((("electric" electric))))

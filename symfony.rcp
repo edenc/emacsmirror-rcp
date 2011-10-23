@@ -1,0 +1,2 @@
+
+(:name symfony :description "Minor mode for editting PHP symfony flamework code" :type emacsmirror :pkgname "symfony" :required ((("anything" anything anything-grep anything-match-plugin) ("anything-project" anything-project) ("cl" cl) ("etags" etags) ("php-completion" php-completion) ("php-mode" php-mode) ("rx" rx))) :depends (php-mode php-completion anything-project anything))

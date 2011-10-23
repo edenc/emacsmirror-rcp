@@ -1,0 +1,2 @@
+
+(:name projutils :description "Project utils" :type emacsmirror :pkgname "projutils" :required ((("cedet" speedbar) ("grep" grep) ("ido" ido)) (("full-ack" full-ack) ("sr-speedbar" sr-speedbar))) :depends (cedet))

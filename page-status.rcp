@@ -1,0 +1,2 @@
+
+(:name page-status :description nil :type emacsmirror :pkgname "page-status" :required ((("find-page-file" find-page-file))) :depends (find-page-file))

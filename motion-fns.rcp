@@ -1,0 +1,2 @@
+
+(:name motion-fns :description "Motion and insertion functions" :type emacsmirror :pkgname "motion-fns" :required nil)

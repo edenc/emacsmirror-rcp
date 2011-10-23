@@ -1,0 +1,2 @@
+
+(:name collab :description "Peer to peer collaborative editing" :type emacsmirror :pkgname "collab" :required nil)

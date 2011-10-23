@@ -1,0 +1,2 @@
+
+(:name speck :description "Minor mode for spell checking" :type emacsmirror :pkgname "speck" :required ((("cl" cl))))

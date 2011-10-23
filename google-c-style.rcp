@@ -1,0 +1,2 @@
+
+(:name google-c-style :description "Google's C/C++ style for c-mode" :type emacsmirror :pkgname "google-c-style" :required ((("cc-mode" cc-defs))) :depends (cc-mode))

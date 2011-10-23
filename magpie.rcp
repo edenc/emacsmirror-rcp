@@ -1,0 +1,2 @@
+
+(:name magpie :description "Acronym expansion and others. " :type emacsmirror :pkgname "magpie" :required ((("cl" cl))))

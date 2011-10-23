@@ -1,0 +1,2 @@
+
+(:name light :description "Lightning completion" :type emacsmirror :pkgname "light" :required ((("cl" cl) ("custom" custom) ("ispell" ispell))))

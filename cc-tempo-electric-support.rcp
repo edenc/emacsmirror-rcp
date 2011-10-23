@@ -1,0 +1,2 @@
+
+(:name cc-tempo-electric-support :description "Provides support for insertion of" :type emacsmirror :pkgname "cc-tempo-electric-support" :required ((("cc-mode" cc-mode) ("tempo" tempo))) :depends (cc-mode))

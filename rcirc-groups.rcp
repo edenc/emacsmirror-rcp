@@ -1,0 +1,2 @@
+
+(:name rcirc-groups :description "An emacs buffer in rcirc-groups major mode" :type emacsmirror :pkgname "rcirc-groups" :required ((("cl" cl) ("rcirc" rcirc))))

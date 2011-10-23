@@ -1,0 +1,2 @@
+
+(:name youwill :description "Generate meaningless marketing hype" :type emacsmirror :pkgname "youwill" :required nil)

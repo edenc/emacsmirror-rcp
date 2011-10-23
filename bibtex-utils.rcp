@@ -1,0 +1,2 @@
+
+(:name bibtex-utils :description "Utilities for BibTeX" :type emacsmirror :pkgname "bibtex-utils" :required nil)

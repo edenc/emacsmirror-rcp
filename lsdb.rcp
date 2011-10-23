@@ -1,0 +1,2 @@
+
+(:name lsdb :description "The Lovely Sister Database" :type emacsmirror :pkgname "lsdb" :required ((("apel" pces poem product static) ("emacs-core" image) ("flim" mime) ("mew" mew))) :depends (mew flim apel))

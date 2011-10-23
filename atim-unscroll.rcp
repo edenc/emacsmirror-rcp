@@ -1,0 +1,2 @@
+
+(:name atim-unscroll :description "Minor mode for restoring buffer look as it was before scrolling" :type emacsmirror :pkgname "atim-unscroll" :required ((("cl" cl))))

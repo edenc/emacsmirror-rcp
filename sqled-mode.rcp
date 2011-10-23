@@ -1,0 +1,2 @@
+
+(:name sqled-mode :description "Major Mode for editing sql, sqlplus and pl/sql code" :type emacsmirror :pkgname "sqled-mode" :required ((("custom" custom) ("easymenu" easymenu))))

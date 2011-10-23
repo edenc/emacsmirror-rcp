@@ -1,0 +1,2 @@
+
+(:name auto-overlays :description nil :type emacsmirror :pkgname "auto-overlays" :required ((("cl" cl))))

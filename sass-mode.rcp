@@ -1,0 +1,2 @@
+
+(:name sass-mode :description "Major mode for editing Sass files" :type emacsmirror :pkgname "sass-mode" :required ((("haml-mode" haml-mode))) :depends (haml-mode))

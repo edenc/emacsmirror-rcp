@@ -1,0 +1,2 @@
+
+(:name h2o :description "Orgmode-formatted READMEs for your ELisp" :type emacsmirror :pkgname "h2o" :required nil)

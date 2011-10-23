@@ -1,0 +1,2 @@
+
+(:name commit-patch-buffer :description nil :type emacsmirror :pkgname "commit-patch-buffer" :required ((("log-edit" log-edit) ("vc" vc))))

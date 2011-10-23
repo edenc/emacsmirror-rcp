@@ -1,0 +1,2 @@
+
+(:name func-doc :description nil :type emacsmirror :pkgname "func-doc" :required ((("cc-mode" cc-mode) ("info" info) ("oo-browser" c-mode))) :depends (oo-browser cc-mode))

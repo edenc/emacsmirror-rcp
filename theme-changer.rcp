@@ -1,0 +1,2 @@
+
+(:name theme-changer :description "Sunrise/Sunset Theme Changer for Emacs" :type emacsmirror :pkgname "theme-changer" :required ((("calendar" solar))))

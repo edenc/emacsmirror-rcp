@@ -1,0 +1,2 @@
+
+(:name mp3player :description "Interface to mpg123 or winamp" :type emacsmirror :pkgname "mp3player" :required ((("cl" cl) ("dired" dired) ("emacs-core" font-lock) ("thingatpt" thingatpt) ("widget" wid-edit widget))))

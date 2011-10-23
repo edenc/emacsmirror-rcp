@@ -1,0 +1,2 @@
+
+(:name lsl-mode :description nil :type emacsmirror :pkgname "lsl-mode" :required ((("cc-mode" cc-bytecomp cc-mode) ("thingatpt" thingatpt))) :depends (cc-mode))

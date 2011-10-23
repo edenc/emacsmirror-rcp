@@ -1,0 +1,2 @@
+
+(:name geos-vote :description "An easy way to respond to GEOS ballots" :type emacsmirror :pkgname "geos-vote" :required nil)

@@ -1,0 +1,2 @@
+
+(:name yarm :description nil :type emacsmirror :pkgname "yarm" :required ((("anything" anything) ("cl" cl) ("easy-mmode" easy-mmode) ("historyf" historyf) (nil inflections)) (("anything" anything-show-completion) ("imenu" imenu))) :depends (historyf anything))

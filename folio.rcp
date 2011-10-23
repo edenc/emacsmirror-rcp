@@ -1,0 +1,2 @@
+
+(:name folio :description "GNOME-integrated notetaking system built on Org" :type emacsmirror :pkgname "folio" :required ((("cl" cl) ("color-theme" color-theme) ("iimage" iimage) ("org-mode" org) ("uuidgen" uuidgen))) :depends (uuidgen org-mode zenburn-theme))

@@ -1,0 +1,2 @@
+
+(:name nclosemacs :description nil :type emacsmirror :pkgname "nclosemacs" :required ((("cedet" eieio-base tree) ("cl" cl))) :depends (cedet))

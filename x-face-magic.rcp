@@ -1,0 +1,2 @@
+
+(:name x-face-magic :description "Various x-face utils" :type emacsmirror :pkgname "x-face-magic" :required nil)

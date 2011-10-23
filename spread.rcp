@@ -1,0 +1,2 @@
+
+(:name spread :description "A very simple spreadsheet mode for GNU emacs" :type emacsmirror :pkgname "spread" :required nil)

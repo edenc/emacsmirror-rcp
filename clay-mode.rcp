@@ -1,0 +1,2 @@
+
+(:name clay-mode :description "Major mode for editing Clay source files" :type emacsmirror :pkgname "clay-mode" :required nil)

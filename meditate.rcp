@@ -1,0 +1,2 @@
+
+(:name meditate :description "Talk to ZenMOO and optionally make emacs meditate for you" :type emacsmirror :pkgname "meditate" :required nil)

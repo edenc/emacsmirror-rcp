@@ -1,0 +1,2 @@
+
+(:name teco :description "Dale Worley's teco-in-elisp interpreter" :type emacsmirror :pkgname "teco" :required ((("emacs-core" backquote))))

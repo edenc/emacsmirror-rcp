@@ -1,0 +1,2 @@
+
+(:name dired-filetype-face :description "Set different faces for different filetype in dired buffer" :type emacsmirror :pkgname "dired-filetype-face" :required ((("custom" custom) ("dired" dired))))

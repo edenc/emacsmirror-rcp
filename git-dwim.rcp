@@ -1,0 +1,2 @@
+
+(:name git-dwim :description "Context-aware git commands such as branch handling" :type emacsmirror :pkgname "git-dwim" :required ((("cl" cl))))

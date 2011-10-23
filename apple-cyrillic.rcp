@@ -1,0 +1,2 @@
+
+(:name apple-cyrillic :description "Quail package for inputting Cyrillic characters" :type emacsmirror :pkgname "apple-cyrillic" :required nil)

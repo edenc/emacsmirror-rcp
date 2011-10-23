@@ -1,0 +1,2 @@
+
+(:name reftex :description "Version and autoloads of RefTeX" :type emacsmirror :pkgname "reftex" :required ((("cl" cl) ("custom" custom) ("easymenu" easymenu) ("reporter" reporter))))

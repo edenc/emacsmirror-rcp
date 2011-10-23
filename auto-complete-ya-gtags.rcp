@@ -1,0 +1,2 @@
+
+(:name auto-complete-ya-gtags :description "A source for auto-complete" :type emacsmirror :pkgname "auto-complete-ya-gtags" :required ((("auto-complete" auto-complete) ("cl" cl))) :depends (auto-complete))

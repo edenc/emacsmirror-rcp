@@ -1,0 +1,2 @@
+
+(:name gimp-mode :description nil :type emacsmirror :pkgname "gimp-mode" :required ((("cl" cl) ("cmuscheme" cmuscheme) ("eldoc" eldoc) ("outline" outline) ("ring" ring) ("scheme-complete" scheme-complete) ("snippet" snippet) ("thingatpt" thingatpt))) :depends (scheme-complete))

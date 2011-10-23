@@ -1,0 +1,2 @@
+
+(:name gnus-checker :description "Mode line mail indicator for gnus" :type emacsmirror :pkgname "gnus-checker" :required nil)

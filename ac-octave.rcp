@@ -1,0 +1,2 @@
+
+(:name ac-octave :description "An auto-complete source for Octave" :type emacsmirror :pkgname "ac-octave" :required ((("auto-complete" auto-complete) ("cl" cl) ("octave-inf" octave-inf))) :depends (auto-complete))

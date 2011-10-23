@@ -1,0 +1,2 @@
+
+(:name mode-line-frame :description "Create information frame like mode-line^" :type emacsmirror :pkgname "mode-line-frame" :required ((("cl" cl))))

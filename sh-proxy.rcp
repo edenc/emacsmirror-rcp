@@ -1,0 +1,2 @@
+
+(:name sh-proxy :description "Experiment with elisp proxies for shell commands" :type emacsmirror :pkgname "sh-proxy" :required nil)

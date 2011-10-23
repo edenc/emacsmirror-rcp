@@ -1,0 +1,2 @@
+
+(:name attic :description "Maintain backups with a time stamp" :type emacsmirror :pkgname "attic" :required ((("ediff" ediff) ("tellib" tellib))) :depends (tellib))

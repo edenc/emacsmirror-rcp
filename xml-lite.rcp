@@ -1,0 +1,2 @@
+
+(:name xml-lite :description "An indentation-engine for XML" :type emacsmirror :pkgname "xml-lite" :required ((("cl" cl) ("custom" custom) ("sgml-mode" sgml-mode))))

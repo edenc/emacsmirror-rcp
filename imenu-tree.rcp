@@ -1,0 +1,2 @@
+
+(:name imenu-tree :description "A mode to view imenu using tree-widget" :type emacsmirror :pkgname "imenu-tree" :required ((("cl" cl) ("imenu" imenu) ("tree-mode" tree-mode) ("windata" windata))) :depends (windata tree-mode))

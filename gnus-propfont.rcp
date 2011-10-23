@@ -1,0 +1,2 @@
+
+(:name gnus-propfont :description "Adding faces to *Article* buffer in Gnus " :type emacsmirror :pkgname "gnus-propfont" :required ((("cl" cl))))

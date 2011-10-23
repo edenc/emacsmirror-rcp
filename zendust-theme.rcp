@@ -1,0 +1,2 @@
+
+(:name zendust-theme :description "Mid-tone, low-contrast custom theme for faces" :type emacsmirror :pkgname "zendust-theme" :required nil)

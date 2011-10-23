@@ -1,0 +1,2 @@
+
+(:name dracula-mode :description "Major mode providing a DRACULA rules mode hook for fontification" :type emacsmirror :pkgname "dracula-mode" :required ((("emacs-core" font-lock generic))))

@@ -1,0 +1,2 @@
+
+(:name trans-ej :description nil :type emacsmirror :pkgname "trans-ej" :required ((("button" button) ("url" url-util))))

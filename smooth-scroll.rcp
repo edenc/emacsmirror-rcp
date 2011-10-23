@@ -1,0 +1,2 @@
+
+(:name smooth-scroll :description "Minor mode for smooth scrolling" :type emacsmirror :pkgname "smooth-scroll" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("emacs-core" simple))))

@@ -1,0 +1,2 @@
+
+(:name mgrep :description "Search in the directory previously specified" :type emacsmirror :pkgname "mgrep" :required ((("compile" compile))))

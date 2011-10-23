@@ -1,0 +1,2 @@
+
+(:name shell-command :description "Enables tab-completion for `shell-command'" :type emacsmirror :pkgname "shell-command" :required ((("comint" comint) ("custom" custom) ("shell" shell))))

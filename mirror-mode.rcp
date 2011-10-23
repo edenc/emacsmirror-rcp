@@ -1,0 +1,2 @@
+
+(:name mirror-mode :description "Insert parens and string quotes in pairs" :type emacsmirror :pkgname "mirror-mode" :required ((("cl" cl))))

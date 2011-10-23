@@ -1,0 +1,2 @@
+
+(:name titanium :description nil :type emacsmirror :pkgname "titanium" :required ((("anything" anything) ("auto-complete" auto-complete) ("cl" cl) ("deferred" deferred) ("easy-mmode" easy-mmode) ("historyf" historyf)) (("anything" anything-show-completion) ("imenu" imenu))) :depends (historyf deferred auto-complete anything))

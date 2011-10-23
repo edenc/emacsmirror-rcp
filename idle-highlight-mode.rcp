@@ -1,0 +1,2 @@
+
+(:name idle-highlight-mode :description "Highlight the word the point is on" :type emacsmirror :pkgname "idle-highlight-mode" :required ((("thingatpt" thingatpt))))

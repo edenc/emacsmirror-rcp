@@ -1,0 +1,2 @@
+
+(:name re-suggest :description "[R]egular [E]xpression-based [C]ommand [S]uggester" :type emacsmirror :pkgname "re-suggest" :required ((("cl" cl))))

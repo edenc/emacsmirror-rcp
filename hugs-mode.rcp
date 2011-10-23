@@ -1,0 +1,2 @@
+
+(:name hugs-mode :description nil :type emacsmirror :pkgname "hugs-mode" :required ((("easymenu" easymenu) ("shell" shell))))

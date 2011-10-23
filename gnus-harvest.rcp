@@ -1,0 +1,2 @@
+
+(:name gnus-harvest :description "Harvest e-mail address from read/written articles" :type emacsmirror :pkgname "gnus-harvest" :required ((("gnus" gnus message) ("mailalias" mailalias) ("sendmail" sendmail)) (("bbdb" bbdb bbdb-com))) :depends (gnus))

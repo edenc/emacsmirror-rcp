@@ -1,0 +1,2 @@
+
+(:name muse-ess :description "Emacs muse speaks statistics" :type emacsmirror :pkgname "muse-ess" :required nil)

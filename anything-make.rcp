@@ -1,0 +1,2 @@
+
+(:name anything-make :description "Add targets of nearest makefile to anything sources" :type emacsmirror :pkgname "anything-make" :required nil)

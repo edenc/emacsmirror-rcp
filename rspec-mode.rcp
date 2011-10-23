@@ -1,0 +1,2 @@
+
+(:name rspec-mode :description "Enhance ruby-mode for RSpec" :type emacsmirror :pkgname "rspec-mode" :required ((("ansi-color" ansi-color) ("ruby-mode" ruby-mode)) (("snippet" snippet))))

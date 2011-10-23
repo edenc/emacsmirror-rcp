@@ -1,0 +1,2 @@
+
+(:name python-extras :description "Extras for python-mode" :type emacsmirror :pkgname "python-extras" :required ((("comint" comint) ("python" python) ("rx" rx) ("skeleton" skeleton) ("thingatpt" thingatpt))))

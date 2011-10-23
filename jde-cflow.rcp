@@ -1,0 +1,2 @@
+
+(:name jde-cflow :description nil :type emacsmirror :pkgname "jde-cflow" :required ((("jdee" jde) ("tempo" tempo))) :depends (jdee))

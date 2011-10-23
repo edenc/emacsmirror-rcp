@@ -1,0 +1,2 @@
+
+(:name less :description "Less style view mode" :type emacsmirror :pkgname "less" :required nil)

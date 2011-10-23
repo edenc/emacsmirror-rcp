@@ -1,0 +1,2 @@
+
+(:name setq-trap :description "Debug on entry to setq when specific symbols are modified" :type emacsmirror :pkgname "setq-trap" :required ((("emacs-core" backquote))))

@@ -1,0 +1,2 @@
+
+(:name zlc :description "Provides zsh like completion for minibuffer" :type emacsmirror :pkgname "zlc" :required ((("cl" cl))))

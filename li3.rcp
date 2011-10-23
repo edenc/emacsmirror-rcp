@@ -1,0 +1,2 @@
+
+(:name li3 :description nil :type emacsmirror :pkgname "li3" :required ((("anything" anything) ("cake" cake-inflector) ("cl" cl) ("easy-mmode" easy-mmode) ("historyf" historyf)) (("anything" anything-show-completion) ("imenu" imenu) ("tail" tail))) :depends (historyf cake anything))

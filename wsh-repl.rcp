@@ -1,0 +1,2 @@
+
+(:name wsh-repl :description "Windows Scripting Host REPL (in javascript)" :type emacsmirror :pkgname "wsh-repl" :required ((("comint" comint))))

@@ -1,0 +1,2 @@
+
+(:name aok :description "Various useful ways to do `multi-occur'" :type emacsmirror :pkgname "aok" :required ((("cl" cl))))

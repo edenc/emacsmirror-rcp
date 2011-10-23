@@ -1,0 +1,2 @@
+
+(:name ya-cppref :description "An interface using w3m with cppreference.com references on Emacs" :type emacsmirror :pkgname "ya-cppref" :required ((("cl" cl) ("w3m" w3m))) :depends (w3m))

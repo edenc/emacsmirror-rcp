@@ -1,0 +1,2 @@
+
+(:name ibs :description "Windows like buffer selection mode by C-TAB" :type emacsmirror :pkgname "ibs" :required nil)

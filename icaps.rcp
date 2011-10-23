@@ -1,0 +1,2 @@
+
+(:name icaps :description "ICaps a word (an annoying diversion)" :type emacsmirror :pkgname "icaps" :required nil)

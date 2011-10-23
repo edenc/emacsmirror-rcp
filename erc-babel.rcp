@@ -1,0 +1,2 @@
+
+(:name erc-babel :description "Communicate in different languages with ERC, using automatic translation" :type emacsmirror :pkgname "erc-babel" :required ((("babel" babel) ("erc" erc))) :depends (erc babel))

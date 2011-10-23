@@ -1,0 +1,2 @@
+
+(:name wcy-swbuff :description "Switch buffer quickly" :type emacsmirror :pkgname "wcy-swbuff" :required nil)

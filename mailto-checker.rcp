@@ -1,0 +1,2 @@
+
+(:name mailto-checker :description nil :type emacsmirror :pkgname "mailto-checker" :required nil)

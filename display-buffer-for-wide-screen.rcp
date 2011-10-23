@@ -1,0 +1,2 @@
+
+(:name display-buffer-for-wide-screen :description "Set `display-buffer-function' for wide-screen display" :type emacsmirror :pkgname "display-buffer-for-wide-screen" :required ((("cl" cl))))

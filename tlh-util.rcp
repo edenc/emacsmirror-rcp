@@ -1,0 +1,2 @@
+
+(:name tlh-util :description "A bunch of elisp utility fns and macros" :type emacsmirror :pkgname "tlh-util" :required ((("cl" cl))))

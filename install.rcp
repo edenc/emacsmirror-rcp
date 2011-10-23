@@ -1,0 +1,2 @@
+
+(:name install :description "Package to ease installation of Elisp packages" :type emacsmirror :pkgname "install" :required ((("cl" cl) ("eshell" em-glob))) :depends (eshell))

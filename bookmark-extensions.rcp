@@ -1,0 +1,2 @@
+
+(:name bookmark-extensions :description nil :type emacsmirror :pkgname "bookmark-extensions" :required ((("anything" anything-config) ("bookmark" bookmark) ("cl" cl) ("emacs-core" derived) ("gnus" message) ("org-mode" org) ("url" url) ("w3m" w3m)) (("anything-delicious" anything-delicious) ("w3m" w3m-bookmark))) :depends (w3m org-mode gnus anything))

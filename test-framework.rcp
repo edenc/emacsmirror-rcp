@@ -1,0 +1,2 @@
+
+(:name test-framework :description "Framework for unit testing" :type emacsmirror :pkgname "test-framework" :required ((("advice" advice) ("cl" cl) ("emacs-core" warnings))))

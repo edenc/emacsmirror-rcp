@@ -1,0 +1,2 @@
+
+(:name org-html5presentation :description nil :type emacsmirror :pkgname "org-html5presentation" :required ((("cl" cl) ("htmlize" htmlize) ("org-mode" org-exp org-table) ("table" table))) :depends (org-mode))

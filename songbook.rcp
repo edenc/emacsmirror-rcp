@@ -1,0 +1,2 @@
+
+(:name songbook :description "Major mode for editing the song files of Patacrep songbook" :type emacsmirror :pkgname "songbook" :required nil)

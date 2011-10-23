@@ -1,0 +1,2 @@
+
+(:name org-tree-slide :description "A presentation tool for org-mode" :type emacsmirror :pkgname "org-tree-slide" :required nil)

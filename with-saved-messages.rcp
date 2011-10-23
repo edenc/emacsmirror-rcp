@@ -1,0 +1,2 @@
+
+(:name with-saved-messages :description "Run a command and save the messages it produces" :type emacsmirror :pkgname "with-saved-messages" :required nil)

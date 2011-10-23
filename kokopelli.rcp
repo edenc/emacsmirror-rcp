@@ -1,0 +1,2 @@
+
+(:name kokopelli :description "List function declaration and jump to it" :type emacsmirror :pkgname "kokopelli" :required nil)

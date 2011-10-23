@@ -1,0 +1,2 @@
+
+(:name tm-vcard :description "Allow TM (and hence Gnus, RMAIL, et al) to display a vcard MIME part" :type emacsmirror :pkgname "tm-vcard" :required ((("gnus" tm-view) ("vcard" vcard))) :depends (vcard gnus))

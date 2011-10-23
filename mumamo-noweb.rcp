@@ -1,0 +1,2 @@
+
+(:name mumamo-noweb :description "MuMaMo noweb goo" :type emacsmirror :pkgname "mumamo-noweb" :required ((("nxhtml" mumamo))) :depends (nxhtml))

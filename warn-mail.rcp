@@ -1,0 +1,2 @@
+
+(:name warn-mail :description "Warn for mails incoming" :type emacsmirror :pkgname "warn-mail" :required nil)

@@ -1,0 +1,2 @@
+
+(:name keymap-utils :description "Keymap utilities" :type emacsmirror :pkgname "keymap-utils" :required ((("cl" cl))))

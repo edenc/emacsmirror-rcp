@@ -1,0 +1,2 @@
+
+(:name anything-show-ticket :description nil :type emacsmirror :pkgname "anything-show-ticket" :required ((("cl" cl))))

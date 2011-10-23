@@ -1,0 +1,2 @@
+
+(:name swimmers :description "Draw a swimming-pool screensaver" :type emacsmirror :pkgname "swimmers" :required nil)

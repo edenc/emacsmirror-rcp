@@ -1,0 +1,2 @@
+
+(:name toggle :description "Quickly open corresponding file (eg test vs impl)" :type emacsmirror :pkgname "toggle" :required ((("cl" cl))))

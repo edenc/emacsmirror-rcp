@@ -1,0 +1,2 @@
+
+(:name e-blog :description "A GNU Emacs interface to Blogger" :type emacsmirror :pkgname "e-blog" :required nil)

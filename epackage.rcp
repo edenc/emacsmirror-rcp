@@ -1,0 +1,2 @@
+
+(:name epackage :description "Distributed Emacs Lisp Package System (DELPS)" :type emacsmirror :pkgname "epackage" :required ((("finder" finder) ("whitespace" whitespace))))

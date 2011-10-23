@@ -1,0 +1,2 @@
+
+(:name metaweblog :description "An emacs library to access metaweblog based weblogs" :type emacsmirror :pkgname "metaweblog" :required ((("xml-rpc" xml-rpc))) :depends (xml-rpc))

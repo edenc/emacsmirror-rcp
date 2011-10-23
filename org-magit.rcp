@@ -1,0 +1,2 @@
+
+(:name org-magit :description "Basic support for magit links" :type emacsmirror :pkgname "org-magit" :required ((("cl" cl) ("magit" magit) ("org-mode" org))) :depends (org-mode magit))

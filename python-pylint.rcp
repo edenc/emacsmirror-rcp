@@ -1,0 +1,2 @@
+
+(:name python-pylint :description "Minor mode for running `pylint'" :type emacsmirror :pkgname "python-pylint" :required nil)

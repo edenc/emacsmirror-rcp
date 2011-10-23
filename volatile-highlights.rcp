@@ -1,0 +1,2 @@
+
+(:name volatile-highlights :description "Minor mode for visual feedback on some operations" :type emacsmirror :pkgname "volatile-highlights" :required ((("advice" advice) ("cl" cl) ("easy-mmode" easy-mmode) ("etags" etags)) (("alien-search" alien-search) ("emacs-core" menu-bar))))

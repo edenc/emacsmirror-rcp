@@ -1,0 +1,2 @@
+
+(:name opscode-sign :description "Opscode API request signer" :type emacsmirror :pkgname "opscode-sign" :required ((("cl" cl) ("emacs-core" base64) ("gnus" sha1))) :depends (gnus))

@@ -1,0 +1,2 @@
+
+(:name redshank :description nil :type emacsmirror :pkgname "redshank" :required ((("cl" cl) ("easymenu" easymenu) ("eldoc" eldoc) ("paredit" paredit) ("skeleton" skeleton))) :depends (paredit))

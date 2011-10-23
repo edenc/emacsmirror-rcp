@@ -1,0 +1,2 @@
+
+(:name keats :description "Keybinding Cheats" :type emacsmirror :pkgname "keats" :required ((("easymenu" easymenu))))

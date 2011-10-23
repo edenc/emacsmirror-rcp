@@ -1,0 +1,2 @@
+
+(:name highlight-context-line :description "Highlight last visible line when scrolling" :type emacsmirror :pkgname "highlight-context-line" :required ((("advice" advice))))

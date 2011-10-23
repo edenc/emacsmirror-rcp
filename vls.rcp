@@ -1,0 +1,2 @@
+
+(:name vls :description nil :type emacsmirror :pkgname "vls" :required ((("comint" comint) ("lisp-mode" lisp-mode))))

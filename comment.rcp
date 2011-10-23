@@ -1,0 +1,2 @@
+
+(:name comment :description "Comment out regions of buffers" :type emacsmirror :pkgname "comment" :required nil)

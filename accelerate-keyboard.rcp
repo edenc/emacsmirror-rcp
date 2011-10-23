@@ -1,0 +1,2 @@
+
+(:name accelerate-keyboard :description "Accelerate effective command input time" :type emacsmirror :pkgname "accelerate-keyboard" :required nil)

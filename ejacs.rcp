@@ -1,0 +1,2 @@
+
+(:name ejacs :description "Shell interface to javascript interpreter" :type emacsmirror :pkgname "ejacs" :required ((("cl" cl) ("gnus" parse-time) ("help" help-fns))) :depends (gnus))

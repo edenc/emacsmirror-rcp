@@ -1,0 +1,2 @@
+
+(:name ecasound-ewf :description "Ecasound .ewf major mode" :type emacsmirror :pkgname "ecasound-ewf" :required ((("ecasound" ecasound))))

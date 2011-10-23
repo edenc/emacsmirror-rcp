@@ -1,0 +1,2 @@
+
+(:name faith :description "Helps spreading the true faith" :type emacsmirror :pkgname "faith" :required nil)

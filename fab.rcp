@@ -1,0 +1,2 @@
+
+(:name fab :description "Fabric integration for Emacs" :type emacsmirror :pkgname "fab" :required nil)

@@ -1,0 +1,2 @@
+
+(:name predictive :description nil :type emacsmirror :pkgname "predictive" :required ((("advice" advice) ("auto-overlays" auto-overlay-flat auto-overlay-line auto-overlay-nested auto-overlay-self auto-overlay-word auto-overlays) ("avl-tree" avl-tree) ("cl" cl) ("completion-ui" completion-ui) ("edebug" edebug) ("emacs-core" bytecomp) ("ispell" ispell) ("timerfunctions" timerfunctions) (nil predictive-compat))) :depends (timerfunctions completion-ui auto-overlays))

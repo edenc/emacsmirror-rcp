@@ -1,0 +1,2 @@
+
+(:name nethack :description "Run Nethack as a subprocess" :type emacsmirror :pkgname "nethack" :required ((("cl" cl) ("emacs-core" overlay) ("gamegrid" gamegrid))))

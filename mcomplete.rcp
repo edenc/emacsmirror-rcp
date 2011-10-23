@@ -1,0 +1,2 @@
+
+(:name mcomplete :description "Minibuffer completion with prefix and substring matching" :type emacsmirror :pkgname "mcomplete" :required nil)

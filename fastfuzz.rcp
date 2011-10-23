@@ -1,0 +1,2 @@
+
+(:name fastfuzz :description "Compensate fast for floating-point roundoff error" :type emacsmirror :pkgname "fastfuzz" :required nil)

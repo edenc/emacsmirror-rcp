@@ -1,0 +1,2 @@
+
+(:name disptime :description "Display time, load average, etc. in mode line" :type emacsmirror :pkgname "disptime" :required ((("itimer" itimer) ("timer" timer))) :depends (itimer))

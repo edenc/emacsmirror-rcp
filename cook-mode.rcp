@@ -1,0 +1,2 @@
+
+(:name cook-mode :description "Major mode for writing cook (a make replacement) files" :type emacsmirror :pkgname "cook-mode" :required ((("custom" custom))))

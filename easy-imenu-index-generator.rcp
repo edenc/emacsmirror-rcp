@@ -1,0 +1,2 @@
+
+(:name easy-imenu-index-generator :description "Easy implement imenu-create-index-function" :type emacsmirror :pkgname "easy-imenu-index-generator" :required nil)

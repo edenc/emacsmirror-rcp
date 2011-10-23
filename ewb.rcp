@@ -1,0 +1,2 @@
+
+(:name ewb :description "Emacs Web Browser" :type emacsmirror :pkgname "ewb" :required nil)

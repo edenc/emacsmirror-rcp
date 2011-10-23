@@ -1,0 +1,2 @@
+
+(:name grade :description "Program for keeping track of grades" :type emacsmirror :pkgname "grade" :required ((("calc" calc) ("easymenu" easymenu))))

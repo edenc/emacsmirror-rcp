@@ -1,0 +1,2 @@
+
+(:name xml-weather :description "Get xml-weather infos in emacs. " :type emacsmirror :pkgname "xml-weather" :required ((("cl" cl) ("emacs-core" derived) ("url" url) ("xml" xml))))

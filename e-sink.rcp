@@ -1,0 +1,2 @@
+
+(:name e-sink :description "Pipe output of any command to Emacs buffer" :type emacsmirror :pkgname "e-sink" :required ((("cl" cl))))

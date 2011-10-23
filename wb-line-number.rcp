@@ -1,0 +1,2 @@
+
+(:name wb-line-number :description "Window-based line number displaying" :type emacsmirror :pkgname "wb-line-number" :required nil)

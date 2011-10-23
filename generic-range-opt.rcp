@@ -1,0 +1,2 @@
+
+(:name generic-range-opt :description "Generate range operations" :type emacsmirror :pkgname "generic-range-opt" :required ((("cl" cl) ("thing-opt" thing-opt))) :depends (thing-opt))

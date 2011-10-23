@@ -1,0 +1,2 @@
+
+(:name gresreg :description "Query-replace in all buffer" :type emacsmirror :pkgname "gresreg" :required nil)

@@ -1,0 +1,2 @@
+
+(:name kis-interface :description "Extensions for kis-mode" :type emacsmirror :pkgname "kis-interface" :required ((("custom" cus-edit) ("dired" dired) ("kis-project" kis-project) ("widget" wid-edit widget))) :depends (kis-project))

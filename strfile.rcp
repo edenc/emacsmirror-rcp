@@ -1,0 +1,2 @@
+
+(:name strfile :description "Edit fortune files" :type emacsmirror :pkgname "strfile" :required nil)

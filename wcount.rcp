@@ -1,0 +1,2 @@
+
+(:name wcount :description "Keep a running count of words in a buffer" :type emacsmirror :pkgname "wcount" :required ((("assoc" assoc) ("timer" timer))))

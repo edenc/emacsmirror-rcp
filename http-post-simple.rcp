@@ -1,0 +1,2 @@
+
+(:name http-post-simple :description "HTTP POST requests using the url library" :type emacsmirror :pkgname "http-post-simple" :required ((("cl" cl) ("url" url url-http))))

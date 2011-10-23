@@ -1,0 +1,2 @@
+
+(:name iedit :description "Edit multiple regions with the same content simultaneously" :type emacsmirror :pkgname "iedit" :required ((("cl" cl) ("help-macro" help-macro))))

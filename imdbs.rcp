@@ -1,0 +1,2 @@
+
+(:name imdbs :description "Compute movies statistic using your imdb vote history" :type emacsmirror :pkgname "imdbs" :required nil)

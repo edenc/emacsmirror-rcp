@@ -1,0 +1,2 @@
+
+(:name message-x :description "Customizable completion in message headers" :type emacsmirror :pkgname "message-x" :required ((("gnus" message))) :depends (gnus))

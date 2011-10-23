@@ -1,0 +1,2 @@
+
+(:name kmacro-ring-list :description "List keyboard macros in a buffer" :type emacsmirror :pkgname "kmacro-ring-list" :required ((("cl" cl) ("emacs-core" kmacro pp) ("ewoc" ewoc))))

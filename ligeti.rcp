@@ -1,0 +1,2 @@
+
+(:name ligeti :description "Process-music composition system for csound" :type emacsmirror :pkgname "ligeti" :required ((("cl" cl) ("csound-x" csound-x))) :depends (csound-x))

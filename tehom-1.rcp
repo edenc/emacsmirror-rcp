@@ -1,0 +1,2 @@
+
+(:name tehom-1 :description "Emacs lisp extensions for gnus' eforms" :type emacsmirror :pkgname "tehom-1" :required ((("gnus" gnus-eform gnus-util))) :depends (gnus))

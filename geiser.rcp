@@ -1,0 +1,2 @@
+
+(:name geiser :description "Main geiser file" :type emacsmirror :pkgname "geiser" :required ((("button" button) ("cl" cl) ("comint" comint) ("compile" compile) ("eldoc" eldoc) ("emacs-core" font-lock minibuffer) ("etags" etags) ("help" help-fns) ("info-look" info-look) ("lisp-mode" lisp-mode) ("scheme" scheme) ("tq" tq) ("view" view))))

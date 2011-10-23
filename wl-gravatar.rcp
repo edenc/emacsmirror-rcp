@@ -1,0 +1,2 @@
+
+(:name wl-gravatar :description "Gravatar fetch/store functions" :type emacsmirror :pkgname "wl-gravatar" :required ((("gnus" gravatar))) :depends (gnus))

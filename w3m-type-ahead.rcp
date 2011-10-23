@@ -1,0 +1,2 @@
+
+(:name w3m-type-ahead :description "Type ahead support for Emacs-w3m" :type emacsmirror :pkgname "w3m-type-ahead" :required ((("w3m" w3m))) :depends (w3m))

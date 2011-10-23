@@ -1,0 +1,2 @@
+
+(:name nntodo :description "Manage todo items with Gnus" :type emacsmirror :pkgname "nntodo" :required ((("cl" cl) ("easy-mmode" easy-mmode) ("gnus" gnus-start nnheader nnmail nnmbox nnoo))) :depends (gnus))

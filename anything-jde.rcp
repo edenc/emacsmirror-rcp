@@ -1,0 +1,2 @@
+
+(:name anything-jde :description nil :type emacsmirror :pkgname "anything-jde" :required ((("anything" anything) ("jdee" jde))) :depends (jdee anything))

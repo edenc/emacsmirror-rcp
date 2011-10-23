@@ -1,0 +1,2 @@
+
+(:name joystick :description "Lisp part of joystick interface for Emacs" :type emacsmirror :pkgname "joystick" :required nil)

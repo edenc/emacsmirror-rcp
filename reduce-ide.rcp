@@ -1,0 +1,2 @@
+
+(:name reduce-ide :description "REDUCE code editing mode for GNU Emacs" :type emacsmirror :pkgname "reduce-ide" :required ((("comint" comint) ("emacs-core" font-lock) ("paren" paren) ("timer" timer))))

@@ -1,0 +1,2 @@
+
+(:name mpg123 :description nil :type emacsmirror :pkgname "mpg123" :required ((("emacs-core" overlay) ("smart-dnd" smart-dnd))) :depends (smart-dnd))

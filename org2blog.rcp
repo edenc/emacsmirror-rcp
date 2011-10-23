@@ -1,0 +1,2 @@
+
+(:name org2blog :description "Blog from Org mode to wordpress" :type emacsmirror :pkgname "org2blog" :required ((("metaweblog" metaweblog) ("org-mode" org) ("xml-rpc" xml-rpc))) :depends (xml-rpc org-mode metaweblog))

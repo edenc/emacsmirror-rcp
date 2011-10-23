@@ -1,0 +1,2 @@
+
+(:name point-undo :description "Undo/redo position" :type emacsmirror :pkgname "point-undo" :required ((("cl" cl))))

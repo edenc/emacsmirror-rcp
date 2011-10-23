@@ -1,0 +1,2 @@
+
+(:name auto-complete-octave :description nil :type emacsmirror :pkgname "auto-complete-octave" :required ((("auto-complete" auto-complete) ("cl" cl))) :depends (auto-complete))

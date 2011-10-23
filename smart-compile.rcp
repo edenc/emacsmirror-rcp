@@ -1,0 +1,2 @@
+
+(:name smart-compile :description "An interface to `compile'" :type emacsmirror :pkgname "smart-compile" :required nil)

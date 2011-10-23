@@ -1,0 +1,2 @@
+
+(:name imapua :description "A purely IMAP based email client for EMACS" :type emacsmirror :pkgname "imapua" :required ((("cl" cl) ("gnus" imap message qp) ("timezone" timezone))) :depends (gnus))

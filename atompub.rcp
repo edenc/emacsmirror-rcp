@@ -1,0 +1,2 @@
+
+(:name atompub :description "Implementation of draft atom-api" :type emacsmirror :pkgname "atompub" :required ((("muse" muse muse-html) ("url" url url-auth url-cache) ("xml" xml))))

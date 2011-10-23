@@ -1,0 +1,2 @@
+
+(:name ifile-gnus :description nil :type emacsmirror :pkgname "ifile-gnus" :required ((("gnus" gnus-int gnus-util))) :depends (gnus))

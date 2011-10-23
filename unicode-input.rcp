@@ -1,0 +1,2 @@
+
+(:name unicode-input :description "Inputting a Unicode subset in TeX transcription" :type emacsmirror :pkgname "unicode-input" :required nil)

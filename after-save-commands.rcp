@@ -1,0 +1,2 @@
+
+(:name after-save-commands :description "Run a shell command after saving a file" :type emacsmirror :pkgname "after-save-commands" :required ((("cl" cl))))

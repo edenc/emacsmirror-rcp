@@ -1,0 +1,2 @@
+
+(:name org-osm-link :description "Org-links to OSM maps" :type emacsmirror :pkgname "org-osm-link" :required ((("org-mode" org))) :depends (org-mode))

@@ -1,0 +1,2 @@
+
+(:name bbdb-rf :description "Some of my own addons to BBDB not in its bits" :type emacsmirror :pkgname "bbdb-rf" :required ((("bbdb" bbdb bbdb-autoloads bbdb-print bbdb-snarf bbdb-vm) ("gnus" message) ("vm" vm))) :depends (vm gnus bbdb))

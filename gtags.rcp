@@ -1,0 +1,2 @@
+
+(:name gtags :description nil :type emacsmirror :pkgname "gtags" :required ((("cl" cl) ("etags" etags) ("tree-widget" tree-widget) ("widget" wid-browse))))

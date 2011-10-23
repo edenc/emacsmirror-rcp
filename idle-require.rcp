@@ -1,0 +1,2 @@
+
+(:name idle-require :description "Load elisp libraries while Emacs is idle" :type emacsmirror :pkgname "idle-require" :required nil)

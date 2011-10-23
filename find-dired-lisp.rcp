@@ -1,0 +1,2 @@
+
+(:name find-dired-lisp :description "\"find-dired\" by lisp" :type emacsmirror :pkgname "find-dired-lisp" :required ((("dired" dired) ("findr" findr))))

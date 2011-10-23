@@ -1,0 +1,2 @@
+
+(:name spamtrap :description "Check message recipients for spam traps" :type emacsmirror :pkgname "spamtrap" :required nil)

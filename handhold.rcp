@@ -1,0 +1,2 @@
+
+(:name handhold :description "GUI for constructing tests" :type emacsmirror :pkgname "handhold" :required ((("cl" cl) ("emacs-core" pp) ("widget" wid-edit widget))))

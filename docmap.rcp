@@ -1,0 +1,2 @@
+
+(:name docmap :description "Display document map window" :type emacsmirror :pkgname "docmap" :required ((("outline" outline))))

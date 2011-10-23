@@ -1,0 +1,2 @@
+
+(:name umlaute :description "Support for german umlaute" :type emacsmirror :pkgname "umlaute" :required nil)

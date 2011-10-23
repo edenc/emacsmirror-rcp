@@ -1,0 +1,2 @@
+
+(:name oacs :description "OpenACS extensions" :type emacsmirror :pkgname "oacs" :required ((("autoinsert" autoinsert) ("color-occur" color-occur) ("mmm-mode" mmm-auto mmm-mode) ("psgml" psgml) ("sql" sql))) :depends (psgml mmm-mode color-occur))

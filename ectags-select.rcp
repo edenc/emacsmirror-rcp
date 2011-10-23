@@ -1,0 +1,2 @@
+
+(:name ectags-select :description "Select from multiple tags" :type emacsmirror :pkgname "ectags-select" :required ((("cl" cl) ("custom" custom) ("easymenu" easymenu))))

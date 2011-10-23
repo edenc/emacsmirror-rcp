@@ -1,0 +1,2 @@
+
+(:name open-junk-file :description "Open a junk (memo) file to try-and-error" :type emacsmirror :pkgname "open-junk-file" :required ((("cl" cl))))

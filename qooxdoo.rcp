@@ -1,0 +1,2 @@
+
+(:name qooxdoo :description "Helper functions for working with qooxdoo" :type emacsmirror :pkgname "qooxdoo" :required ((("eproject" eproject eproject-extras) ("thingatpt" thingatpt))) :depends (eproject))

@@ -1,0 +1,2 @@
+
+(:name planner-favoris :description "Add some bookmarks in a planner day page" :type emacsmirror :pkgname "planner-favoris" :required ((("planner" planner))) :depends (planner))

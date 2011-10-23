@@ -1,0 +1,2 @@
+
+(:name lude :description "Hacks for quickly finding LUDE-related files" :type emacsmirror :pkgname "lude" :required nil)

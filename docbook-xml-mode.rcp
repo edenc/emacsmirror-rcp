@@ -1,0 +1,2 @@
+
+(:name docbook-xml-mode :description nil :type emacsmirror :pkgname "docbook-xml-mode" :required nil)

@@ -1,0 +1,2 @@
+
+(:name warlord :description "Annoy denizens of alt.fan.warlord" :type emacsmirror :pkgname "warlord" :required ((("flame" flame) ("yow" yow))) :depends (flame))

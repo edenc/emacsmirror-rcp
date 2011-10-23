@@ -1,0 +1,2 @@
+
+(:name diary-mode :description nil :type emacsmirror :pkgname "diary-mode" :required ((("calendar" calendar))))

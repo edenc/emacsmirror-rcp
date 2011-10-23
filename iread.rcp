@@ -1,0 +1,2 @@
+
+(:name iread :description "Incremental X minor mode" :type emacsmirror :pkgname "iread" :required ((("cl" cl))))

@@ -1,0 +1,2 @@
+
+(:name occam-mode :description "OCCAM2 mode for GNU emacs" :type emacsmirror :pkgname "occam-mode" :required nil)

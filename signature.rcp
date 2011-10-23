@@ -1,0 +1,2 @@
+
+(:name signature :description "Small hack to insert a custom signature" :type emacsmirror :pkgname "signature" :required nil)

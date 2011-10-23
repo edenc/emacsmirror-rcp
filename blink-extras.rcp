@@ -1,0 +1,2 @@
+
+(:name blink-extras :description nil :type emacsmirror :pkgname "blink-extras" :required (((nil blink-paren))))

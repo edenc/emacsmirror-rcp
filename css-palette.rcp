@@ -1,0 +1,2 @@
+
+(:name css-palette :description nil :type emacsmirror :pkgname "css-palette" :required ((("cl" cl) ("nxhtml" css-color))) :depends (nxhtml))

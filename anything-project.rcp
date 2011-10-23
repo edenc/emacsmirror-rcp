@@ -1,0 +1,2 @@
+
+(:name anything-project :description "Finding any resource of a project" :type emacsmirror :pkgname "anything-project" :required ((("anything" anything)) (("anything" anything-grep))) :depends (anything))

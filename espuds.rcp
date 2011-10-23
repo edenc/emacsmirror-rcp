@@ -1,0 +1,2 @@
+
+(:name espuds :description "Ecukes step definitions" :type emacsmirror :pkgname "espuds" :required ((("cl" cl) ("edmacro" edmacro))))

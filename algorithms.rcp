@@ -1,0 +1,2 @@
+
+(:name algorithms :description "Implementations of algorithms for CS381" :type emacsmirror :pkgname "algorithms" :required nil)

@@ -1,0 +1,2 @@
+
+(:name guido-mode :description "Mode for editing Guido Music Notation files" :type emacsmirror :pkgname "guido-mode" :required nil)

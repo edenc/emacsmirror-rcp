@@ -1,0 +1,2 @@
+
+(:name color-theme-hober2 :description "Edward O'Connor's second color theme" :type emacsmirror :pkgname "color-theme-hober2" :required ((("color-theme" color-theme))) :depends (zenburn-theme))

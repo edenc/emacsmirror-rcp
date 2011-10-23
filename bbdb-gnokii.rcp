@@ -1,0 +1,2 @@
+
+(:name bbdb-gnokii :description "Export phone entries from BBDB to gnokii contacts file" :type emacsmirror :pkgname "bbdb-gnokii" :required ((("bbdb" bbdb))) :depends (bbdb))

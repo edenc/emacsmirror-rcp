@@ -1,0 +1,2 @@
+
+(:name erc-robot :description "A robot for ERC" :type emacsmirror :pkgname "erc-robot" :required ((("erc" erc erc-stamp))) :depends (erc))

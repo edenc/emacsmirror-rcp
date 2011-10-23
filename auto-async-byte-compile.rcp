@@ -1,0 +1,2 @@
+
+(:name auto-async-byte-compile :description "Automatically byte-compile when saved" :type emacsmirror :pkgname "auto-async-byte-compile" :required ((("cl" cl))))

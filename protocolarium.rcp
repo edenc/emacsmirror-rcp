@@ -1,0 +1,2 @@
+
+(:name protocolarium :description "A set of buffer IO routines" :type emacsmirror :pkgname "protocolarium" :required ((("alert" alert) ("cl" cl) ("spread" spread))) :depends (spread alert))

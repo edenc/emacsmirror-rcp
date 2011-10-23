@@ -1,0 +1,2 @@
+
+(:name mouse-focus :description "Focus follows mouse in Emacs windows" :type emacsmirror :pkgname "mouse-focus" :required nil)

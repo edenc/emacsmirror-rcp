@@ -1,0 +1,2 @@
+
+(:name emmental :description "Take snapshots with Emacs" :type emacsmirror :pkgname "emmental" :required nil)

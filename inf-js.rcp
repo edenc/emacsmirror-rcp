@@ -1,0 +1,2 @@
+
+(:name inf-js :description nil :type emacsmirror :pkgname "inf-js" :required ((("comint" comint) ("compile" compile))))

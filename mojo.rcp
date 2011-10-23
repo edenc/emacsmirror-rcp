@@ -1,0 +1,2 @@
+
+(:name mojo :description "Interactive functions for webOS development" :type emacsmirror :pkgname "mojo" :required ((("json" json))))

@@ -1,0 +1,2 @@
+
+(:name archive-region :description "Move region to archive file instead of killing" :type emacsmirror :pkgname "archive-region" :required ((("cl" cl) ("newcomment" newcomment))))

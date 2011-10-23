@@ -1,0 +1,2 @@
+
+(:name yasnippet :description "Yet another snippet extension for Emacs" :type emacsmirror :pkgname "yasnippet" :required ((("assoc" assoc) ("cl" cl) ("easymenu" easymenu) ("help-mode" help-mode)) (("dropdown-list" dropdown-list))))

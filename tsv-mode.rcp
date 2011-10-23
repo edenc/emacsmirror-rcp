@@ -1,0 +1,2 @@
+
+(:name tsv-mode :description "Major mode for edit table files" :type emacsmirror :pkgname "tsv-mode" :required ((("cl" cl))))

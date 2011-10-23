@@ -1,0 +1,2 @@
+
+(:name bbc-news :description nil :type emacsmirror :pkgname "bbc-news" :required nil)

@@ -1,0 +1,2 @@
+
+(:name multr :description "Multiple regions handling" :type emacsmirror :pkgname "multr" :required nil)

@@ -1,0 +1,2 @@
+
+(:name ioccur :description "Incremental occur" :type emacsmirror :pkgname "ioccur" :required ((("cl" cl) ("emacs-core" derived) ("outline" outline) ("wdired" wdired))))

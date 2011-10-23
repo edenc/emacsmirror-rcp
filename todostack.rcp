@@ -1,0 +1,2 @@
+
+(:name todostack :description "Keep a to-do list as a simple stack" :type emacsmirror :pkgname "todostack" :required (nil (("lisp-mnt" lisp-mnt))))

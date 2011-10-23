@@ -1,0 +1,2 @@
+
+(:name startupd :description "Modular loading of Emacs configuration" :type emacsmirror :pkgname "startupd" :required nil)

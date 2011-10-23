@@ -1,0 +1,2 @@
+
+(:name spamprobe :description nil :type emacsmirror :pkgname "spamprobe" :required nil)

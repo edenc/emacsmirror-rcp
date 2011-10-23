@@ -1,0 +1,2 @@
+
+(:name grep-a-lot :description "Manages multiple search results buffers for grep.el" :type emacsmirror :pkgname "grep-a-lot" :required ((("advice" advice) ("grep" grep))))

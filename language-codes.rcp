@@ -1,0 +1,2 @@
+
+(:name language-codes :description "Map between language names and language codes" :type emacsmirror :pkgname "language-codes" :required nil)

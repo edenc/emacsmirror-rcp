@@ -1,0 +1,2 @@
+
+(:name haskell-latex :description "Editing literate Haskell with LaTeX convention" :type emacsmirror :pkgname "haskell-latex" :required ((("multi-mode" multi-mode))) :depends (multi-mode))

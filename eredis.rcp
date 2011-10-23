@@ -1,0 +1,2 @@
+
+(:name eredis :description nil :type emacsmirror :pkgname "eredis" :required ((("cl" cl) ("org-mode" org-table))) :depends (org-mode))

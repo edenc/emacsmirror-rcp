@@ -1,0 +1,2 @@
+
+(:name sql-with-placeholders :description "Handle SQL statements with placeholders gently" :type emacsmirror :pkgname "sql-with-placeholders" :required ((("sql" sql))))

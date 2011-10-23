@@ -1,0 +1,2 @@
+
+(:name edje-mode :description "Major mode for editing Edje files" :type emacsmirror :pkgname "edje-mode" :required nil)

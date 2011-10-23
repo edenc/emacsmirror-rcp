@@ -1,0 +1,2 @@
+
+(:name beatnik :description "Tries to implement a beatnik interpreter" :type emacsmirror :pkgname "beatnik" :required nil)

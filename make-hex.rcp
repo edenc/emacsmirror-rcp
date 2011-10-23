@@ -1,0 +1,2 @@
+
+(:name make-hex :description "Functions for drawing small ASCII hexes" :type emacsmirror :pkgname "make-hex" :required nil)

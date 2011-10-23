@@ -1,0 +1,2 @@
+
+(:name etexshow :description "Browser for ConTeXt commands" :type emacsmirror :pkgname "etexshow" :required ((("emacs-core" overlay) ("thingatpt" thingatpt))))

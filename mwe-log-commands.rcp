@@ -1,0 +1,2 @@
+
+(:name mwe-log-commands :description "Log keyboard commands to buffer" :type emacsmirror :pkgname "mwe-log-commands" :required ((("cl" cl))))

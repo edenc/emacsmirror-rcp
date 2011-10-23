@@ -1,0 +1,2 @@
+
+(:name tea-time :description "Simple timer package" :type emacsmirror :pkgname "tea-time" :required nil)

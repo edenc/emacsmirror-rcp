@@ -1,0 +1,2 @@
+
+(:name ediprolog :description "Emacs Does Interactive Prolog" :type emacsmirror :pkgname "ediprolog" :required nil)

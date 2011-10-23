@@ -1,0 +1,2 @@
+
+(:name dig-browser :description "A dired-style DNS zone browser" :type emacsmirror :pkgname "dig-browser" :required nil)

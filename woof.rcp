@@ -1,0 +1,2 @@
+
+(:name woof :description "Emacs interface to exchange files on different computers via woof" :type emacsmirror :pkgname "woof" :required nil)

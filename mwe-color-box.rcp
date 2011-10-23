@@ -1,0 +1,2 @@
+
+(:name mwe-color-box :description "Display color boxes for each nesting level" :type emacsmirror :pkgname "mwe-color-box" :required ((("cl" cl) ("rect" rect) ("thingatpt" thingatpt))))

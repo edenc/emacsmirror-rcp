@@ -1,0 +1,2 @@
+
+(:name ff-paths :description "Searches certain paths to find files" :type emacsmirror :pkgname "ff-paths" :required ((("ffap" ffap))))

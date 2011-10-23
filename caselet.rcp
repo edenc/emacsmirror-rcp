@@ -1,0 +1,2 @@
+
+(:name caselet :description "Cond/case statements with bindings before tests" :type emacsmirror :pkgname "caselet" :required nil)

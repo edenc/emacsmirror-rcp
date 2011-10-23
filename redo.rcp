@@ -1,0 +1,2 @@
+
+(:name redo :description "Redo/undo system for XEmacs" :type emacsmirror :pkgname "redo" :required nil)

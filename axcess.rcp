@@ -1,0 +1,2 @@
+
+(:name axcess :description "Axcess and Netlinx editing support" :type emacsmirror :pkgname "axcess" :required nil)

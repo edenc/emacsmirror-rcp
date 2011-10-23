@@ -1,0 +1,2 @@
+
+(:name mdfind :description "Interface to OS X's mdfind command" :type emacsmirror :pkgname "mdfind" :required ((("org-mode" org))) :depends (org-mode))

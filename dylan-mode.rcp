@@ -1,0 +1,2 @@
+
+(:name dylan-mode :description "Major mode for editing Dylan programs" :type emacsmirror :pkgname "dylan-mode" :required ((("emacs-core" font-lock) ("tree-widget" tree-widget))))

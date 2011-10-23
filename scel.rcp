@@ -1,0 +1,2 @@
+
+(:name scel :description "IDE for working with the SuperCollider language" :type emacsmirror :pkgname "scel" :required ((("cl" cl) ("emacs-core" font-lock) ("tree-widget" tree-widget)) (("view" view) ("xcscope" xcscope))))

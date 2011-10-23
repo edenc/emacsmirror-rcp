@@ -1,0 +1,2 @@
+
+(:name xrdb-mode :description "Mode for editing X resource database files" :type emacsmirror :pkgname "xrdb-mode" :required ((("custom" custom) ("reporter" reporter))))

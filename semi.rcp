@@ -1,0 +1,2 @@
+
+(:name semi :description "Setup file for MIME-View" :type emacsmirror :pkgname "semi" :required ((("apel" emu filename invisible path-util poe static) ("bbdb" bbdb bbdb-com) ("cl" cl) ("custom" custom) ("emacs-core" image) ("flim" eword-encode mel mime std11) ("gnus" mailcap pgg-def pgg-parse) ("mail-extr" mail-extr) ("mail-utils" mail-utils) ("mailcrypt" mailcrypt) ("sendmail" sendmail) ("signature" signature) ("tiny-tools" calist) ("w3" w3))) :depends (w3 tiny-tools signature mailcrypt gnus flim bbdb apel))

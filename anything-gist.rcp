@@ -1,0 +1,2 @@
+
+(:name anything-gist :description "Anything-sources and some utilities for gist" :type emacsmirror :pkgname "anything-gist" :required ((("anything" anything) ("cl" cl) ("gist" gist))) :depends (gist anything))

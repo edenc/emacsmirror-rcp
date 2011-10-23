@@ -1,0 +1,2 @@
+
+(:name egg :description "Emacs Got Git" :type emacsmirror :pkgname "egg" :required ((("cl" cl) ("ediff" ediff) ("electric" electric) ("emacs-core" derived) ("ffap" ffap) ("ring" ring))))

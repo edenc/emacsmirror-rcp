@@ -1,0 +1,2 @@
+
+(:name wl-list :description "List all W3M buffers" :type emacsmirror :pkgname "wl-list" :required nil)

@@ -1,0 +1,2 @@
+
+(:name atomo-mode :description "Major mode for editing Atomo files in Emacs" :type emacsmirror :pkgname "atomo-mode" :required ((("emacs-core" font-lock) ("newcomment" newcomment))))

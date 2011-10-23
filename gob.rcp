@@ -1,0 +1,2 @@
+
+(:name gob :description "A code generator for GObject" :type emacsmirror :pkgname "gob" :required ((("cl" cl))))

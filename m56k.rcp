@@ -1,0 +1,2 @@
+
+(:name m56k :description "Major mode for editing Motorola's DSP56300 assembly code" :type emacsmirror :pkgname "m56k" :required ((("advice" advice) ("cl" cl) ("emacs-obsolete" lucid))))

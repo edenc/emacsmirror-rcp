@@ -1,0 +1,2 @@
+
+(:name chm-view :description "View CHM file" :type emacsmirror :pkgname "chm-view" :required nil)

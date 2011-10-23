@@ -1,0 +1,2 @@
+
+(:name smart-tab :description "Intelligent tab completion and indentation" :type emacsmirror :pkgname "smart-tab" :required ((("easy-mmode" easy-mmode))))

@@ -1,0 +1,2 @@
+
+(:name psvn :description "Subversion interface for emacs" :type emacsmirror :pkgname "psvn" :required ((("cl" cl) ("diff-mode" diff-mode) ("dired" dired) ("easymenu" easymenu) ("ediff" ediff-util ediff-wind) ("elp" elp) ("emacs-core" overlay pp) ("log-edit" log-edit) ("vc" vc-hooks) (nil cl-macs)) (("gnus" mailcap))))

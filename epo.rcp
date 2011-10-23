@@ -1,0 +1,2 @@
+
+(:name epo :description nil :type emacsmirror :pkgname "epo" :required ((("yatex" yahtml))) :depends (yatex))

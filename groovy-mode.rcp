@@ -1,0 +1,2 @@
+
+(:name groovy-mode :description "Groovy mode derived mode" :type emacsmirror :pkgname "groovy-mode" :required ((("cc-mode" cc-mode) ("comint" comint) ("compile" compile) ("emacs-core" find-cmd))) :depends (cc-mode))

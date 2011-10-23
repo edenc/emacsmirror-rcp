@@ -1,0 +1,2 @@
+
+(:name tehom-psgml-fold-by-key :description "Fold/unfold XML according to keywords" :type emacsmirror :pkgname "tehom-psgml-fold-by-key" :required ((("arrange" arrange) ("cl" cl) ("psgml" psgml) ("tehom-psgml" tehom-psgml))) :depends (psgml))

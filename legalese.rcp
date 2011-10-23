@@ -1,0 +1,2 @@
+
+(:name legalese :description "Add legalese to your program files" :type emacsmirror :pkgname "legalese" :required ((("finder" finder))))

@@ -1,0 +1,2 @@
+
+(:name elscreen-mew :description nil :type emacsmirror :pkgname "elscreen-mew" :required ((("elscreen" elscreen))) :depends (elscreen))

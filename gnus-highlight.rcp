@@ -1,0 +1,2 @@
+
+(:name gnus-highlight :description "Easy highlighting of summary and article headers" :type emacsmirror :pkgname "gnus-highlight" :required ((("gnus" gnus-art))) :depends (gnus))
