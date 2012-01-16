@@ -1,2 +1,6 @@
-
-(:name erc :description "An Emacs Internet Relay Chat client" :type emacsmirror :pkgname "erc" :required ((("apel" poe) ("bbdb" bbdb bbdb-com bbdb-gui bbdb-hooks) ("cedet" dframe speedbar) ("chess" chess chess-display chess-network) ("cl" cl) ("comint" comint) ("easymenu" easymenu) ("emacs-core" font-lock overlay pp sort) ("emacspeak" emacspeak) ("flyspell" flyspell) ("gnus" format-spec time-date tls) ("hippie-exp" hippie-exp) ("ibuffer" ibuf-ext ibuffer) ("imenu" imenu) ("iswitchb" iswitchb) ("mail-extr" mail-extr) ("pcomplete" pcomplete) ("ring" ring) ("thingatpt" thingatpt) ("twittering-mode" ssl) ("viper" viper) ("widget" wid-edit) (nil window))) :depends (twittering-mode gnus emacspeak chess cedet bbdb apel))
+(:name erc
+       :description "An Emacs Internet Relay Chat client"
+       :type git
+       :url "https://github.com/edenc/erc.git"
+       :build `(,(concat "make VMDIR= EMACS=" el-get-emacs))
+       :features erc)

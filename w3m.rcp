@@ -1,2 +1,2 @@
 
-(:name w3m :description "An Emacs interface to w3m" :type emacsmirror :pkgname "w3m" :required ((("apel" mcharset path-util pccl pces pcustom poe poem static) ("bbdb" bbdb) ("browse-url" browse-url) ("cl" cl) ("easymenu" easymenu) ("emacs-core" bytecomp ccl) ("flim" eword-encode mime mime-parse std11) ("gnus" gnus-bcklg gnus-sum nnheader nnmail nnoo parse-time) ("lsdb" lsdb) ("mew" mew) ("rfc2368" rfc2368) ("riece" luna) ("sendmail" sendmail) ("timezone" timezone) ("w3" font) ("widget" wid-edit) ("xml" xml)) (("image-mode" image-mode))) :depends (w3 mew lsdb gnus flim bbdb apel))
+(:name w3m :description "An Emacs interface to w3m" :type emacsmirror :pkgname "w3m")

@@ -1,2 +1,11 @@
+(:name bbdb
+       :website "http://bbdb.sourceforge.net/"
+       :description "The Insidious Big Brother Database (BBDB) is a contact management utility."
+       :type git
+       :url "https://github.com/edenc/bbdb.git"
+       :load-path ("./lisp")
+       :build `(("autoconf" "-f") ("./configure" ,(concat "--with-emacs=" el-get-emacs) ("make" "VMDIR=" ,(concat "EMACS=" el-get-emacs) "-C" "lisp" "bbdb" "autoloadsc")))
+       :features bbdb
+       :autoloads nil
+       :post-init (lambda () (bbdb-initialize)))
 
-(:name bbdb :description nil :type emacsmirror :pkgname "bbdb" :required ((("advice" advice) ("ange-ftp" ange-ftp) ("browse-url" browse-url) ("calendar" calendar diary-lib) ("cl" cl) ("custom" custom) ("efs" efs) ("electric" electric) ("emacs-core" faces overlay) ("flim" mel) ("gnus" gnus gnus-art gnus-sum gnus-win mail-parse message) ("gnuserv" gnuserv gnuserv-compat) ("info" info) ("itimer" itimer) ("mail-extr" mail-extr) ("mail-utils" mail-utils) ("mailcrypt" mailcrypt) ("mailheader" mailheader) ("mh-e" mh-comp mh-e) ("reporter" reporter) ("reportmail" reportmail) ("rfc822" rfc822) ("rmail" rmail) ("supercite" supercite) ("timezone" timezone) ("url" url) ("vm" vm vm-folder vm-macro vm-message vm-mime vm-misc vm-motion vm-summary vm-undo vm-vars vm-version) (nil dates))) :depends (vm reportmail mailcrypt itimer gnus flim efs))
