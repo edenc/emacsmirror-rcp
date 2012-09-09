@@ -1,0 +1,6 @@
+(:name tumblesocks
+       :website "https://github.com/gcr/tumblesocks"
+       :description "Tumblesocks is an Emacs tumblr client. With it, you can write posts, check your dashboard, and view blogs and notes."
+       :type git
+       :url "https://github.com/gcr/tumblesocks.git"
+       :depends (htmlize oauth markdown-mode))
