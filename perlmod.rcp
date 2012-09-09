@@ -1,0 +1,5 @@
+(:name perlmod
+       :description "Find source files for perl modules and open them in emacs"
+       :type git
+       :url "https://github.com/rafl/emacs-perlmod.git"
+       :pkgname "perlmod")
